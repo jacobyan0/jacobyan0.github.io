@@ -16,9 +16,12 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html
-  - {file: "projects.md"}
+  - {file: "index.html}
   - {file: "Yan_CV.pdf", title: "CV"}
+  - {file: "Publications.md"}
+  - {file: "Projects.md"}
+  - {file: "Teaching.md"}
+  - {title: "SERMOS Lab", url: "https://faculty.eng.ufl.edu/sermos-lab/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:xjacobyan@gmail.com"}
