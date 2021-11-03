@@ -5,13 +5,13 @@ title: "Publications"
 
 ## Peer-reviewd Journal Articles
 
-**Yan, X.**, Yang, W., Zhang, X., Xu, Y., Bejleri, I., Zhao, X. (2021). A spatiotemporal analysis of e-scooters’ relationships with transit and station-based bikesharing. *Transportation Research Part D: Transport and Environment*. 12, 103088. https://doi.org/10.1016/j.trd.2021.103088
+**Yan, X.**, Yang, W., Zhang, X., Xu, Y., Bejleri, I., Zhao, X. (2021). A spatiotemporal analysis of e-scooters’ relationships with transit and station-based bikesharing [Download Preprint](https://www.researchgate.net/profile/Xilei-Zhao-2/publication/355383039_A_spatiotemporal_analysis_of_e-scooters'_relationships_with_transit_and_station-based_bikeshare/links/616e022c25467d2f0059dea5/A-spatiotemporal-analysis-of-e-scooters-relationships-with-transit-and-station-based-bikeshare.pdf?_sg%5B0%5D=4Zs5-c89BU7Y_QcWTMI9zVL7ECJumT-6FoSZayrad4pgZilKrFF76N5BXjHK2-HVNC7JfWN_OFa62-m3Vqmf3w.ZXIk9I_lB8gJv5NscKX7vYnVTC9SI2xatqxI42ifqGmZv1ltRF6qyOLK9XCGGUuxrIUGEp1x5RS0lT4XIoxQLw.UXbNTHW_YZ7qiLxDiPdelD1wFG4pIGxA_9j7C0MzE0G2w5q46zRV6apfs065iTGa0rC8A1xTw5B7lvfEqgHtsw&_sg%5B1%5D=YueI9bhmx7zZiVD9Z7em9Wcf2imdz4yrV2O6Edx4nen6GSyiT5GPulhx8dDWKx2VH-Nq0JovtFrYuUJ1UFNowiyb2AWIC1O39I68C3glwL25.ZXIk9I_lB8gJv5NscKX7vYnVTC9SI2xatqxI42ifqGmZv1ltRF6qyOLK9XCGGUuxrIUGEp1x5RS0lT4XIoxQLw.UXbNTHW_YZ7qiLxDiPdelD1wFG4pIGxA_9j7C0MzE0G2w5q46zRV6apfs065iTGa0rC8A1xTw5B7lvfEqgHtsw&_iepl=). *Transportation Research Part D: Transport and Environment*. 12, 103088. https://doi.org/10.1016/j.trd.2021.103088
 
 **Yan, X.**, Bejleri, I., Zhai, L. (forthcoming). A spatiotemporal analysis of transit accessibility to low-wage jobs in Miami-Dade County. *Journal of Transport Geography}.
 
 Wang, X., **Yan, X.**, Zhao, X., Cao, Z. (2022). Identifying latent shared mobility preference segments in low-resourced communities: Ridehailing, fixed-route bus, and mobility-on-demand transit. *Travel Behaviour and Society*, 26, 134-163. https://doi.org/10.1016/j.tbs.2021.09.011
 
-Chen, S., \textbf{Yan}, X., Pan, H., Deal, B. (2021). Using big data for last-mile performance evaluation: An accessibility-based approach. *Travel Behaviour and Society*, 25, 153-163. https://doi.org/10.1016/j.tbs.2021.06.003
+Chen, S., **Yan, X.**, Pan, H., Deal, B. (2021). Using big data for last-mile performance evaluation: An accessibility-based approach. *Travel Behaviour and Society*, 25, 153-163. https://doi.org/10.1016/j.tbs.2021.06.003
 
 Steiner, R., Bejleri, I., Bai, X., Han, M., \textbf{Yan, X}. (2021). Partnerships between Agencies and Transportation Network Companies for Transportation-Disadvantaged Populations: Opportunities and Challenges. *Transportation Research Record: Journal of the Transportation Research Board*. https://doi.org/10.1177/03611981211032629
 
