@@ -4,7 +4,7 @@ title: "Teaching"
 ---
 
 > &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;*Educating the mind without educating the heart 
-> is no education at all.*           --- Aristotle
+> is no education at all.* &ensp;&ensp;&ensp;&ensp;&ensp;          --- Aristotle
 
 ### Instructor
 **CGN 4905/6905 Applied Data Science in Civil and Environmental Engineering**
