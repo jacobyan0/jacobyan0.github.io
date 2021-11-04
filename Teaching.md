@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ""
+title: "Teaching"
 ---
 
 > *Educating the mind without educating the heart 
