@@ -6,10 +6,11 @@ categories: media
 ---
 
 
+## Machine learing & AI
+
 ## Spatiotemporal analysis of big data
 
 
-## Machine learing & AI
 ## Public transit and innovative shared mobility
 
 ## 

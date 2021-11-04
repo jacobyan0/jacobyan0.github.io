@@ -6,7 +6,6 @@ title: "Teaching"
 > &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; *Educating the mind without educating the heart 
 > is no education at all.* &ensp;&ensp;&ensp;&ensp;&ensp;          --- Aristotle
 
-&nbsp;
 
 ## Instructor
 
