@@ -6,7 +6,7 @@ categories: Machine learning (AI) Applications in Transportation
 ---
 
 
-<img align="left" width="300" height="300" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/TNCTripFlow.png" style="vertical-align:middle;margin:15px 15px"> As ridesourcing continues to grow in popularity, being able to accurately predict the demand for it is essential for effective land-use and transportation planning and policymaking. In this research project, we show that using random forest, a machine learning model that can automatically capture nonlinear relationships and interactive effections, can significantly improve predictive accuracy compared to the traditional statistical model.
+<img align="left" width="300" height="300" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/TNCTripFlow.png" style="vertical-align:middle;margin:15px 15px"> As ridesourcing continues to grow in popularity, being able to accurately predict the demand for it is essential for effective land-use and transportation planning and policymaking. In this research project, we show that <ins>using **random forest**, a machine learning model that can automatically capture nonlinear relationships and interactive effections, can significantly improve predictive accuracy<\ins> compared to the traditional statistical model.
 
 *Key words: random forest, machine learning, travel demand prediction*
 
