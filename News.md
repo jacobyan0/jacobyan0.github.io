@@ -22,16 +22,16 @@ title: "News"
 
 `02-03` My solo-authored paper titled "Toward Accessibility-Based Planning: Addressing the Myth of Travel Cost Savings" was published in *Journal of the American Planning Association*.
 
-## 2020
+### 2020
 `05-05` I received the Distinguished [Dissertation](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/153376/jacobyan_1.pdf?sequence=1&isAllowed=y) Award in Urban and Regional Planning award from the University of Michigan.
 
 `02-12` My first solo-authored paper titled "Evaluating Household Residential Preferences for Walkability and Accessibility across Three U.S. Regions" was published in *Transportation Research Part D: Transport and Environment*.
 
-## 2019
+### 2019
 `09-20` I started a Postdoc Research Associate position in Urban and Regional Planning at the University of Florida.
 
 `09-10` I submitted my dissertation to the Rackham Graduate School at the University of Michigan and completed my PhD studies.
 
-## 2018
+### 2018
 
 `02-19` My master's capstone project titled "[*Stabilizing MorningSide*](https://taubmancollege.umich.edu/urbanplanning/students/student-work/master-urban-planning/stabilizing-morningside)" won the ACIP Student Project Award from the American Planning Association.
