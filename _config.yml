@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Publications.md"}
   - {file: "Projects.md"}
   - {file: "Teaching.md"}
+  - {file: "Media.md"}
   - {file: "News.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
