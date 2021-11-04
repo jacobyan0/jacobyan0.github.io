@@ -9,4 +9,12 @@ I am a Research Assistant Professor in the Engineering School of Sustainable Inf
 
 
 
-## Upcoming news
+## Research interests
+
+* Machine learning and AI
+* Spatial big data
+* Public transit and shared mobility
+* Spatial accessibility
+* Transport equity
+* Travel behavior
+* Transportation and community resilience
