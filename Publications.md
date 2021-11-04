@@ -3,6 +3,22 @@ layout: page
 title: "Publications"
 ---
 
+
+## Work in process
+
+Zhao, X., Xu, Y., Lovreglio, R., Kuligowski, E., Nilsson, D., Cova, T., Wu, A., **Yan, X.**, Cao, Z. Estimating Wildfire Evacuation Decision and Departure Timing Using Large-Scale GPS Data. [[Download Preprint](https://www.researchgate.net/profile/Ruggiero-Lovreglio/publication/354645591_Estimating_Wildfire_Evacuation_Decision_and_Departure_Timing_Using_Large-Scale_GPS_Data/links/614407888a9a2126664dd0b6/Estimating-Wildfire-Evacuation-Decision-and-Departure-Timing-Using-Large-Scale-GPS-Data.pdf?_sg%5B0%5D=jJPb-ngUIPmN-6dKazuCO9J7bGtXFmeAEEdIIvy4WAQjdPil2vCoO7P-ppPAsqxFBxzazV1NN3cZsXlK-fRbvA.U4FYUParxUG_I5MQea6pltKQbhfcWTcWNu9tuiBAYkw-fz4RPuGvdjEiRXlkNursnUguuW6ZlZgbkQXBwemkrA.uMaSOeOf6b4spbahkZi-EJDwIchD99hRDQrQJmy3KRGLNZuC8p2KRge8M-1RYaGnM9HhD8oRGn-W0ALgz0lR5Q&_sg%5B1%5D=aqP9gXkZFqIQsgnGYxdlxrlUQPfnsxeRLtDnp34WIG6aidENm3S0YJfNCRgmUwEMzOrl1Zy-d9cehw54xwDEsGkbDSyBMGwEtyi0S6vj-abO.U4FYUParxUG_I5MQea6pltKQbhfcWTcWNu9tuiBAYkw-fz4RPuGvdjEiRXlkNursnUguuW6ZlZgbkQXBwemkrA.uMaSOeOf6b4spbahkZi-EJDwIchD99hRDQrQJmy3KRGLNZuC8p2KRge8M-1RYaGnM9HhD8oRGn-W0ALgz0lR5Q&_iepl=)]. (Under Review).
+
+**Yan, X.**, Zhao, X., Broaddus, A., Johnson, J., Srinivasan, S. Exploring the potential of shared e-scooters as a last-mile complement to public transit. [[Download Preprint](https://github.com/jacobyan0/jacobyan0.github.io/raw/master/ArticlesPreprints/Scooter_Last_Mile_Transit.pdf)]. (Under review).
+
+Zhao, X., Wang X., **Yan, X.**, Cao, Z. Assessing preference heterogeneity for mobility-on-demand transit service in low-income communities: A latent segment based decision tree method. [[Download Preprint](https://www.researchgate.net/publication/349002219_Assessing_Preference_Heterogeneity_for_Mobility-on-Demand_Transit_Service_in_Low-Income_Communities_A_Latent_Segmentation_Based_Decision_Tree_Method/fulltext/601abf09a6fdcc37a8ff4b52/Assessing-Preference-Heterogeneity-for-Mobility-on-Demand-Transit-Service-in-Low-Income-Communities-A-Latent-Segmentation-Based-Decision-Tree-Method.pdf?_sg%5B0%5D=8D75_kLH8HVIKiSQuFSwHeLLjoQTHqIScwQ9undjRTj2MYxD8f2GNfWXrsJv6lMVidYt0WhXzqyihB0bwJ5x4w.JLuhjVANPxYeGhb0Dtt2E_9VqnKDTSO3ftTLtlDk4WNpFb65RXvh1fjSnHzjTOU_5hLp_XqWWXI1jJmGtffBDg.QUzxNyqssFnK2PHOY9sGyChZOkwbWwwv_IagtcVwQ2U59czKqJHge6fbFJIJ2QE4uLVDbEv2BIIo_JnWnZUOcw&_sg%5B1%5D=J0612UDd8PVzvNraMCotNJORVpjyFCd14ONvV_lSe_iZxC3ggVrLasik8mwIO6bJO5wQUqGHYhcKrXsweetjPNRE8_s3H4ooi_Zff2MV0pZ9.JLuhjVANPxYeGhb0Dtt2E_9VqnKDTSO3ftTLtlDk4WNpFb65RXvh1fjSnHzjTOU_5hLp_XqWWXI1jJmGtffBDg.QUzxNyqssFnK2PHOY9sGyChZOkwbWwwv_IagtcVwQ2U59czKqJHge6fbFJIJ2QE4uLVDbEv2BIIo_JnWnZUOcw&_sg%5B2%5D=r9kQqRq2VQpmSPix6UzWPk-OBo3xPifasCEKkUlNIq-HuUxJxoxMVkxNRSi9dysdBpf9DI7eVXRm0i8.LCcevgZam0aPIQwSN61Hs6tx7qlvhvs1g2lU_V57Qte85Qa2UZuIzzYAaktin-JVTs4VIFiqCsZGyQw3JrtEdg&_iepl=)]. (Under Review).
+
+Su, L., **Yan, X.**, Zhao, X. Micromobility equity: A comparison of shared e-scooters and station-based bikeshare in Washington DC. [[Download Preprint](https://github.com/jacobyan0/jacobyan0.github.io/raw/master/ArticlesPreprints/Micromobility%20equity_e-scooters%20vs%20bikeshare.pdf)]. (Revised and resubmitted).
+
+Xu, N., Yang, K., Lovriglio, R., **Yan, X.**, Sussman, A., Liu, R., \& Zhao, X. Assessing household evacuation decision-making in Hurricane Irma. [[Download Preprint]()]. (Revised and resubmitted).
+
+Xu, Y., **Yan, X.**, Sisiopiku, V., Merlin, L., Xing, F., Zhao, X. Micromobility trip origin and destination inference using General Bikeshare Feed Specification (GBFS) data. [[Download Preprint](https://arxiv.org/pdf/2010.12006.pdf)]. (Revised and resubmitted).
+
+
 ## Peer-reviewd Journal Articles
 
 **Yan, X.**, Yang, W., Zhang, X., Xu, Y., Bejleri, I., Zhao, X. (2021). A spatiotemporal analysis of e-scooters’ relationships with transit and station-based bikesharing. [[Download Preprint](https://www.researchgate.net/profile/Xilei-Zhao-2/publication/355383039_A_spatiotemporal_analysis_of_e-scooters'_relationships_with_transit_and_station-based_bikeshare/links/616e022c25467d2f0059dea5/A-spatiotemporal-analysis-of-e-scooters-relationships-with-transit-and-station-based-bikeshare.pdf?_sg%5B0%5D=_XqK5sdms5R3ywizuu0YecPO_7-W_iejXqKtKvWji604FbWI18sTD7Ao3MBw9CFpQGyK69F2bcwfqxQuH3AU9w.EI98qaQlXYcsWvPFxBgyt3fZV6uzfkQSQLQk_E25dOzMhFBGHQuTQOdxlAWVSc_RwFThb-UaglzqXi9DAZiCtQ.57QuGZSh3AKI7nwLt0_LPUjgKQ-l74cA2tG4ZFFFKFPBFvQ5r11tTe62U32cKDNlo5icTGp1feQQvw0saU2TZQ&_sg%5B1%5D=Ib0wDK9zjCh0ci0h2Y7DeLwnllgE4d02KG4LrKSi9GPZjC-MsoTPGOUYVB4tqWuSQstTJry3pQnublFLabYxBK58zQImJ0Le_-uofHpfLwvZ.EI98qaQlXYcsWvPFxBgyt3fZV6uzfkQSQLQk_E25dOzMhFBGHQuTQOdxlAWVSc_RwFThb-UaglzqXi9DAZiCtQ.57QuGZSh3AKI7nwLt0_LPUjgKQ-l74cA2tG4ZFFFKFPBFvQ5r11tTe62U32cKDNlo5icTGp1feQQvw0saU2TZQ&_iepl=)]. *Transportation Research Part D: Transport and Environment*. 12, 103088. https://doi.org/10.1016/j.trd.2021.103088
@@ -38,3 +54,11 @@ Deng, L., **Yan, X.**, Chen, J. (2019). Housing affordability, subsidized lendin
 Goodspeed, R., **Yan, X.**, Hardy, J., Vydiswaran, V.G.V., Berrocal, V.J., Clarke, P., R., Gomez-Lopez, I.N., Romero, D., Veinot, T.C. (2018). Comparing the data quality of GPS devices and smartphones for assessing relationships between place, mobility, and health: A field study. *Journal of Medical Internet Research mHealth and uHealth*, 6 (8), e168. https://doi.org/10.2196/mhealth.9771
 
 Hardy, J., Veinot, T. C., **Yan, X.**, Berrocal, V. J., Clarke, P., Goodspeed, R., Gomez-Lopez, I.N., Romero, D., Vydiswaran, V. G. V. (2018). User acceptance of location-tracking technologies in health research: implications for study design and data quality. *Journal of Biomedical Informatics*, 79, 7-19. https://doi.org/10.1016/j.jbi.2018.01.003
+
+## Selected Other Significant Publications
+
+Zhao, X., Zhou, Z., **Yan, X.**, \& Van Hentenryck, P. (2020). Distilling black-box travel mode choice model for behavioral interpretation. [[Download Preprint](https://arxiv.org/pdf/1910.13930.pdf)]. *Proceedings of Transportation Research Board 99th Annual Meeting*.
+
+Xu, X., **Yan, X.**, and Dillahunt, T. (2019). Reaching hard-to-reach populations: an analysis of survey recruitment methods. [[Download Preprint](https://dl.acm.org/doi/pdf/10.1145/3311957.3359447?casa_token=rPQn4j5cIt0AAAAA:2G5pw6UJ6gnGeSbQjMqoR8I2n1zhh3y2lVCOBDmUy7UpPOpM07sm4xFwe2cDmUJbnAi6EHht-Ao)]. In Conference Companion Publication of the *2019 Conference on Computer Supported Cooperative Work and Social Computing* (pp. 428-432). https://doi.org/10.1145/3311957.3359447
+
+Bejleri I., Zhang, Y., Zhai, L., and **Yan, X.**. (2020). Timely, dynamic, and spatially accurate roadway incident information to support real-Time management of traffic operations. [[Download Preprint](https://fdotwww.blob.core.windows.net/sitefinity/docs/default-source/research/reports/fdot-bdv31-977-111-rpt.pdf)]. *Florida Department of Transportation*, Report No. BDV31-977-111.
