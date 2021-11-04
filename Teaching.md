@@ -6,6 +6,8 @@ title: "Teaching"
 > &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; *Educating the mind without educating the heart 
 > is no education at all.* &ensp;&ensp;&ensp;&ensp;&ensp;          --- Aristotle
 
+&nbsp;
+
 ## Instructor
 
 **CGN 4905/6905 Applied Data Science in Civil and Environmental Engineering**
@@ -37,7 +39,7 @@ Evaluation: 4.73/5
 
 Lecture title "Spatial big data applications in travel safety research and practice"
 
-&nbsp;
+
 
 **Transportation Data Analytics**
 
@@ -45,7 +47,7 @@ Lecture title "Spatial big data applications in travel safety research and pract
 
 Lecture title "Spatial data analysis and mapping with R"
 
-&nbsp;
+
 
 **Colloquium**
 
@@ -56,6 +58,7 @@ Lecture title "Designing and conducting a dissertation research project"
 
 &nbsp;
 &nbsp;
+
 
 ## Teacher
 
