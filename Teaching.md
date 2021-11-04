@@ -3,7 +3,7 @@ layout: page
 title: "Teaching"
 ---
 
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Educating the mind without educating the heart 
+> nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Educating the mind without educating the heart 
 > is no education at all.*           --- Aristotle
 
 ### Instructor
