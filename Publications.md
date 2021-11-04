@@ -19,6 +19,7 @@ Xu, N., Yang, K., Lovriglio, R., **Yan, X.**, Sussman, A., Liu, R., \& Zhao, X. 
 Xu, Y., **Yan, X.**, Sisiopiku, V., Merlin, L., Xing, F., Zhao, X. Micromobility trip origin and destination inference using General Bikeshare Feed Specification (GBFS) data. [[Download Preprint](https://arxiv.org/pdf/2010.12006.pdf)]. (Revised and resubmitted).
 
 
+
 ## Peer-reviewd Journal Articles
 
 **Yan, X.**, Yang, W., Zhang, X., Xu, Y., Bejleri, I., Zhao, X. (2021). A spatiotemporal analysis of e-scooters’ relationships with transit and station-based bikesharing. [[Download Preprint](https://www.researchgate.net/profile/Xilei-Zhao-2/publication/355383039_A_spatiotemporal_analysis_of_e-scooters'_relationships_with_transit_and_station-based_bikeshare/links/616e022c25467d2f0059dea5/A-spatiotemporal-analysis-of-e-scooters-relationships-with-transit-and-station-based-bikeshare.pdf?_sg%5B0%5D=_XqK5sdms5R3ywizuu0YecPO_7-W_iejXqKtKvWji604FbWI18sTD7Ao3MBw9CFpQGyK69F2bcwfqxQuH3AU9w.EI98qaQlXYcsWvPFxBgyt3fZV6uzfkQSQLQk_E25dOzMhFBGHQuTQOdxlAWVSc_RwFThb-UaglzqXi9DAZiCtQ.57QuGZSh3AKI7nwLt0_LPUjgKQ-l74cA2tG4ZFFFKFPBFvQ5r11tTe62U32cKDNlo5icTGp1feQQvw0saU2TZQ&_sg%5B1%5D=Ib0wDK9zjCh0ci0h2Y7DeLwnllgE4d02KG4LrKSi9GPZjC-MsoTPGOUYVB4tqWuSQstTJry3pQnublFLabYxBK58zQImJ0Le_-uofHpfLwvZ.EI98qaQlXYcsWvPFxBgyt3fZV6uzfkQSQLQk_E25dOzMhFBGHQuTQOdxlAWVSc_RwFThb-UaglzqXi9DAZiCtQ.57QuGZSh3AKI7nwLt0_LPUjgKQ-l74cA2tG4ZFFFKFPBFvQ5r11tTe62U32cKDNlo5icTGp1feQQvw0saU2TZQ&_iepl=)]. *Transportation Research Part D: Transport and Environment*. 12, 103088. https://doi.org/10.1016/j.trd.2021.103088
@@ -55,10 +56,11 @@ Goodspeed, R., **Yan, X.**, Hardy, J., Vydiswaran, V.G.V., Berrocal, V.J., Clark
 
 Hardy, J., Veinot, T. C., **Yan, X.**, Berrocal, V. J., Clarke, P., Goodspeed, R., Gomez-Lopez, I.N., Romero, D., Vydiswaran, V. G. V. (2018). User acceptance of location-tracking technologies in health research: implications for study design and data quality. *Journal of Biomedical Informatics*, 79, 7-19. https://doi.org/10.1016/j.jbi.2018.01.003
 
+
 ## Selected Other Significant Publications
 
 Zhao, X., Zhou, Z., **Yan, X.**, \& Van Hentenryck, P. (2020). Distilling black-box travel mode choice model for behavioral interpretation. [[Download Preprint](https://arxiv.org/pdf/1910.13930.pdf)]. *Proceedings of Transportation Research Board 99th Annual Meeting*.
 
-Xu, X., **Yan, X.**, and Dillahunt, T. (2019). Reaching hard-to-reach populations: an analysis of survey recruitment methods. [[Download Preprint](https://dl.acm.org/doi/pdf/10.1145/3311957.3359447?casa_token=rPQn4j5cIt0AAAAA:2G5pw6UJ6gnGeSbQjMqoR8I2n1zhh3y2lVCOBDmUy7UpPOpM07sm4xFwe2cDmUJbnAi6EHht-Ao)]. In Conference Companion Publication of the *2019 Conference on Computer Supported Cooperative Work and Social Computing* (pp. 428-432). https://doi.org/10.1145/3311957.3359447
-
 Bejleri I., Zhang, Y., Zhai, L., and **Yan, X.**. (2020). Timely, dynamic, and spatially accurate roadway incident information to support real-Time management of traffic operations. [[Download Preprint](https://fdotwww.blob.core.windows.net/sitefinity/docs/default-source/research/reports/fdot-bdv31-977-111-rpt.pdf)]. *Florida Department of Transportation*, Report No. BDV31-977-111.
+
+Xu, X., **Yan, X.**, and Dillahunt, T. (2019). Reaching hard-to-reach populations: an analysis of survey recruitment methods. [[Download Preprint](https://dl.acm.org/doi/pdf/10.1145/3311957.3359447?casa_token=rPQn4j5cIt0AAAAA:2G5pw6UJ6gnGeSbQjMqoR8I2n1zhh3y2lVCOBDmUy7UpPOpM07sm4xFwe2cDmUJbnAi6EHht-Ao)]. In Conference Companion Publication of the *2019 Conference on Computer Supported Cooperative Work and Social Computing* (pp. 428-432). https://doi.org/10.1145/3311957.3359447
