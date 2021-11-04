@@ -15,12 +15,8 @@ title: "Teaching"
 Teach students the intricacies of data science techniques and their applications to real-world problems
 Classroom is made of 3 undergrads, 4 master's students, and 5 PhD students
 
-**Excel Workshop One: Bascis** & **Excel Workshop Two: Statistical Analysis**
-
-*Fall 2015 & Fall 2016, Taubman College of Architecture and Urban Planning, University of Michigan*
-
-Taught these three-hour workshops for two years
-
+&nbsp;
+&nbsp;
 
 ## Graduate Student Instructor 
 
@@ -30,6 +26,8 @@ Worked as a teaching assistant to Prof. Margi Dewar, who experiment with a flipp
 
 Evaluation: 4.73/5
 
+&nbsp;
+&nbsp;
 
 ## Guest lecturer
 
@@ -39,11 +37,15 @@ Evaluation: 4.73/5
 
 Lecture title "Spatial big data applications in travel safety research and practice"
 
+&nbsp;
+
 **Transportation Data Analytics**
 
 *Fall 2020, Engineering School of Sustainable Infrastructure & Environment, University of Florida*
 
 Lecture title "Spatial data analysis and mapping with R"
+
+&nbsp;
 
 **Colloquium**
 
@@ -51,6 +53,9 @@ Lecture title "Spatial data analysis and mapping with R"
 
 Lecture title "Designing and conducting a dissertation research project"
 
+
+&nbsp;
+&nbsp;
 
 ## Teacher
 
