@@ -8,7 +8,7 @@ I am a Research Assistant Professor in the Engineering School of Sustainable Inf
 
 &nbsp;
 
-Click [here](https://raw.githubusercontent.com/jacobyan0/jacobyan0.github.io/master/Yan_CV.pdf) to download a copy of my CV.
+[View](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jacobyan0/jacobyan0.github.io/master/Yan_CV.pdf) or [download](https://raw.githubusercontent.com/jacobyan0/jacobyan0.github.io/master/Yan_CV.pdf) CV.
 
 
 ## Research interests
