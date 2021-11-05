@@ -9,7 +9,7 @@ layout: page
 
 * Publications: "Publications.md"
 
-* Project Portfolio: the markdown files in the "posts" folder. To turn off "read more", go to the includes folder, find home.html, delete <div class="more"><a href="{{ xxx}}">read more</a></div> line
+* Project Portfolio: the markdown files in the "posts" folder. To turn off "read more", go to the includes folder, find home.html, delete <div ...read more</a></div> line
 
 * Teaching: "teaching.md"
 
