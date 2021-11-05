@@ -13,7 +13,8 @@ layout: page
 
     * detailed Jekyllrb guide on posts: https://jekyllrb.com/docs/posts/
     * Make good use of excerpt_separator
-       ![excerpt_separator](https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Excerpt_separator.png)
+      
+    ![excerpt_separator](https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Excerpt_separator.png)
 
 * Teaching: "teaching.md"
 
