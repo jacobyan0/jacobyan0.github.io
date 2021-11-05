@@ -5,7 +5,6 @@ layout: page
 ---
 
 
-* Layout of all pages should be "page" except for posts.
 * About me:"index.md"
 
 * Publications: "Publications.md"
@@ -22,3 +21,7 @@ layout: page
 * Media: "Media.md"
 
 * News: "News.md"
+
+* Note: Layout of all pages should be "page" except for posts.
+
+* Use Jekyllrb server for testing of web pages
