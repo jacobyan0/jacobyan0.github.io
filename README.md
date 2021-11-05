@@ -12,15 +12,7 @@ layout: page
 * Project Portfolio: the markdown files in the "posts" folder. To turn off "read more", go to the includes folder, find home.html, delete the "<div ...read more..." line
 
     * detailed Jekyllrb guide on posts: https://jekyllrb.com/docs/posts/
-    * Make good use of excerpt_separator
-         > ---
-         > excerpt_separator: <!--more-->
-         > ---
-         > Excerpt with multiple paragraphs    
-         > Here's another paragraph in the excerpt.
-         > <!--more-->
-         > Out-of-excerpt
-         
+    * Make good use of [excerpt_separator](https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Excerpt_separator.png)
 
 * Teaching: "teaching.md"
 
