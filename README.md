@@ -5,6 +5,7 @@ layout: page
 ---
 
 
+* Layout of all pages should be "page" except for posts.
 * About me:"index.md"
 
 * Publications: "Publications.md"
