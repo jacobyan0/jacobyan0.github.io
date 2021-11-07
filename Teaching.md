@@ -25,7 +25,9 @@ Classroom is made of 3 undergrads, 4 master's students, and 5 PhD students
 
 Worked as a teaching assistant to Prof. Margi Dewar, who experiment with a flipped classroom model for this course
 
-Evaluation: 4.73/5
+Evaluation [[View](https://github.com/jacobyan0/jacobyan0.github.io/raw/master/OtherFiles/Fall2014_TeachingEvaluationReport_Yan.pdf)]: 4.73/5
+
+"_I cannot thank Jacob enough for all the hard work he put into this course. ...He also clearly explained concepts during office hours. Jacob was also enthusiastic and realistic in his approach to the material. He cut the clutter when we over-thought formulas, and helped us focus on the key pieces of them._" -- A quote from a student.
 
 &nbsp;
 &nbsp;
