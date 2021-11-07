@@ -1,1 +1,15 @@
+---
+layout: default
+permalink: /transitnewmobility/
+---
+
+
+{% include nav.html %}
+
+{% for post in site.categories.transitnewmobility %}
+  <article>
+    {% include meta.html post=post preview=true %}
+    {{ post.excerpt }}
+  </article>
+{% endfor %}
 
