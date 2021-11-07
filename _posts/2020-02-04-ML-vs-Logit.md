@@ -2,7 +2,9 @@
 title:  "Comparing machine learning and logit models in travel mode choice modeling"
 mathjax: true
 layout: post
-categories: Machine learning (AI) Applications in Transportation
+categories: 
+ - AI/Machine Learing & Big Data
+ - Travel Behavior 
 ---
 
 

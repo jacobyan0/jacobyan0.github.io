@@ -2,7 +2,9 @@
 title:  "Predicting ridesourcing demand with machine learning"
 mathjax: true
 layout: post
-categories: Machine learning (AI) Applications in Transportation
+categories: 
+ - Transit & New Mobility
+ - AI/Machine Learning & Big Data
 ---
 
 
