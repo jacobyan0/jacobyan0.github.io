@@ -22,7 +22,7 @@ Classroom is made of 3 undergrads, 4 master's students, and 5 PhD students
 
 ## Graduate Student Instructor 
 
-**Introduction to Statistics for Urban Planning**
+**UP 504 Introduction to Statistics for Urban Planning**
 
 Worked as a teaching assistant to Prof. Margi Dewar, who experiment with a flipped classroom model for this course
 
