@@ -3,8 +3,8 @@ title:  "Predicting ridesourcing demand with machine learning"
 mathjax: true
 layout: post
 categories: 
- - Transit & New Mobility
- - AI/Machine Learning & Big Data
+ - transitnewmobility
+ - aibigdata
 ---
 
 
