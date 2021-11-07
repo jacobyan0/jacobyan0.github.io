@@ -19,10 +19,10 @@
    <br>
    <br> 
    <br>
-   <br>
    
-  
+    
   <div class="description"><h3>Contact</h3></div>
+    
   {%- for item in site.external -%}
     {%- assign node = site.pages | where: "name", item.file | first -%}
     {%- assign url = item.url | default: node.url -%}
