@@ -1,11 +1,18 @@
+---
+layout: default
+permalink: /accessibility/
+---
+
 
 {% include nav.html %}
 
+<article>
+<h2>Accessibility</h2>
+</article>
+  
 {% for post in site.categories.accessibility %}
   <article>
     {% include meta.html post=post preview=true %}
     {{ post.excerpt }}
-    <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
   </article>
 {% endfor %}
-
