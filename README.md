@@ -22,6 +22,8 @@ layout: page
 
 * News: "News.md"
 
-* Note: Layout of all pages should be "page" except for posts.
+* Note1: Layout of all pages should be "page" except for posts
+* Note2: all the content of a layout html is "included" when displayed the web page. So "layout" works more like "out-include" (i.e., content & include stuff in layout) and "includes" works more like "inner-include" (i.e., include stuff in include/xx.html file + other content of the html in development)
+
 
 * Use Jekyllrb server for testing of web pages
