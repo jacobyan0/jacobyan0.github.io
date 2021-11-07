@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="{{ "/assets/css/sidebar.css" | relative_url }}" media="screen and (min-width: 70em)">
 <aside style="display: none">
   
-  <div class="description"><h2>{{ site.description }}</h2></div>
+  <div class="description"><h3>{{ site.description }}</h3></div>
   
   <nav>
   {%- for item in site.navigation -%}
@@ -19,7 +19,7 @@
    <br>
    <br> 
    <br>
-    
+  
   {%- for item in site.external -%}
     {%- assign node = site.pages | where: "name", item.file | first -%}
     {%- assign url = item.url | default: node.url -%}
@@ -32,4 +32,5 @@
   {%- endfor -%}
   </nav>
 
+  <div class="description"> Thanks for visiting! </div>
 </aside>
