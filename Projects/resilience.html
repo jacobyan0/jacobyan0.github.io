@@ -1,1 +1,18 @@
+---
+layout: default
+permalink: /resilience/
+---
 
+
+{% include nav.html %}
+
+<article>
+<h2>Transportation and Community Resilience</h2>
+</article>
+  
+{% for post in site.categories.resilience %}
+  <article>
+    {% include meta.html post=post preview=true %}
+    {{ post.excerpt }}
+  </article>
+{% endfor %}
