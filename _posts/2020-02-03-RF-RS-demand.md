@@ -4,7 +4,7 @@ mathjax: true
 layout: post
 categories: 
  - Transit & New Mobility
- - AI/Machine learning & big data
+ - AI/Machine Learning & Big Data
 ---
 
 
