@@ -35,7 +35,7 @@ Rating [[View course evaluation](https://docs.google.com/viewer?url=https://gith
 
 ## Guest lecturer
 
-**Highway Safety Analysis**
+* **Highway Safety Analysis**
 
 *Fall 2020, Engineering School of Sustainable Infrastructure & Environment, University of Florida*
 
@@ -43,7 +43,7 @@ Lecture title "Spatial big data applications in travel safety research and pract
 
 
 
-**Transportation Data Analytics**
+* **Transportation Data Analytics**
 
 *Fall 2020, Engineering School of Sustainable Infrastructure & Environment, University of Florida*
 
@@ -51,7 +51,7 @@ Lecture title "Spatial data analysis and mapping with R"
 
 
 
-**Colloquium**
+* **Colloquium**
 
 *Fall 2020, Engineering School of Sustainable Infrastructure & Environment, University of Florida*
 
