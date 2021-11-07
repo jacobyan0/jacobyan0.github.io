@@ -3,8 +3,13 @@ layout: default
 permalink: /aibigdata/
 ---
 
-<h1>AI/Machine Learning & Big Data</h1>
 
+{% include nav.html %}
+
+<article>
+<h2>AI/Machine Learning & Big Data</h2>
+</article>
+  
 {% for post in site.categories.aibigdata %}
   <article>
     {% include meta.html post=post preview=true %}
