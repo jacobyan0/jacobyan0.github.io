@@ -1,1 +1,18 @@
+---
+layout: default
+permalink: /equity/
+---
 
+
+{% include nav.html %}
+
+<article>
+<h2>Transport Equity</h2>
+</article>
+  
+{% for post in site.categories.equity %}
+  <article>
+    {% include meta.html post=post preview=true %}
+    {{ post.excerpt }}
+  </article>
+{% endfor %}
