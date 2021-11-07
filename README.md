@@ -29,18 +29,18 @@ layout: page
 * Use Jekyllrb server for testing of web pages
 
 
-[Maybe useful later] Difference between page and post
+### [Maybe useful later] Difference between page and post
 
-A post filename contains the title and the date of the post. An invalid date in the filename causes an error.
+* A post filename contains the title and the date of the post. An invalid date in the filename causes an error.
 
-Posts are comparable objects, which means two posts can be compared. The comparison is made by the post date and the post slugs.
+* Posts are comparable objects, which means two posts can be compared. The comparison is made by the post date and the post slugs.
 
-The generated default relative URL of a post and a page are different (e.g. /2000/01/01/my-post.html and /about.html).
+* The generated default relative URL of a post and a page are different (e.g. /2000/01/01/my-post.html and /about.html).
 
-A page can be placed anywhere but a post can only be placed under _posts folder.
+* A page can be placed anywhere but a post can only be placed under _posts folder.
 
-A post has more data out of the box for use in Liquid templates (title, URL, date, id, categories, next, previous, tags, content).
+* A post has more data out of the box for use in Liquid templates (title, URL, date, id, categories, next, previous, tags, content).
 
-A post has a unique id.
+* A post has a unique id.
 
-A post represents a blog post (so it is used to easily create a blog post). A page represents a website page.
+* A post represents a blog post (so it is used to easily create a blog post). A page represents a website page.
