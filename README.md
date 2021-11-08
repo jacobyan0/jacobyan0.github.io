@@ -51,4 +51,4 @@ layout: page
 
 
 ### Acknowledgment: 
-The website is built on the "constrast" theme forked from https://github.com/niklasbuschmann/contrast
+The website is built on the "contrast" theme forked from https://github.com/niklasbuschmann/contrast
