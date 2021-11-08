@@ -3,7 +3,6 @@ title:  "Understanding micromobility equity with open big data"
 mathjax: true
 layout: post
 categories: 
- - transitnewmobility
  - equity
  - aibigdata
 ---
