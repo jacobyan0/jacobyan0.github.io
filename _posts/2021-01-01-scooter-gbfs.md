@@ -2,9 +2,7 @@
 title:  "Processing the GBFS data to facilitate transportation planning and decision-making"
 mathjax: true
 layout: post
-categories: 
- - aibigdata
- - transitnewmobility
+categories: aibigdata
 ---
 
 In Feburary 2019, I developed a Python program that automatically download the General Bikeshare Feed Specification (GBFS) data for multiple U.S. cities. In this study, we developed algorithms to infer micromobility trip origins and destinations based on the GBFS data.
