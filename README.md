@@ -48,3 +48,7 @@ layout: page
 * A post has a unique id.
 
 * A post represents a blog post (so it is used to easily create a blog post). A page represents a website page.
+
+
+### Acknowledgment: 
+The website is built on the "constrast" theme forked from https://github.com/niklasbuschmann/contrast
