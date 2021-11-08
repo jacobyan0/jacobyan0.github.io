@@ -1,5 +1,5 @@
 ---
-title:  "Predicting ridesourcing demand with machine learning"
+title:  "Modeling ridesplitting adoption rate with machine learning"
 mathjax: true
 layout: post
 categories: 

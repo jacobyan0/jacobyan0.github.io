@@ -1,75 +1,17 @@
 ---
-title:  "Advanced examples"
+title:  "E-scooter, public transit, and bikesharing"
 mathjax: true
 layout: post
-categories: media
+categories: 
+ - transitnewmobility
+ - aibigdata
 ---
 
 
-## Machine learing & AI
+<img align="left" width="550" height="305" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/ScootTransit.jpeg" style="vertical-align:middle;margin:15px 15px"> To address the policy question of how e-scooters interact with existing public mobility options, we conducted a spatiotemporal analysis of e-scooters’ relationships with public transit and station-based bikeshare in Washington DC. Results suggested that the service areas of the three modes largely overlap, and most e-scooter trips could have been made by transit or bikeshare. In addition, we found that e-scooters enhance mobility services for some underserved neighborhoods. Before COVID-19, about 10% of all e-scooter trips were taken to connect with the Metrorail system
 
-## Spatiotemporal analysis of big data
+*Key words: E-scooter, public transit, bikeshare*
 
+* Related publication:
 
-## Public transit and innovative shared mobility
-
-## 
-
-## Travel behavior
-
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
-
-
-## MathJax
-
-You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
-
-[Euler's formula](https://en.wikipedia.org/wiki/Euler%27s_formula) relates the  complex exponential function to the trigonometric functions.
-
-$$ e^{i\theta}=\cos(\theta)+i\sin(\theta) $$
-
-The [Euler-Lagrange](https://en.wikipedia.org/wiki/Lagrangian_mechanics) differential equation is the fundamental equation of calculus of variations.
-
-$$ \frac{\mathrm{d}}{\mathrm{d}t} \left ( \frac{\partial L}{\partial \dot{q}} \right ) = \frac{\partial L}{\partial q} $$
-
-The [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation) describes how the quantum state of a quantum system changes with time.
-
-$$ i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right ] \Psi(\mathbf{r},t) $$
-
-## Code
-
-Embed code by putting `{{ "{% highlight language " }}%}` `{{ "{% endhighlight " }}%}` blocks around it. Adding the parameter `linenos` will show source lines besides the code.
-
-{% highlight c %}
-
-static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocator* requestAlloc)
-{
-    struct Admin* admin = Identity_check((struct Admin*) vAdmin);
-    int64_t enabled = admin->asyncEnabled;
-    Dict d = Dict_CONST(String_CONST("asyncEnabled"), Int_OBJ(enabled), NULL);
-    Admin_sendMessage(&d, txid, admin);
-}
-
-{% endhighlight %}
-
-## Gists
-
-With the `jekyll-gist` plugin, which is preinstalled on Github Pages, you can embed gists simply by using the `gist` command:
-
-<script src="https://gist.github.com/5555251.js?file=gist.md"></script>
-
-## Images
-
-Upload an image to the *assets* folder and embed it with `![title](/assets/name.jpg))`. Keep in mind that the path needs to be adjusted if Jekyll is run inside a subfolder.
-
-A wrapper `div` with the class `large` can be used to increase the width of an image or iframe.
-
-![Flower](https://user-images.githubusercontent.com/4943215/55412447-bcdb6c80-5567-11e9-8d12-b1e35fd5e50c.jpg)
-
-[Flower](https://unsplash.com/photos/iGrsa9rL11o) by Tj Holowaychuk
-
-## Embedded content
-
-You can also embed a lot of stuff, for example from YouTube, using the `embed.html` include.
-
-{% include embed.html url="https://www.youtube.com/embed/_C0A5zX-iqM" %}
+**Yan, X.**, Yang, W., Zhang, X., Xu, Y., Bejleri, I., Zhao, X. (2021). <ins>A spatiotemporal analysis of e-scooters’ relationships with transit and station-based bikesharing</ins>. [[Download Preprint](https://www.researchgate.net/profile/Xilei-Zhao-2/publication/355383039_A_spatiotemporal_analysis_of_e-scooters'_relationships_with_transit_and_station-based_bikeshare/links/616e022c25467d2f0059dea5/A-spatiotemporal-analysis-of-e-scooters-relationships-with-transit-and-station-based-bikeshare.pdf?_sg%5B0%5D=_XqK5sdms5R3ywizuu0YecPO_7-W_iejXqKtKvWji604FbWI18sTD7Ao3MBw9CFpQGyK69F2bcwfqxQuH3AU9w.EI98qaQlXYcsWvPFxBgyt3fZV6uzfkQSQLQk_E25dOzMhFBGHQuTQOdxlAWVSc_RwFThb-UaglzqXi9DAZiCtQ.57QuGZSh3AKI7nwLt0_LPUjgKQ-l74cA2tG4ZFFFKFPBFvQ5r11tTe62U32cKDNlo5icTGp1feQQvw0saU2TZQ&_sg%5B1%5D=Ib0wDK9zjCh0ci0h2Y7DeLwnllgE4d02KG4LrKSi9GPZjC-MsoTPGOUYVB4tqWuSQstTJry3pQnublFLabYxBK58zQImJ0Le_-uofHpfLwvZ.EI98qaQlXYcsWvPFxBgyt3fZV6uzfkQSQLQk_E25dOzMhFBGHQuTQOdxlAWVSc_RwFThb-UaglzqXi9DAZiCtQ.57QuGZSh3AKI7nwLt0_LPUjgKQ-l74cA2tG4ZFFFKFPBFvQ5r11tTe62U32cKDNlo5icTGp1feQQvw0saU2TZQ&_iepl=)]. *Transportation Research Part D: Transport and Environment*. 12, 103088. https://doi.org/10.1016/j.trd.2021.103088
