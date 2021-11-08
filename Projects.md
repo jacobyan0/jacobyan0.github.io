@@ -4,8 +4,8 @@ title: "Project Portfolio"
 ---
  
 <article>
-## [**AI/Machine Learning & Big Data**](https://jacobyan0.github.io/aibigdata)
-
+ <header><h2><a href="https://jacobyan0.github.io/aibigdata">AI/Machine Learning & Big Data</a></h2></header>
+ 
 {% for post in site.categories.aibigdata %}
   <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
 {% endfor %}
@@ -14,7 +14,8 @@ title: "Project Portfolio"
 <br>
 
 <article>
-**[Transit & New Mobility](https://jacobyan0.github.io/transitnewmobility)**
+<header><h2><a href="{{ page.url | relative_url }}">{{ page.title }}</a></h2></header>
+ **[Transit & New Mobility](https://jacobyan0.github.io/transitnewmobility)**
 
 {% for post in site.categories.transitnewmobility %}
   <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
