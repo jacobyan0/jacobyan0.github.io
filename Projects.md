@@ -3,4 +3,6 @@ layout: page
 title: "Project Portfolio"
 ---
 
-{% include aibigdata.html %}
+{% include nav.html %}
+
+### Click on each topic to view related projects.
