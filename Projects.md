@@ -1,7 +1,19 @@
 ---
 layout: default
+title: "Project Portfolio"
 ---
 
-{% include nav.html %}
+<article>
+<nav>
+  <ul>
+    <a href="{{site.baseurl}}/aibigdata/" class="{% if page.url contains 'aibigdata' %}current{% endif %}">AI/Machine Learning & Big Data</a>
+    <a href="{{site.baseurl}}/transitnewmobility/" class="{% if page.url contains 'transitnewmobility' %}current{% endif %}">Transit & New Mobility</a>
+    <a href="{{site.baseurl}}/equity/" class="{% if page.url contains 'equity' %}current{% endif %}">Transport Equity</a>
+    <a href="{{site.baseurl}}/accessibility/" class="{% if page.url contains 'accessibility' %}current{% endif %}">Accessibility</a>
+    <a href="{{site.baseurl}}/travelbehavior/" class="{% if page.url contains 'travelbehavior' %}current{% endif %}">Travel Behavior</a>
+    <!--<a href="{{site.baseurl}}/resilience/" class="{% if page.url contains 'resilience' %}current{% endif %}">Transport Resilience</a>-->
+  </ul>
+</nav>
+   <p tyle="font-size:120%;">Click on each topic to view related projects. </p>
+</article>
 
-Click on each topic to view related projects.
