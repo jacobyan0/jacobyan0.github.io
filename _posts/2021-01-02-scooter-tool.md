@@ -2,8 +2,7 @@
 title:  "Micromobility Analytics and Management Platform (Technology Transfer)"
 mathjax: true
 layout: post
-categories: 
- - aibigdata
+categories: aibigdata
 ---
 
 
