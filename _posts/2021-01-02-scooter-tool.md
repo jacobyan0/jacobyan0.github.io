@@ -1,5 +1,5 @@
 ---
-title:  "Predicting ridesourcing demand with machine learning"
+title:  "Micromobility Analytics and Management Platform (Technology Transfer)"
 mathjax: true
 layout: post
 categories: 
