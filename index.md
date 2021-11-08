@@ -13,10 +13,10 @@ I am a Research Assistant Professor in the Engineering School of Sustainable Inf
 
 ## Research interests
 
-* [Machine learning and AI](https://jacobyan0.github.io/aibigdata/)
+* [Machine learning & AI](https://jacobyan0.github.io/aibigdata/)
 * [Spatial big data](https://jacobyan0.github.io/aibigdata/)
-* [Public transit and shared mobility](https://jacobyan0.github.io/transitnewmobility/)
+* [Public transit & shared mobility](https://jacobyan0.github.io/transitnewmobility/)
 * [Spatial accessibility](https://jacobyan0.github.io/accessibility/)
 * [Transport equity](https://jacobyan0.github.io/equity/)
 * [Travel behavior](https://jacobyan0.github.io/travelbehavior/)
-* [Transportation and community resilience](https://jacobyan0.github.io/resilience/)
+* [Transportation & community resilience](https://jacobyan0.github.io/resilience/)
