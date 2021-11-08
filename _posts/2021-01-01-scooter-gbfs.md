@@ -12,6 +12,7 @@ In Feburary 2019, I developed a Python program that automatically download the G
 <img align="left" width="425" height="425" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/ScooterGPS.gif" style="vertical-align:middle;margin:0px 0px"> 
 <img align="right" width="425" height="375" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/ScooterDemand.gif" style="vertical-align:middle;margin:0px 0px"> 
 
+
 *Key words: micromobility, GBFS data, e-scooter*
 
 * Related publication:
