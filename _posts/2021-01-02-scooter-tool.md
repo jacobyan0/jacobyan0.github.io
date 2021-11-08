@@ -8,7 +8,7 @@ categories:
 ---
 
 
-<img align="left" width="330" height="300" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/TRA-Rsplit.png" style="vertical-align:middle;margin:15px 15px">                                                                                                                          In this paper, we developed a random forest model to examine which factors are key predictors of ridesplitting adoption rate (i.e., the proportion of ridesourcing trips with ridesharing authorization) and to explore their nonlinear relationships. The random forest model resulted in additional insights that were not obtainable from the commonly applied linear regression model.
+<img align="left" width="330" height="300" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/TRA-Rsplit.png" style="vertical-align:middle;margin:15px 15px"> In this paper, we developed a random forest model to examine which factors are key predictors of ridesplitting adoption rate (i.e., the proportion of ridesourcing trips with ridesharing authorization) and to explore their nonlinear relationships. The random forest model resulted in additional insights that were not obtainable from the commonly applied linear regression model.
 
 *Key words: random forest, machine learning, travel demand prediction*
 
