@@ -3,9 +3,9 @@ layout: page
 title: "Project Portfolio"
 ---
 
-<article>
-{% include nav.html %}
-</article>
+#<article>
+#{% include nav.html %}
+#</article>
  
 <article>
 <h3>AI/Machine Learning & Big Data</h3>
