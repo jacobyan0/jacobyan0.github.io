@@ -33,7 +33,7 @@ layout: page
 * Use Jekyllrb server for testing of web pages
 
 
-##### [Maybe useful later] Difference between page and post
+#### [Maybe useful later] Difference between page and post
 
 * A post filename contains the title and the date of the post. An invalid date in the filename causes an error.
 
