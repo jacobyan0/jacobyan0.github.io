@@ -14,4 +14,4 @@ categories:
 
 * Related publication:
 
-**Yan, X.** (2021). <ins>Toward accessibility-based planning: Addressing the myth of travel-cost savings</ins>. [[Download Preprint](https://github.com/jacobyan0/jacobyan0.github.io/raw/master/ArticlesPreprints/JAPA_AcceptedManuscript.pdf)]. *Journal of the American Planning Association*, 87 (3), 409-423. https://doi.org/10.1080/01944363.2020.1850321
+**Yan, X.** (2021). <ins>Toward accessibility-based planning: Addressing the myth of travel-cost savings</ins>. [[Download Preprint](https://github.com/jacobyan0/jacobyan0.github.io/raw/master/ArticlesPreprints/JAPA_AcceptedManuscript.pdf)]. *Journal of the American Planning Association*, 87 (3), 409-423.
