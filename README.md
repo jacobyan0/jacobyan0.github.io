@@ -12,8 +12,8 @@ layout: page
 * Publications: "Publications.md"
 
 * Project Portfolio: the markdown files in the "posts" folder. To turn off "read more", go to the includes folder, find home.html, delete the "<div ...read more..." line
-
-    * All posts can be viewed here:https://jacobyan0.github.io/archive
+    * Categories: accessibility, aibigdata, equity, resilience, transitnewmobility, travel behavior
+    * To view all posts:https://jacobyan0.github.io/archive
     * detailed Jekyllrb guide on posts: https://jekyllrb.com/docs/posts/
     * Projects are organized by nav.html (in the includes and projects folders)
     * [Future] Make good use of excerpt_separator
