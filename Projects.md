@@ -1,6 +1,5 @@
 ---
-layout: page
-title: "Project Portfolio"
+layout: default
 ---
 
 {% include nav.html %}
