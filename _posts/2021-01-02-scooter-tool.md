@@ -8,7 +8,13 @@ categories:
 ---
 
 
-<img align="left" width="500" height="225" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/CrowdsourcingApp.png" style="vertical-align:middle;margin:15px 15px"> I worked with a few Master of Computer Science students at UF to develop a crowdsourcing platform that allows residents to report micromobility-related safety incidents (i.e., crashes and near-misses).
+I worked with a few Master of Computer Science students at UF to develop a crowdsourcing platform that have two main functions: 
+
+1) It allows residents to report micromobility-related safety incidents (i.e., crashes and near-misses).
+<img align="middle" width="500" height="225" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/CrowdsourcingApp.png" style="vertical-align:middle;margin:15px 15px"> 
+
+2) It allows city transportation staff to conduct analytics regarding e-scooter parking and usage patterns.
+<img align="middle" width="500" height="225" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/AnalyticsPlatform.png" style="vertical-align:middle;margin:15px 15px"> 
 
 * Watch the video below to learn more:
 
