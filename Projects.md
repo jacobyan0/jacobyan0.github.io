@@ -5,4 +5,4 @@ title: "Project Portfolio"
 
 {% include nav.html %}
 
-#### Click on each topic to view related projects.
+Click on each topic to view related projects.
