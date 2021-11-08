@@ -8,7 +8,7 @@ categories:
 ---
 
 
-<img align="left" width="500" height="500" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/JAPA_Access.png" style="vertical-align:middle;margin:15px 15px"> In this research, I address a major conceptual obstacle to accessibility-based planning: research and planning practice frequently treat accessibility’s benefits as equivalent to the travel-cost savings (TCS) realizable at a location. I argue that accessibility improvements can result in not only TCS but also destination utility gains, which means the individual satisfaction from interacting with or choosing desirable destinations. 
+<img align="left" width="450" height="450" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/JAPA_Access.png" style="vertical-align:middle;margin:15px 15px"> In this research, I address a major conceptual obstacle to accessibility-based planning: research and planning practice frequently treat accessibility’s benefits as equivalent to the travel-cost savings (TCS) realizable at a location. I argue that accessibility improvements can result in not only TCS but also destination utility gains, which means the individual satisfaction from interacting with or choosing desirable destinations. 
 
 *Key words: accessibility, travel cost, public transit, resilience location choice*
 
