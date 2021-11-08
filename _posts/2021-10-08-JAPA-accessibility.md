@@ -1,5 +1,5 @@
 ---
-title:  "Toward accessibility-based transportation and land-use planning"
+title:  "Toward accessibility-based transportation planning"
 mathjax: true
 layout: post
 categories: 
