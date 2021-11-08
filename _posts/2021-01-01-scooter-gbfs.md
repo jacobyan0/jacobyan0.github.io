@@ -9,7 +9,7 @@ categories:
 
 In Feburary 2019, I developed a Python program that automatically download the General Bikeshare Feed Specification (GBFS) data for multiple U.S. cities. In this study, we developed algorithms to infer micromobility trip origins and destinations based on the GBFS data.
 
-<img align="left" width="525" height="525" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/ScooterGPS.gif" style="vertical-align:middle;margin:0px 0px"> 
+<img align="left" width="515" height="515" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/ScooterGPS.gif" style="vertical-align:middle;margin:0px 0px"> 
 <img align="right" width="475" height="395" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/ScooterDemand.gif" style="vertical-align:middle;margin:0px 0px"> 
 
 
