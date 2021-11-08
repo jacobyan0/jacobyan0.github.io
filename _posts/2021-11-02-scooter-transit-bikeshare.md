@@ -4,7 +4,6 @@ mathjax: true
 layout: post
 categories: 
  - transitnewmobility
- - aibigdata
 ---
 
 
