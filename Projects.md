@@ -4,7 +4,7 @@ title: "Project Portfolio"
 ---
  
 <article>
-**[AI/Machine Learning & Big Data](https://jacobyan0.github.io/aibigdata)**
+## [**AI/Machine Learning & Big Data**](https://jacobyan0.github.io/aibigdata)
 
 {% for post in site.categories.aibigdata %}
   <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
