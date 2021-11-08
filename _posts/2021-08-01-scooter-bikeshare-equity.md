@@ -5,7 +5,7 @@ layout: post
 categories: 
  - transitnewmobility
  - equity
- - travelbehavior
+ - aibigdata
 ---
 
 
