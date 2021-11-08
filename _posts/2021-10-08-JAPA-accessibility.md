@@ -2,9 +2,7 @@
 title:  "Toward accessibility-based transportation planning"
 mathjax: true
 layout: post
-categories: 
- - accessibility
- - travelbehavior
+categories: accessibility
 ---
 
 

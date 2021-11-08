@@ -2,9 +2,7 @@
 title:  "E-scooter, public transit, and bikesharing"
 mathjax: true
 layout: post
-categories: 
- - transitnewmobility
- - aibigdata
+categories: transitnewmobility
 ---
 
 
