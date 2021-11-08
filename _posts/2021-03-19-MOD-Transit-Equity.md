@@ -9,7 +9,7 @@ categories:
 ---
 
 
-<img align="left" width="400" height="225" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/TRA_MOD.png" style="vertical-align:middle;margin:15px 15px"> Some transit observers envision future public transit to be integrated systems with fixed-route services running along major corridors and ridesourcing servicing lower-density areas. This paper evaluates traveler preferences for a proposed integrated transit system versus the existing fixed-route system, with a particular focus on disadvantaged travelers. Results from low-income communties in Detroit and Ypsilanti suggest that a majority of survey respondents preferred a MOD transit system over a fixed-route one. However, some women may have safety concerns, and  low technology self-efficacy can be a more serious barrier for many people to adopt MOD transit.
+<img align="left" width="450" height="275" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/TRA_MOD.png" style="vertical-align:middle;margin:15px 15px"> Some transit observers envision future public transit to be integrated systems with fixed-route services running along major corridors and ridesourcing servicing lower-density areas. This paper evaluates traveler preferences for a proposed integrated transit system versus the existing fixed-route system, with a particular focus on disadvantaged travelers. Results from low-income communties in Detroit and Ypsilanti suggest that a majority of survey respondents preferred a MOD transit system over a fixed-route one. However, some women may have safety concerns, and  low technology self-efficacy can be a more serious barrier for many people to adopt MOD transit.
 
 *Key words: mobility on demand, public transit, transport equity*
 
