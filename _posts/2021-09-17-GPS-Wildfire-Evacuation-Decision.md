@@ -3,9 +3,8 @@ title:  "Mobility-on-demand vs fixed-route transit systems in low-income communi
 mathjax: true
 layout: post
 categories: 
- - transitnewmobility
+ - resilience
  - travelbehaviaor
- - equity
 ---
 
 
