@@ -11,7 +11,7 @@ title: "Project Portfolio"
     <a href="{{site.baseurl}}/equity/" class="{% if page.url contains 'equity' %}current{% endif %}">Transport Equity</a>
     <a href="{{site.baseurl}}/accessibility/" class="{% if page.url contains 'accessibility' %}current{% endif %}">Accessibility</a>
     <a href="{{site.baseurl}}/travelbehavior/" class="{% if page.url contains 'travelbehavior' %}current{% endif %}">Travel Behavior</a>
-    <!--<a href="{{site.baseurl}}/resilience/" class="{% if page.url contains 'resilience' %}current{% endif %}">Transport Resilience</a>-->
+    <a href="{{site.baseurl}}/resilience/" class="{% if page.url contains 'resilience' %}current{% endif %}">Transport and Community Resilience</a>
   </ul>
 </nav>
    <p tyle="font-size:120%;">Click on each topic to view related projects. </p>
