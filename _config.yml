@@ -21,6 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Publications.md"}
   - {file: "Projects.md"}
   #- {file: "Software.md"}
+  - {file: "InvitedTalks.md"}
   - {file: "Teaching.md"}
   - {file: "Media.md"}
   - {file: "News.md"}
@@ -38,3 +39,4 @@ comments:
 
 plugins:
  - jekyll-feed
+ - jekyll-sitemap

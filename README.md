@@ -33,7 +33,7 @@ layout: page
 * Use Jekyllrb server for testing of web pages
 
 
-### [Maybe useful later] Difference between page and post
+#### [Maybe useful later] Difference between page and post
 
 * A post filename contains the title and the date of the post. An invalid date in the filename causes an error.
 
@@ -48,3 +48,7 @@ layout: page
 * A post has a unique id.
 
 * A post represents a blog post (so it is used to easily create a blog post). A page represents a website page.
+
+
+### Acknowledgment: 
+The website is built on the "contrast" theme forked from https://github.com/niklasbuschmann/contrast
