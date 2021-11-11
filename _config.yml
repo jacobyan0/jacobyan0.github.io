@@ -18,13 +18,13 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "About me", file: "index.md"}
   #- {title: "CV", url: "https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jacobyan0/jacobyan0.github.io/master/Yan_CV.pdf"}
-  - {file: "Publications.md"}
-  - {file: "Projects.md"}
-  #- {file: "Software.md"}
-  - {file: "InvitedTalks.md"}
-  - {file: "Teaching.md"}
-  - {file: "Media.md"}
-  - {file: "News.md"}
+  - {file: "publications.md"}
+  - {file: "projects.md"}
+  #- {file: "software.md"}
+  - {file: "invitedtalks.md"}
+  - {file: "teaching.md"}
+  - {file: "media.md"}
+  - {file: "news.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:xjacobyan@gmail.com"}
