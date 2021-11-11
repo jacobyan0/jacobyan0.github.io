@@ -3,8 +3,8 @@ title:  "Comparing machine learning and logit models in travel mode choice model
 mathjax: true
 layout: post
 categories: 
- - AI/Machine Learing & Big Data
- - Travel Behavior 
+ - aibigdata
+ - travelbehavior 
 ---
 
 
