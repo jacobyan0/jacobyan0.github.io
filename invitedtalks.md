@@ -7,11 +7,11 @@ title: "Talks"
 &nbsp;
 ## Invited Talks
 
-**Machine Learning in Travel Behavior Research**
+**[Machine Learning in Travel Behavior Research](https://www.youtube.com/watch?v=Z4ZwGnKWDKk)**
 
 *Transportation Research Board Standing Committee AMS50 Webinar Series*
 
-November 12, 2021.
+November 12, 2021 (Dr. Kara Kockelman from UT Austin is another speaker). 
 
 &nbsp;
 
