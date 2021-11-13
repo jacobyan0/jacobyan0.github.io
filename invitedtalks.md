@@ -7,7 +7,7 @@ title: "Talks"
 &nbsp;
 ## Invited Talks
 
-**Machine Learning in Travel Behavior Research[Video](https://www.youtube.com/watch?v=Z4ZwGnKWDKk)**
+**Machine Learning in Travel Behavior Research ([Video](https://www.youtube.com/watch?v=Z4ZwGnKWDKk))**
 
 *Transportation Research Board Standing Committee AMS50 Webinar Series*
 
