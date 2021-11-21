@@ -2,14 +2,16 @@
 title:  "E-scooter, public transit, and bikesharing"
 mathjax: true
 layout: post
-categories: transitnewmobility
+categories: 
+ - accessibility
+ - equity
 ---
 
 
-<img align="left" width="550" height="305" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/ScootTransit.jpeg" style="vertical-align:middle;margin:15px 15px"> To address the policy question of how e-scooters interact with existing public mobility options, we conducted a spatiotemporal analysis of e-scooters’ relationships with public transit and station-based bikeshare in Washington DC. Results suggested that the service areas of the three modes largely overlap, and most e-scooter trips could have been made by transit or bikeshare. In addition, we found that e-scooters enhance mobility services for some underserved neighborhoods. Before COVID-19, about 10% of all e-scooter trips were taken to connect with the Metrorail system
+<img align="left" width="350" height="500" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/ScootTransit.jpeg" style="vertical-align:middle;margin:15px 15px"> This study presents a spatiotemporal analysis of transit accessibility to low-wage jobs and of the accessibility disparity between traveling by car and by public transit in Miami-Dade County, Florida. We find that drivers enjoy several times higher levels of accessibility to low-wage jobs than transit riders. The accessibility gap is smaller during peak hours and in the downtown Miami area, where auto accessibility is about three times that of transit accessibility; for most suburban and rural locations, auto accessibility is more than ten times higher than transit accessibility.
 
-*Key words: E-scooter, public transit, bikeshare*
+*Key words: accessibility, public transit, transport equity, access disparity*
 
 * Related publication:
 
-**Yan, X.**, Yang, W., Zhang, X., Xu, Y., Bejleri, I., Zhao, X. (2021). <ins>A spatiotemporal analysis of e-scooters’ relationships with transit and station-based bikesharing</ins>. [[Download Preprint](https://www.researchgate.net/profile/Xilei-Zhao-2/publication/355383039_A_spatiotemporal_analysis_of_e-scooters'_relationships_with_transit_and_station-based_bikeshare/links/616e022c25467d2f0059dea5/A-spatiotemporal-analysis-of-e-scooters-relationships-with-transit-and-station-based-bikeshare.pdf?_sg%5B0%5D=_XqK5sdms5R3ywizuu0YecPO_7-W_iejXqKtKvWji604FbWI18sTD7Ao3MBw9CFpQGyK69F2bcwfqxQuH3AU9w.EI98qaQlXYcsWvPFxBgyt3fZV6uzfkQSQLQk_E25dOzMhFBGHQuTQOdxlAWVSc_RwFThb-UaglzqXi9DAZiCtQ.57QuGZSh3AKI7nwLt0_LPUjgKQ-l74cA2tG4ZFFFKFPBFvQ5r11tTe62U32cKDNlo5icTGp1feQQvw0saU2TZQ&_sg%5B1%5D=Ib0wDK9zjCh0ci0h2Y7DeLwnllgE4d02KG4LrKSi9GPZjC-MsoTPGOUYVB4tqWuSQstTJry3pQnublFLabYxBK58zQImJ0Le_-uofHpfLwvZ.EI98qaQlXYcsWvPFxBgyt3fZV6uzfkQSQLQk_E25dOzMhFBGHQuTQOdxlAWVSc_RwFThb-UaglzqXi9DAZiCtQ.57QuGZSh3AKI7nwLt0_LPUjgKQ-l74cA2tG4ZFFFKFPBFvQ5r11tTe62U32cKDNlo5icTGp1feQQvw0saU2TZQ&_iepl=)]. *Transportation Research Part D: Transport and Environment*. 12, 103088. https://doi.org/10.1016/j.trd.2021.103088
+**Yan, X.**, Bejleri, I., Zhai, L. (2022). <ins>A spatiotemporal analysis of transit accessibility to low-wage jobs in Miami-Dade County</ins>. [[Download Preprint](https://www.researchgate.net/profile/Xiang-Yan-8/publication/355890560_A_spatiotemporal_analysis_of_transit_accessibility_to_low-wage_jobs_in_Miami-Dade_County/links/618308c8eef53e51e126c1b5/A-spatiotemporal-analysis-of-transit-accessibility-to-low-wage-jobs-in-Miami-Dade-County.pdf?_sg%5B0%5D=wo8gm6p6WCy9OC2edkGOlTEM_NqVW44RCvaAsFLYFL31qZQhx1ZX6HqTruTiQv4zl2OAioj_PWNNbBwfVh43Og.Z5GyBZ6pZBuFMaeD1up2t3VpTQyWjlEzQnRHA-4ACFWuBKE5kWyWFnIcdCnzdjvscc1xO34PGQGKxEGAsE0f6w.kq808vokAD6AY1x1BVXVZVqIkjPXUp-CvjIdqbIehwhtcp6J3HgvJTCDmeXqFFOkD9cxLPByvyF1npldheLHsA&_sg%5B1%5D=DXSQDpV58BPhI59wUh3niVi1BS6cSbIu-tcipGrPJstEC3rKO3ufctOMj35OqR0K1T0mbEZUquFvh96xD7xVaDlgbQunOJ1uzcddnydl_QpK.Z5GyBZ6pZBuFMaeD1up2t3VpTQyWjlEzQnRHA-4ACFWuBKE5kWyWFnIcdCnzdjvscc1xO34PGQGKxEGAsE0f6w.kq808vokAD6AY1x1BVXVZVqIkjPXUp-CvjIdqbIehwhtcp6J3HgvJTCDmeXqFFOkD9cxLPByvyF1npldheLHsA&_iepl=)]. *Journal of Transport Geography*, 98, 103218. https://doi.org/10.1016/j.jtrangeo.2021.103218
