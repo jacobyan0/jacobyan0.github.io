@@ -8,7 +8,7 @@ categories:
 ---
 
 
-<img align="left" width="350" height="500" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/ScootTransit.jpeg" style="vertical-align:middle;margin:15px 15px"> This study presents a spatiotemporal analysis of transit accessibility to low-wage jobs and of the accessibility disparity between traveling by car and by public transit in Miami-Dade County, Florida. We find that drivers enjoy several times higher levels of accessibility to low-wage jobs than transit riders. The accessibility gap is smaller during peak hours and in the downtown Miami area, where auto accessibility is about three times that of transit accessibility; for most suburban and rural locations, auto accessibility is more than ten times higher than transit accessibility.
+<img align="left" width="350" height="500" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/AccessRatio.gif" style="vertical-align:middle;margin:15px 15px"> This study presents a spatiotemporal analysis of transit accessibility to low-wage jobs and of the accessibility disparity between traveling by car and by public transit in Miami-Dade County, Florida. We find that drivers enjoy several times higher levels of accessibility to low-wage jobs than transit riders. The accessibility gap is smaller during peak hours and in the downtown Miami area, where auto accessibility is about three times that of transit accessibility; for most suburban and rural locations, auto accessibility is more than ten times higher than transit accessibility.
 
 *Key words: accessibility, public transit, transport equity, access disparity*
 
