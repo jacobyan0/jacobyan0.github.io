@@ -1,10 +1,10 @@
 ---
-title:  "Mobility-on-demand vs fixed-route transit systems in low-income communities"
+title:  "Analyzing wildfire evacuation behavior with GPS data"
 mathjax: true
 layout: post
 categories: 
  - resilience
- - travelbehaviaor
+ - travelbehavior
  - aibigdata
 ---
 
