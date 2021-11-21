@@ -1,5 +1,5 @@
 ---
-title:  "E-scooter, public transit, and bikesharing"
+title:  "A spatiotemporal analysis of transit accessibility to low-wage jobs"
 mathjax: true
 layout: post
 categories: 
