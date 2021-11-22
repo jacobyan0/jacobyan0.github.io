@@ -14,7 +14,7 @@ title: "News"
 
 `09-30` I did a presentation titled “*Exploring the potential for **public transit and share micromobility integration***” in the Ford Motor Company Robotics and Mobility Research EMM/SAR Meeting Series.
 
-`08-11` I won the best dissertation award from the *World Society on Transport and Land Use Research* [[WSTLUR](http://wstlur.org/symposium/2021/)]. WSTLUR received a total of 22 submissions for this award. Watch a 3-min presentation of my dissertation [here](https://www.youtube.com/watch?v=OAe3plmbTCs).
+`08-11` I won the best dissertation award from the *World Society on Transport and Land Use Research* [[WSTLUR](http://wstlur.org/symposium/2021/)]. WSTLUR received a total of 22 submissions for this award. Watch a 3-min presentation of my dissertation ([video](https://www.youtube.com/watch?v=OAe3plmbTCs)).
 
 `07-01` My H1B visa was finally approved in June. I started a Research Assistant Professor position in Civil Engineering at the University of Florida.
 
