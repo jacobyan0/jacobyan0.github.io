@@ -41,19 +41,19 @@ Rating [[View course evaluation](https://docs.google.com/viewer?url=https://gith
 
 Lecture title "Spatial big data applications in travel safety research and practice"
 
-
+&nbsp;
 
 **Transportation Data Analytics**
 
-*Fall 2020, Engineering School of Sustainable Infrastructure & Environment, University of Florida*
+*Fall 2020 & 2021, Engineering School of Sustainable Infrastructure & Environment, University of Florida*
 
 Lecture title "Spatial data analysis and mapping with R"
 
-
+&nbsp;
 
 **Colloquium**
 
-*Fall 2020, Engineering School of Sustainable Infrastructure & Environment, University of Florida*
+*Fall 2020, Department of Urban and Regional Planning, University of Florida*
 
 Lecture title "Designing and conducting a dissertation research project"
 
