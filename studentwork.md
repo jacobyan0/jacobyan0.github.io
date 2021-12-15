@@ -6,7 +6,7 @@ title: "studentwork"
 
 # Fall 2021: CGN 4905/6905 Student Data Science Project Posters 
 
-## **● Water and Climate**
+## **· Water and Climate**
 
 *Fall 2021, Engineering School of Sustainable Infrastructure & Environment, University of Florida*
 
