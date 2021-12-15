@@ -10,7 +10,6 @@ permalink: /studentwork/
 ## **•	Transportation**
 
 *How is the bicycle infrastructure in Gainesville* [[Download Poster]()]
-
 Da Kuang, UF Civil Engineering Master's Student
 
 <img align="center" width="420" height="315" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/TRC_RITMO.png" style="vertical-align:middle;margin:15px 15px"> 
