@@ -4,7 +4,6 @@ title: "Talks"
 ---
 
 &nbsp;
-&nbsp;
 ## Invited Talks
 
 **Machine Learning in Travel Behavior Research ([Video](https://www.youtube.com/watch?v=Z4ZwGnKWDKk))**
@@ -61,8 +60,11 @@ November 30, 2020.
 
 January 17, 2018
 
+
 &nbsp;
 &nbsp;
+&nbsp;
+
 
 ## Panels, Roundtables, and Workshops
 
