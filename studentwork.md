@@ -4,9 +4,9 @@ title: "studentwork"
 ---
 
 
-## Automating the computation of commonly used census socioeconomic variables
+# Fall 2021: CGN 4905/6905 Student Data Science Project Posters 
 
-**CGN 4905/6905 Applied Data Science in Civil and Environmental Engineering**
+## **● Water and Climate**
 
 *Fall 2021, Engineering School of Sustainable Infrastructure & Environment, University of Florida*
 
