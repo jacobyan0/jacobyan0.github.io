@@ -15,7 +15,7 @@ title: "Teaching"
 
 Teach students the intricacies of data science techniques and their applications to real-world problems. Students will also learn the basics of problem formulation and data ethics. [[View syllabus](https://docs.google.com/viewer?url=https://github.com/jacobyan0/jacobyan0.github.io/raw/master/OtherFiles/Applied%20data%20science_syllabus_updated.pdf)]
 
-Classroom is made of 3 undergrads, 4 master's students, and 5 PhD students
+Classroom is made of 3 undergrads, 4 master's students, and 5 PhD students [[View Student Final Project Posters]](https://jacobyan0.github.io/studentwork/)
 
 &nbsp;
 &nbsp;
