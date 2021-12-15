@@ -13,9 +13,9 @@ title: "Teaching"
 
 *Fall 2021, Engineering School of Sustainable Infrastructure & Environment, University of Florida*
 
-Teach students the intricacies of data science techniques and their applications to real-world problems. Students will also learn the basics of problem formulation and data ethics. [[View syllabus](https://docs.google.com/viewer?url=https://github.com/jacobyan0/jacobyan0.github.io/raw/master/OtherFiles/Applied%20data%20science_syllabus_updated.pdf)]
+Teach students the intricacies of data science techniques and their applications to real-world problems. Students will also learn the basics of problem formulation and data ethics. [[View syllabus]](https://docs.google.com/viewer?url=https://github.com/jacobyan0/jacobyan0.github.io/raw/master/OtherFiles/Applied%20data%20science_syllabus_updated.pdf)
 
-Classroom is made of 3 undergrads, 4 master's students, and 5 PhD students
+Classroom is made of 3 undergrads, 4 master's students, and 5 PhD students [[View Student Final Project Posters]](https://jacobyan0.github.io/studentwork/)
 
 &nbsp;
 &nbsp;
@@ -26,7 +26,7 @@ Classroom is made of 3 undergrads, 4 master's students, and 5 PhD students
 
 Worked as a teaching assistant to Prof. Margi Dewar, who experiment with a flipped classroom model for this course
 
-Rating [[View course evaluation](https://docs.google.com/viewer?url=https://github.com/jacobyan0/jacobyan0.github.io/raw/master/OtherFiles/Fall2014_TeachingEvaluationReport_Yan.pdf)]: 4.73/5
+Rating [[View course evaluation]](https://docs.google.com/viewer?url=https://github.com/jacobyan0/jacobyan0.github.io/raw/master/OtherFiles/Fall2014_TeachingEvaluationReport_Yan.pdf): 4.73/5
 
 "_I cannot thank Jacob enough for all the hard work he put into this course. ...He also clearly explained concepts during office hours. Jacob was also enthusiastic and realistic in his approach to the material. He cut the clutter when we over-thought formulas, and helped us focus on the key pieces of them._" -- A quote from a student.
 

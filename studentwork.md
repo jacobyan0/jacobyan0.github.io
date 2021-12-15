@@ -7,52 +7,37 @@ permalink: /studentwork/
 
 # Fall 2021: CGN 4905/6905 Student Data Science Project Posters 
 
+
 ## **•	Transportation**
+<img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Peccoud_Bicycle%20Infrastructure%20in%20Gainesville-1.jpg" style="vertical-align:middle;margin:15px 15px"> 
 
-*How is the bicycle infrastructure in Gainesville* [[Download Poster]()]
-Da Kuang, UF Civil Engineering Master's Student
+<img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Shi_Traffic%20and%20speeding%20hotspots%20in%20Gainesville-1.jpg" style="vertical-align:middle;margin:15px 15px"> 
 
-<img align="center" width="420" height="315" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/TRC_RITMO.png" style="vertical-align:middle;margin:15px 15px"> 
+<img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Lin_escooter%20as%20last-mile%20complement%20to%20public%20transit-1.jpg" style="vertical-align:middle;margin:15px 15px"> 
 
-*Mapping traffic and speeding hotspots in Gainesville*
-Santiago Morano Peccoud, UF Civil Engineering Undergrad Student
-
-*Where and when are e-scooters serving as last-mile feeder to transit in Washington DC?*
-Lin Su, UF Civil Engineering Master's Student
-
-*Spatiotemporal patterns of Gainesville RTS bus bike rack use and wheelchair boardings*
-Da Kuang, UF Civil Engineering Master's Student
+<img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Da%20Kuang_Bike%20rack%20and%20wheelchair%20boardings-1.jpg" style="vertical-align:middle;margin:15px 15px"> 
 
 &nbsp;
 &nbsp;
+
 
 ## **•	Water and Climate**
+<img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Cahacci%20%26%20Quinn%20%26%20Tefera_Groundwater%20level%20and%20quality%20in%20South%20Florida-1.jpg" style="vertical-align:middle;margin:15px 15px"> 
 
-*A spatial analysis of groundwater level of the coastal aquifer in South Florida*
-Naqeeb Cahacci, Brandon Quinn, & Bewuket Tefera, UF Agricultural and Biological Engineering PhD students
- 
-*Spatiotemporal variability of ETo and climatic variables over Florida*
-Fitsum Tilahun Teshome, UF Agricultural and Biological Engineering PhD student
- 
-*Analyzing the relationship between Ambient Ozone, PM2.5 levels, and traffic volumes in Florida*
-Karen Sem, UF Environmental Engineering Master's Student
+<img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Teshome_Evapotransporation%20and%20climate%20change%20in%20Florida-1.jpg" style="vertical-align:middle;margin:15px 15px"> 
+
+<img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Sen_Air%20pollutants%20and%20traffic-1.jpg" style="vertical-align:middle;margin:15px 15px"> 
 
 &nbsp;
 &nbsp;
+
 
 ## **•	Energy**
-
-*Carbon Neural by 2050? A spatiotemporal analysis of energy trends across US states*
-Alvaro Mendoza Grisales, UF Civil Enginnering PhD Student & Daniel Hartless, UF Civil Engineering Undergrad Student
+<img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Hartless%26Mendoza%20_Energy%20trends%20across%20US%20states-1.jpg" style="vertical-align:middle;margin:15px 15px"> 
 
 &nbsp;
 &nbsp;
+
 
 ## **•	COVID-19**
-
-*Where to live in the COVID-19 era?*
-Taylor Propis, UF Civil Engineering Undergrad Student
-
-&nbsp;
-&nbsp;
-
+<img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Propis_COVID%2019%20and%20where%20to%20live-1.jpg" style="vertical-align:middle;margin:15px 15px"> 
