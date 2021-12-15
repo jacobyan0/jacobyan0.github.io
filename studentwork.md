@@ -7,7 +7,6 @@ permalink: /studentwork/
 
 # Fall 2021: CGN 4905/6905 Student Data Science Project Posters 
 
-&nbsp;
 
 ## **•	Transportation**
 
@@ -24,7 +23,7 @@ permalink: /studentwork/
 
 ## **•	Water and Climate**
 
-<img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/blob/master/StudentWork/Fall%202021/Fall%202021_Cahacci%20%26%20Quinn%20%26%20Tefera_Groundwater%20level%20and%20quality%20in%20South%20Florida.jpg" style="vertical-align:middle;margin:15px 15px"> 
+<img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Cahacci%20%26%20Quinn%20%26%20Tefera_Groundwater%20level%20and%20quality%20in%20South%20Florida.jpg" style="vertical-align:middle;margin:15px 15px"> 
 
 <img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Teshome_Evapotransporation%20and%20climate%20change%20in%20Florida-1.jpg" style="vertical-align:middle;margin:15px 15px"> 
 
