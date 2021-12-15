@@ -7,6 +7,8 @@ permalink: /studentwork/
 
 # Fall 2021: CGN 4905/6905 Student Data Science Project Posters 
 
+&nbsp;
+
 ## **•	Transportation**
 
 <img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Peccoud_Bicycle%20Infrastructure%20in%20Gainesville-1.jpg" style="vertical-align:middle;margin:15px 15px"> 
@@ -18,6 +20,7 @@ permalink: /studentwork/
 <img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Da%20Kuang_Bike%20rack%20and%20wheelchair%20boardings-1.jpg" style="vertical-align:middle;margin:15px 15px"> 
 
 &nbsp;
+&nbsp;
 
 ## **•	Water and Climate**
 
@@ -28,14 +31,15 @@ permalink: /studentwork/
 <img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Sen_Air%20pollutants%20and%20traffic-1.jpg" style="vertical-align:middle;margin:15px 15px"> 
 
 &nbsp;
+&nbsp;
 
 ## **•	Energy**
 
 <img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Hartless%26Mendoza%20_Energy%20trends%20across%20US%20states-1.jpg" style="vertical-align:middle;margin:15px 15px"> 
 
 &nbsp;
+&nbsp;
 
 ## **•	COVID-19**
 
 <img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Propis_COVID%2019%20and%20where%20to%20live-1.jpg" style="vertical-align:middle;margin:15px 15px"> 
-
