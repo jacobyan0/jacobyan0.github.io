@@ -8,7 +8,7 @@ permalink: /studentwork/
 # Fall 2021: CGN 4905/6905 Student Data Science Project Posters 
 
 
-## **•	Transportation**
+## **•	Transportation
 
 <img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Peccoud_Bicycle%20Infrastructure%20in%20Gainesville-1.jpg" style="vertical-align:middle;margin:15px 15px"> 
 
