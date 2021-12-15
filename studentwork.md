@@ -31,9 +31,8 @@ Da Kuang, UF Civil Engineering Master's Student
 *A spatial analysis of groundwater level of the coastal aquifer in South Florida* [[Download Poster]()]<br/>
 Naqeeb Cahacci, Brandon Quinn, & Bewuket Tefera, UF Agricultural and Biological Engineering PhD students
  
-*Spatiotemporal variability of ETo and climatic variables over Florida* [[Download Poster]()]<br/>
+*Spatiotemporal variability of ETo and climatic variables over Florida* [[Download Poster](https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Cahacci%20%26%20Quinn%20%26%20Tefera_Groundwater%20level%20and%20quality%20in%20South%20Florida.pdf)]<br/>
 Fitsum Tilahun Teshome, UF Agricultural and Biological Engineering PhD student
-
 <img align="middle" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/blob/master/StudentWork/Fall%202021/Fall%202021_Cahacci%20%26%20Quinn%20%26%20Tefera_Groundwater%20level%20and%20quality%20in%20South%20Florida.jpg" style="vertical-align:middle;margin:15px 15px"> 
 
 *Analyzing the relationship between Ambient Ozone, PM2.5 levels, and traffic volumes in Florida* [[Download Poster]()]<br/>
