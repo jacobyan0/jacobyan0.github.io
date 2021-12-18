@@ -11,7 +11,8 @@ permalink: /studentwork/
 <img align="left" width="360" height="240" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Fall%202021_CGN%204905.jpg" style="vertical-align:middle;margin:15px 15px"> <p>This class teaches students the intricacies of data science techniques and their applications to real-world problems. Students also learn the basics of problem formulation and data ethics. The images below are final project posters.</p>
 </section>
 
-## **•	Transportation**
+<section>
+<h2> •	Transportation </h2>
 <img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Peccoud_Bicycle%20Infrastructure%20in%20Gainesville-1.jpg" style="vertical-align:middle;margin:15px 15px"> 
 
 <img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Shi_Traffic%20and%20speeding%20hotspots%20in%20Gainesville-1.jpg" style="vertical-align:middle;margin:15px 15px"> 
@@ -44,3 +45,4 @@ permalink: /studentwork/
 
 ## **•	COVID-19**
 <img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Propis_COVID%2019%20and%20where%20to%20live-1.jpg" style="vertical-align:middle;margin:15px 15px"> 
+</section>
