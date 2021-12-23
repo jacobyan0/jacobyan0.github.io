@@ -11,8 +11,7 @@ title: "Teaching"
 
 **CGN 4905/6905 Applied Data Science in Civil and Environmental Engineering**
 
-*Fall 2021, Engineering School of Sustainable Infrastructure & Environment, University of Florida* [[View Course Evaluation]](
-https://github.com/jacobyan0/jacobyan0.github.io/raw/master/OtherFiles/Fall%202021%20Individual%20Instructor%20Aggregated%20CGN4905%20%20Spec%20Prob%20Civil%20Engr%3BCGN6905%20%20Special%20Problems%20Xiang%20Yan_CA6EF441-8086-4540-9545-EE8A7A7A28FFen-US.pdf)
+*Fall 2021, Engineering School of Sustainable Infrastructure & Environment, University of Florida* [[View Course Evaluation]](https://docs.google.com/viewer?url=https://github.com/jacobyan0/jacobyan0.github.io/raw/master/OtherFiles/Fall%202021%20Individual%20Instructor%20Aggregated%20CGN4905%20%20Spec%20Prob%20Civil%20Engr%3BCGN6905%20%20Special%20Problems%20Xiang%20Yan_CA6EF441-8086-4540-9545-EE8A7A7A28FFen-US.pdf)
 
 Teach students the intricacies of data science techniques and their applications to real-world problems. Students will also learn the basics of problem formulation and data ethics. [[View syllabus]](https://docs.google.com/viewer?url=https://github.com/jacobyan0/jacobyan0.github.io/raw/master/OtherFiles/Applied%20data%20science_syllabus_updated.pdf)
 
