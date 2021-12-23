@@ -4,7 +4,6 @@ title: "Student Work"
 permalink: /studentwork/
 ---
 
-&nbsp;
 
 ## **Fall 2021: CGN 4905/6905 Applied Data Science in Civil and Environmental Engineering**
 
