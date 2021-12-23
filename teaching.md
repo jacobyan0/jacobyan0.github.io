@@ -25,7 +25,7 @@ Classroom is made of 3 undergrads, 4 master's students, and 5 PhD students [[Vie
 ## Graduate Student Instructor 
 
 **UP 504 Introduction to Statistics for Urban Planning**
-
+*Fall 2014, Department of Urban and Regional Planning, University of Michigan*
 Worked as a teaching assistant to Prof. Margi Dewar, who experiment with a flipped classroom model for this course
 
 Rating [[View course evaluation]](https://docs.google.com/viewer?url=https://github.com/jacobyan0/jacobyan0.github.io/raw/master/OtherFiles/Fall2014_TeachingEvaluationReport_Yan.pdf): 4.73/5
