@@ -4,7 +4,7 @@ title: "News"
 ---
 
 ### 2022
-`01-08` I will be attending the 2022 TRB conference in Washington DC. I look forward to connecting with friends and learning the recent advances in transportation research. [Here](https://docs.google.com/viewer?url=https://github.com/jacobyan0/jacobyan0.github.io/raw/master/OtherFiles/TRB2022_Yan.pdf) is the list of sessions in which I will be presenting or moderating!
+`01-08` I will be attending the 2022 TRB conference in Washington DC. I look forward to connecting with friends and learning the recent advances in transportation research. [Here](https://docs.google.com/viewer?url=https://github.com/jacobyan0/jacobyan0.github.io/raw/master/OtherFiles/TRB2022_Yan.pdf) is the list of sessions in which I will be presenting or moderating.
 
 ### 2021
 `12-23` Our research team has been selected for the Federal Transit Adminstration [Research-to-Practice Initiative](https://www.transit.dot.gov/research-innovation) Grant ($545k). The project is led by CALSTART (I am the UF PI).
