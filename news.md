@@ -9,6 +9,8 @@ title: "News"
 `03-29` I will join a micromobility panel in the [2022 UNC Cleantech Summit](https://ie.unc.edu/speaker/xiang-jacob-yan/), the largest event of its kind in the southeastern region of the United States.
 
 ### 2022
+`03-24` I presented our team's work on micromobility equity and on micromobility \& transit integration in the 7th Annual UTC Conference for the Southeastern Region, hosted by Florida Atlantic University.
+
 `01-08` I had a great time atttending the 2022 TRB conference in Washington DC. [Here](https://docs.google.com/viewer?url=https://github.com/jacobyan0/jacobyan0.github.io/raw/master/OtherFiles/TRB2022_Yan.pdf) is the list of sessions in which I was a presenter or moderator. Please feel free to reach out if you are interested in my research.
 
 ### 2021
