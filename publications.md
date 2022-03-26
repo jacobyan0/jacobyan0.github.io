@@ -16,9 +16,6 @@ Su, L., **Yan, X.**, Zhao, X. <ins>Micromobility equity: A comparison of shared 
 
 Xu, N., Yang, K., Lovriglio, R., **Yan, X.**, Sussman, A., Liu, R., \& Zhao, X. <ins>Assessing household evacuation decision-making in Hurricane Irma</ins>. [[Download Preprint]()]. (Revised and resubmitted).
 
-Xu, Y., **Yan, X.**, Sisiopiku, V., Merlin, L., Xing, F., Zhao, X. <ins>Micromobility trip origin and destination inference using General Bikeshare Feed Specification (GBFS) data</ins>. [[Download Preprint](https://arxiv.org/pdf/2010.12006.pdf)]. (Revised and resubmitted).
-
-
 
 ## Peer-reviewd Journal Articles
 
