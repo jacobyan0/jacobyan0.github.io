@@ -21,8 +21,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "publications.md"}
   - {file: "projects.md"}
   #- {file: "software.md"}
-  - {file: "invitedtalks.md"}
+  #- {file: "invitedtalks.md"}
   #- {file: "teaching.md"}
+  - {file: "studentwork.md"}
   - {file: "media.md"}
   - {file: "news.md"}
 
