@@ -9,6 +9,7 @@ The Just\&Green Transportation Lab is recruiting 1-2 fully-funded PhD students a
 
 &nbsp;
 &nbsp;
+
 The successful candidates are expected to study one of the following topics:
 
 •	Promoting equitable AI applications in transportation
@@ -19,9 +20,11 @@ The successful candidates are expected to study one of the following topics:
 
 &nbsp;
 &nbsp;
+
 The successful candidates will work as graduate research assistants in our lab. We provide a highly competitive stipend and opportunities to collaborate with leading researchers around the world. The Just\&Green Transportation Lab is led by Dr. Xiang 'Jacob' Yan (https://jacobyan0.github.io/), Assistant Professor in Civil and Coastal Engineering at the University of Florida. 
 
 &nbsp;
 &nbsp;
+
 To express your interest in joining the team, please email your CV, a short cover letter, and a writing sample (at least one page) to Dr. Xiang 'Jacob' Yan (xiangyan@ufl.edu). 
 
