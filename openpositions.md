@@ -11,9 +11,7 @@ The Just\&Green Transportation Lab is recruiting 1-2 fully-funded PhD students a
 The successful candidates are expected to study one of the following topics:
 
 •	Promoting equitable AI applications in transportation
-
 •	Multimodal transportation (e.g., public transit, shared mobility, and shared micromobility)
-
 •	Spatial accessibility to essential destinations such as jobs, food, and healthcare
 
 &nbsp;
