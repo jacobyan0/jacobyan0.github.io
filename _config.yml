@@ -21,9 +21,11 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "publications.md"}
   - {file: "projects.md"}
   #- {file: "software.md"}
-  - {file: "invitedtalks.md"}
+  #- {file: "invitedtalks.md"}
   #- {file: "teaching.md"}
-  - {file: "media.md"}
+  - {file: "studentwork.md"}
+  - {file: "openpositions.md"}
+  #- {file: "media.md"}
   - {file: "news.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
