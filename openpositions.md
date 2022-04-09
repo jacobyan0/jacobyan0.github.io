@@ -15,7 +15,7 @@ The successful candidates are expected to study one of the following topics:
 •	Spatial accessibility to essential destinations such as jobs, food, and healthcare
 &nbsp;
 
-The successful candidates will work as graduate research assistants in our lab. We provide a highly competitive stipend and opportunities to collaborate with leading researchers around the world. The Just&Green Transportation Lab is led by Dr. Xiang 'Jacob' Yan (https://jacobyan0.github.io/), Assistant Professor in Civil and Coastal Engineering at the University of Florida. 
+The successful candidates will work as graduate research assistants in our lab. We provide a highly competitive stipend and opportunities to collaborate with leading researchers around the world. The Just&Green Transportation Lab is led by Dr. Xiang 'Jacob' Yan, Assistant Professor in Civil and Coastal Engineering at the University of Florida. 
 &nbsp;
 
-To express your interest in joining the team, please email your CV, a short cover letter, and a writing sample (at least one page) to Dr. Xiang 'Jacob' Yan (xiangyan@ufl.edu). Applications are accepted until the positions are filled.
+To express your interest in joining the team, please email your CV, a short cover letter, and a writing sample (at least one page) to Dr. Xiang 'Jacob' Yan (xiangyan@ufl.edu). Applications are accepted until the positions are filled. 
