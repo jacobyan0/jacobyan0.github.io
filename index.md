@@ -5,7 +5,7 @@ title: "About"
 
 
 
-I am an Assistant Professor in the Engineering School of Sustainable Infrastructure and Environment at the University of Florida, where I lead the Just&Green Transportation Lab.
+I am an Assistant Professor in the Department of Civil and Coastal Engineering at the University of Florida, where I lead the Just&Green Transportation Lab.
 
 [View](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jacobyan0/jacobyan0.github.io/master/Yan_CV.pdf) or [download](https://raw.githubusercontent.com/jacobyan0/jacobyan0.github.io/master/Yan_CV.pdf) CV.
 
@@ -16,7 +16,7 @@ Our work focuses on using data science and artificial intelligence (machine lear
 ## Areas of focus
 
 
-<img align="right" width="185" height="185" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Headshot_Yan.jpg" style="vertical-align:middle"> 
+<img align="right" width="210" height="210" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Headshot_Yan.jpg" style="vertical-align:middle"> 
 
 * [Machine learning & AI](https://jacobyan0.github.io/aibigdata/)
 * [Spatial big data](https://jacobyan0.github.io/aibigdata/)

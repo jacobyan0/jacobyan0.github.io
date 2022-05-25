@@ -18,13 +18,12 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "About", file: "index.md"}
   #- {title: "CV", url: "https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jacobyan0/jacobyan0.github.io/master/Yan_CV.pdf"}
-  - {file: "people.md"} 
+  - {title:"People", file: "people.md"} 
   - {file: "projects.md"}
   - {file: "publications.md"}
   #- {file: "software.md"}
   #- {file: "invitedtalks.md"}
-  #- {file: "teaching.md"}
-  - {file: "studentwork.md"}
+  - {file: "teaching.md"}
   - {file: "openpositions.md"}
   #- {file: "media.md"}
   - {file: "news.md"}
