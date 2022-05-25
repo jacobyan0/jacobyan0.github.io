@@ -6,35 +6,48 @@ permalink: /people/
 
 
 
-### PhD students
+## PhD Students
+
+
+
 
 &nbsp;
+## Master's Students
 
-### Master's students
+<img align="left" width="226" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/LinSu.jpg" style="vertical-align:middle;margin: 0px 17px"> 
 
-&nbsp;
-
-### Undergrad students
-
-<img align="left" width="226" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Yin.jpg" style="vertical-align:middle;margin: 17px 0px"> 
-
-#### Zehui Yin
+#### Lin Su (<a href="mailto:sulin@ufl.edu">sulin@ufl.edu</a>)
 #### Undergraduate student, University of Toronto
-##### Email: <a href="mailto:zehui.yin@mail.utoronto.ca">zehui.yin@mail.utoronto.ca</a>
+ 
+&nbsp;
 
+Lin Su is a MS student in the Department of Civil and Coastal Engineering at the University of Florida. She received her bachelor’s degree in Civil Engineering from Shandong University of Science and Technology. Her research interests include micromobility and machine learning applications. She is currently researching what stratevjes can promote transit and shared micromobility integration.
+
+
+
+
+&nbsp;
+## Undergrad Students
+
+<img align="left" width="226" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ZehuiYin.jpg" style="vertical-align:middle;margin: 0px 17px"> 
+
+#### Zehui Yin (<a href="mailto:zehui.yin@mail.utoronto.ca">zehui.yin@mail.utoronto.ca</a>)
+#### Undergraduate student, University of Toronto
+ 
 &nbsp;
 
 Zehui Yin is an undergraduate student in the department of management at the University of Toronto Scarborough. He majors in the economics of management study and minors in GIS and applied statistics. Zehui is interested in spatial data analysis and cartography. He enjoys riding buses and trains, which motivates his research interest in public transit. 
 
+
+
+
 &nbsp;
+## Lab Director
 
-### Director
+<img align="left" width="226" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/XiangYan.jpg" style="vertical-align:middle;margin: 0px 17px"> 
 
-<img align="left" width="226" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Yan.jpg" style="vertical-align:middle;margin: 17px 0px"> 
-
-#### Xiang 'Jacob' Yan
-#### Assistant Professor in Transportation Engineering, UF
-##### Email: <a href="mailto:xiangyan@ufl.edu">xiangyan@ufl.edu</a>
+#### Xiang 'Jacob' Yan (<a href="mailto:xiangyan@ufl.edu">xiangyan@ufl.edu</a>)
+#### Assistant Professor in Transportation Engineering, University of Florida
 
 &nbsp;
 
