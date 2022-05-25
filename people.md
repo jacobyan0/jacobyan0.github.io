@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "People"
+title: "Just&Green Transportation Lab"
 permalink: /people/
 ---
 
