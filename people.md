@@ -13,4 +13,4 @@ permalink: /people/
 
 &nbsp;
 
-Dr. Yan directs the Just&Green Transportation lab.
+Dr. Yan is the director of the Just&Green Transportation lab.
