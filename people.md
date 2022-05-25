@@ -13,4 +13,4 @@ permalink: /people/
 
 &nbsp;
 
-Dr. Yan is the director of the Just&Green Transportation lab.
+Jacob is the director of the Just&Green Transportation lab. Specializing in public transit, shared mobility, spatial analytics and transportation equity, he applies cutting-edge technologies such as artificial intelligence and data science to find ways to make transportation more equitable and sustainable. Jacob received his degrees from the University of Michigan, Ann Arbor, University of Florida, and Nanjing University, China. 
