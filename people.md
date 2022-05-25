@@ -16,7 +16,7 @@ permalink: /people/
 
 ### Undergrad students
 
-<img align="left" width="226" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Yin.jpg" style="vertical-align:middle;margin: 17px 0px"> 
+<img align="left" width="226" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Yin.jpg" style="vertical-align:middle;margin: 0px 17px"> 
 
 #### Zehui Yin (<a href="mailto:zehui.yin@mail.utoronto.ca">zehui.yin@mail.utoronto.ca</a>)
 #### Undergraduate student, University of Toronto
@@ -29,7 +29,7 @@ Zehui Yin is an undergraduate student in the department of management at the Uni
 
 ### Director
 
-<img align="left" width="226" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Yan.jpg" style="vertical-align:middle;margin: 17px 0px"> 
+<img align="left" width="226" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Yan.jpg" style="vertical-align:middle;margin: 0px 17px"> 
 
 #### Xiang 'Jacob' Yan (<a href="mailto:xiangyan@ufl.edu">xiangyan@ufl.edu</a>)
 #### Assistant Professor in Transportation Engineering, University of Florida
