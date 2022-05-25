@@ -15,7 +15,7 @@ Our work focuses on using data science and artificial intelligence (machine lear
 
 ## Areas of focus
 
-<img align="right" width="215" height="215" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Headshot_Yan.jpg" style="vertical-align:middle"> 
+<img align="right" width="190" height="190" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Headshot_Yan.jpg" style="vertical-align:middle"> 
 
 * [Machine learning & AI](https://jacobyan0.github.io/aibigdata/)
 * [Spatial big data](https://jacobyan0.github.io/aibigdata/)
