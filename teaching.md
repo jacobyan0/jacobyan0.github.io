@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Teaching"
-permalink: /studentwork/
+permalink: /teaching/
 ---
 
 
