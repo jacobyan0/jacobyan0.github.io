@@ -6,6 +6,14 @@ permalink: /people/
 
 
 
+### PhD students
+
+### Master's students
+
+### Undergrad students
+
+### Director
+
 <img align="left" height="200" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Yan.jpg" style="vertical-align:middle"> 
 
 #### Xiang 'Jacob' Yan
