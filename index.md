@@ -9,11 +9,11 @@ I am an Assistant Professor in the Engineering School of Sustainable Infrastruct
 
 [View](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jacobyan0/jacobyan0.github.io/master/Yan_CV.pdf) or [download](https://raw.githubusercontent.com/jacobyan0/jacobyan0.github.io/master/Yan_CV.pdf) CV.
 
-## Just&Green Transportation Lab
+### Just&Green Transportation Lab
 
 Our work focuses on using data science and artificial intelligence (machine learning) to make transportation more equitable and sustainable. Bridging transportation engineering, data science, and urban planning, we take an interdisciplinary approach to transportation research that connects technological innovations with community needs. We work closely with public agencies and industry partners to develop intelligent decision-support tools that can help them better plan for and manage new mobility systems such as shared e-scooters. 
 
-## Areas of focus
+### Areas of focus
 
 
 <img align="right" width="185" height="185" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Headshot_Yan.jpg" style="vertical-align:middle"> 
