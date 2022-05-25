@@ -5,7 +5,7 @@ title: "About"
 
 
 
-<img align="right" width="200" height="200" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Headshot_Yan.jpg" style="vertical-align:middle;margin:30px 30px"> I am an Assistant Professor in the Engineering School of Sustainable Infrastructure and Environment at the University of Florida, where I lead the Just&Green Transportation Lab.
+<img align="right" width="200" height="200" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Headshot_Yan.jpg" style="vertical-align:middle;margin:10px 10px"> I am an Assistant Professor in the Engineering School of Sustainable Infrastructure and Environment at the University of Florida, where I lead the Just&Green Transportation Lab.
 
 &nbsp;
 
