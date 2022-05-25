@@ -8,9 +8,15 @@ permalink: /people/
 
 ### PhD students
 
+&nbsp;
+
 ### Master's students
 
+&nbsp;
+
 ### Undergrad students
+
+&nbsp;
 
 ### Director
 
