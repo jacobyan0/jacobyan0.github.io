@@ -14,7 +14,7 @@ permalink: /people/
 
 ### Director
 
-<img align="left" height="200" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Yan.jpg" style="vertical-align:middle"> 
+<img align="left" height="100" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Yan.jpg" style="vertical-align:middle"> 
 
 #### Xiang 'Jacob' Yan 
 ##### Assistant Professor, Transportation Engineering, UF
