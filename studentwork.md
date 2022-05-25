@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Student Course Work"
+title: "Teaching"
 permalink: /studentwork/
 ---
 
