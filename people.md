@@ -14,7 +14,7 @@ permalink: /people/
 &nbsp;
 ## Master's Students
 
-<img align="left" width="226" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/LinSu.jpg" style="vertical-align:middle;margin: 0px 17px"> 
+<img align="left" width="207" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/LinSu.jpg" style="vertical-align:middle;margin: 0px 17px"> 
 
 #### Lin Su (<a href="mailto:sulin@ufl.edu">sulin@ufl.edu</a>)
 #### Undergraduate student, University of Toronto
@@ -29,7 +29,7 @@ Lin Su is a MS student in the Department of Civil and Coastal Engineering at the
 &nbsp;
 ## Undergrad Students
 
-<img align="left" width="226" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ZehuiYin.jpg" style="vertical-align:middle;margin: 0px 17px"> 
+<img align="left" width="188" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ZehuiYin.jpg" style="vertical-align:middle;margin: 0px 17px"> 
 
 #### Zehui Yin (<a href="mailto:zehui.yin@mail.utoronto.ca">zehui.yin@mail.utoronto.ca</a>)
 #### Undergraduate student, University of Toronto
