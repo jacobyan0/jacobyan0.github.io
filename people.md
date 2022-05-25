@@ -14,7 +14,7 @@ permalink: /people/
 
 ### Director
 
-<img align="left" width="272" height="300" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Yan.jpg" style="vertical-align:middle;margin: 10px 10px"> 
+<img align="left" width="226" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Yan.jpg" style="vertical-align:middle;margin: 10px 10px"> 
 
 #### Xiang 'Jacob' Yan
 ##### Assistant Professor in Transportation Engineering
