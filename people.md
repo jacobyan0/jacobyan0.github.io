@@ -20,8 +20,6 @@ Anran Zheng is a MS student in the Department of Civil and Coastal Engineering a
 
 
 &nbsp;
-&nbsp;
-&nbsp;
 
 ## Master's Students
 
@@ -37,8 +35,6 @@ Lin Su is a MS student in the Department of Civil and Coastal Engineering at the
 
 
 &nbsp;
-&nbsp;
-&nbsp;
 
 ## Undergrad Students
 
@@ -52,8 +48,6 @@ Lin Su is a MS student in the Department of Civil and Coastal Engineering at the
 Zehui Yin is an undergraduate student at the University of Toronto Scarborough. He majors in the economics for management studies and minors in GIS and applied statistics. Zehui is interested in spatial data analysis and cartography. He enjoys riding buses and trains, which motivates his research interest in public transit. 
 
 
-&nbsp;
-&nbsp;
 &nbsp;
 
 ## Lab Director
