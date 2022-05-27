@@ -15,7 +15,7 @@ permalink: /people/
  
 &nbsp;
 
-Anran Zheng is a MS student in the Department of Civil and Coastal Engineering at the University of Florida. Anran Zheng is a PhD student in the Department of Civil and Coastal Engineering at the University of Florida. She is interested in solving spatial, urban and health related issues with GIS, big data analytics, and machine learning.
+Anran Zheng is a MS student in the Department of Civil and Coastal Engineering at the University of Florida. Anran Zheng is a PhD student in the Department of Civil and Coastal Engineering at the University of Florida. She is interested in solving spatial, urban and health related issues with GIS and big data analytics.
 
 
 
