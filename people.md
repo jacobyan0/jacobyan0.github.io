@@ -38,6 +38,15 @@ Lin Su is a MS student in the Department of Civil and Coastal Engineering at the
 
 ## Undergrad Students
 
+<img align="left" width="246" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AmayPatel.jpg" style="vertical-align:middle;margin: 0px 17px"> 
+
+#### Amay Patel (<a href="mailto:amay.patel@ufl.edu">amay.patel@ufl.edu</a>)
+#### Undergraduate student, University of Florida
+ 
+&nbsp;
+
+Amay Patel is an undergraduate student at the University of Florida and is currently majoring in Computer Science with a minor in Statistics. Amay is interested in artificial intelligence and transport equity along with spatial data analysis. 
+
 <img align="left" width="188" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ZehuiYin.jpg" style="vertical-align:middle;margin: 0px 17px"> 
 
 #### Zehui Yin (<a href="mailto:zehui.yin@mail.utoronto.ca">zehui.yin@mail.utoronto.ca</a>)
