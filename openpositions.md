@@ -5,7 +5,13 @@ title: "Open Positions"
 
 ## Come to work with us!
 
-The Just&Green Transportation Lab is recruiting 1-2 fully-funded PhD students to join our team in the Department of Civil and Coastal Engineering at the University of Florida (ranked a Top 5 public university by US News). Qualified candidates should have solid data analysis and programming (Python or R) skills and a strong interest in applying these skills to understand and solve transportation and urban issues. Students with solid training in statistics/econometrics, machine learning, and GIS are especially encouraged to apply. We welcome students from various educational backgrounds, including but not limited to, civil/transportation engineering, urban planning, geography, computer science, and statistics.
+#### Temporary Student Research Assistant Positions
+
+The Just&Green Transportation Lab is always looking for enthusiastic students who are interested in AI, data science, public transit, emerging transportation technologies, and transport equity. To express your interest in joining the group as a student researcher, please email your CV and a short writing sample to Dr. Xiang 'Jacob' Yan (xiangyan@ufl.edu).
+
+#### PhD Student Positions
+
+We are recruiting 1-2 fully-funded PhD students to join the Department of Civil and Coastal Engineering at the University of Florida (ranked a Top 5 public university by US News). Qualified candidates should have solid data analysis and programming (Python or R) skills and a strong interest in applying these skills to understand and solve transportation and urban issues. Students with solid training in statistics/econometrics, machine learning, and GIS are especially encouraged to apply. We welcome students from various educational backgrounds, including but not limited to, civil/transportation engineering, urban planning, geography, computer science, and statistics.
 &nbsp;
 
 The successful candidates are expected to study one of the following topics:
