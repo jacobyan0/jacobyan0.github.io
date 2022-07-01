@@ -9,9 +9,12 @@ The Just&Green Transportation Lab focuses on using data science and artificial i
 ## PhD Students
 
 <img align="left" width="238" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AnranZheng.jpeg" style="vertical-align:middle;margin: 0px 17px"> 
+
 #### Anran Zheng (<a href="mailto:anranzheng@ufl.edu">anranzheng@ufl.edu</a>)
 #### PhD student in Transportation Engineering, University of Florida
+
 &nbsp;
+
 Anran Zheng is a PhD student in the Department of Civil and Coastal Engineering at the University of Florida. She received a M.S. degree in Urban Spatial Analytics from the University of Pennsylvania. She is interested in solving spatial, urban and health related issues with GIS and big data analytics.
 
 
@@ -42,10 +45,8 @@ Lin Su is a MS student in the Department of Civil and Coastal Engineering at the
 
 Tejaswi Polimetla is an undergraduate student at the University of Florida and is majoring in Economics and Geography. Teja is interested in spatial planning, artificial intelligence, and transportation policy.
 
-
 &nbsp;
 &nbsp;
-
 
 <img align="left" width="246" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AmayPatel.jpg" style="vertical-align:middle;margin: 0px 17px"> 
 
