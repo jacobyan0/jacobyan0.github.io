@@ -36,6 +36,21 @@ Lin Su is a MS student in the Department of Civil and Coastal Engineering at the
 
 ## Undergrad Students
 
+<img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Tejaswi.png" style="vertical-align:middle;margin: 0px 17px"> 
+
+#### Tejaswi Polimetla (<a href="mailto:tpolimetla@ufl.edu">tpolimetla@ufl.edu</a>)
+#### Undergraduate student, University of Florida
+ 
+&nbsp;
+
+
+Tejaswi Polimetla is an undergraduate student at the University of Florida and is majoring in Economics and Geography. Teja is interested in spatial planning, artificial intelligence, and transportation policy.
+
+
+&nbsp;
+&nbsp;
+
+
 <img align="left" width="246" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AmayPatel.jpg" style="vertical-align:middle;margin: 0px 17px"> 
 
 #### Amay Patel (<a href="mailto:amay.patel@ufl.edu">amay.patel@ufl.edu</a>)
