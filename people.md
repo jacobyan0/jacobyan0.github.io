@@ -43,7 +43,6 @@ Lin Su is a MS student in the Department of Civil and Coastal Engineering at the
  
 &nbsp;
 
-
 Tejaswi Polimetla is an undergraduate student at the University of Florida and is majoring in Economics and Geography. Teja is interested in spatial planning, artificial intelligence, and transportation policy.
 
 
