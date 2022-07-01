@@ -49,7 +49,7 @@ Tejaswi Polimetla is an undergraduate student at the University of Florida and i
 
 &nbsp;
 &nbsp;
-
+&nbsp;
 
 
 <img align="left" width="246" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AmayPatel.jpg" style="vertical-align:middle;margin: 0px 17px"> 
@@ -63,7 +63,7 @@ Amay Patel is an undergraduate student at the University of Florida and is curre
 
 &nbsp;
 &nbsp;
-
+&nbsp;
 
 
 <img align="left" width="188" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ZehuiYin.jpg" style="vertical-align:middle;margin: 0px 17px"> 
