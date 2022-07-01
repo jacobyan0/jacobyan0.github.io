@@ -32,6 +32,8 @@ Anran Zheng is a PhD student in the Department of Civil and Coastal Engineering 
 
 Lin Su is a MS student in the Department of Civil and Coastal Engineering at the University of Florida. Her research interests include micromobility and machine learning applications. She is currently researching what strategies can promote transit and shared micromobility integration.
 
+
+
 &nbsp;
 
 ## Undergrad Students
@@ -48,6 +50,8 @@ Tejaswi Polimetla is an undergraduate student at the University of Florida and i
 &nbsp;
 &nbsp;
 
+
+
 <img align="left" width="246" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AmayPatel.jpg" style="vertical-align:middle;margin: 0px 17px"> 
 
 #### Amay Patel (<a href="mailto:amay.patel@ufl.edu">amay.patel@ufl.edu</a>)
@@ -59,6 +63,8 @@ Amay Patel is an undergraduate student at the University of Florida and is curre
 
 &nbsp;
 &nbsp;
+
+
 
 <img align="left" width="188" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ZehuiYin.jpg" style="vertical-align:middle;margin: 0px 17px"> 
 
