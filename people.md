@@ -8,7 +8,7 @@ The Just&Green Transportation Lab focuses on using data science and artificial i
 
 ## PhD Students
 
-<img align="left" width="238" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AnranZheng.jpeg" style="vertical-align:middle;margin: 0px 17px"> 
+<img align="left" width="250" height="263" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AnranZheng.jpeg" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Anran Zheng (<a href="mailto:anranzheng@ufl.edu">anranzheng@ufl.edu</a>)
 #### PhD student in Transportation Engineering, University of Florida
@@ -23,7 +23,7 @@ Anran Zheng is a PhD student in the Department of Civil and Coastal Engineering 
 
 ## Master's Students
 
-<img align="left" width="207" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/LinSu.jpg" style="vertical-align:middle;margin: 0px 17px"> 
+<img align="left" width="250" height="302" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/LinSu.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Lin Su (<a href="mailto:sulin@ufl.edu">sulin@ufl.edu</a>)
 #### Master's student in Transportation Engineering, University of Florida
@@ -47,6 +47,9 @@ Lin Su is a MS student in the Department of Civil and Coastal Engineering at the
 
 Erik Huang is an incoming PhD student at Northwestern University in Transportation Systems Analysis and Planning. He received his B.S in Civil Engineering at the University of Florida. He is interested in shared mobility, public transit, and transportation equity.
 
+&nbsp;
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
