@@ -38,7 +38,7 @@ Lin Su is a MS student in the Department of Civil and Coastal Engineering at the
 
 ## Undergrad Students
 
-<img align="left" width="250" height="313" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ErikHuang.png" style="vertical-align:middle;margin: 0px 17px"> 
+<img align="left" width="250" height="313" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ErikHuang.png" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Erik Huang (<a href="mailto:erik.huang@ufl.edu">erik.huang@ufl.edu</a>)
 #### Undergraduate student, University of Florida
@@ -50,11 +50,9 @@ Erik Huang is an incoming PhD student at Northwestern University in Transportati
 &nbsp;
 &nbsp;
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
-<img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Tejaswi.png" style="vertical-align:middle;margin: 0px 17px"> 
+
+<img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Tejaswi.png" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Tejaswi Polimetla (<a href="mailto:tpolimetla@ufl.edu">tpolimetla@ufl.edu</a>)
 #### Undergraduate student, University of Florida
@@ -68,7 +66,7 @@ Tejaswi Polimetla is an undergraduate student at the University of Florida and i
 &nbsp;
 
 
-<img align="left" width="246" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AmayPatel.jpg" style="vertical-align:middle;margin: 0px 17px"> 
+<img align="left" width="246" height="254" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AmayPatel.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Amay Patel (<a href="mailto:amay.patel@ufl.edu">amay.patel@ufl.edu</a>)
 #### Undergraduate student, University of Florida
@@ -82,7 +80,7 @@ Amay Patel is an undergraduate student at the University of Florida and is curre
 &nbsp;
 
 
-<img align="left" width="188" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ZehuiYin.jpg" style="vertical-align:middle;margin: 0px 17px"> 
+<img align="left" width="188" height="332" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ZehuiYin.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Zehui Yin (<a href="mailto:zehui.yin@mail.utoronto.ca">zehui.yin@mail.utoronto.ca</a>)
 #### Undergraduate student, University of Toronto
@@ -96,7 +94,7 @@ Zehui Yin is an undergraduate student at the University of Toronto Scarborough. 
 
 ## Lab Director
 
-<img align="left" width="226" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/XiangYan.jpg" style="vertical-align:middle;margin: 0px 17px"> 
+<img align="left" width="226" height="277" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/XiangYan.jpg" style="vertical-align:middle;margin: 0px 17px"> 
 
 #### Xiang 'Jacob' Yan (<a href="mailto:xiangyan@ufl.edu">xiangyan@ufl.edu</a>)
 #### Assistant Professor in Transportation Engineering, University of Florida
