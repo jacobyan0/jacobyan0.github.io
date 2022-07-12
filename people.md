@@ -80,7 +80,7 @@ Amay Patel is an undergraduate student at the University of Florida and is curre
 &nbsp;
 
 
-<img align="left" width="188" height="332" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ZehuiYin.jpg" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="332" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ZehuiYin.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Zehui Yin (<a href="mailto:zehui.yin@mail.utoronto.ca">zehui.yin@mail.utoronto.ca</a>)
 #### Undergraduate student, University of Toronto
