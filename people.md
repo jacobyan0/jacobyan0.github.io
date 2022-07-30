@@ -46,7 +46,7 @@ Erik Huang is an incoming PhD student at Northwestern University in Transportati
 &nbsp; 
 &nbsp; 
 &nbsp; 
-
+<br/>
 
 <img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Tejaswi.png" style="vertical-align:left;margin: 0px 17px"> 
 
@@ -60,7 +60,7 @@ Tejaswi Polimetla is an undergraduate student at the University of Florida and i
 &nbsp; 
 &nbsp; 
 &nbsp; 
-
+<br/>
 
 <img align="left" width="246" height="254" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AmayPatel.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
@@ -74,6 +74,7 @@ Amay Patel is an undergraduate student at the University of Florida and is curre
 &nbsp; 
 &nbsp; 
 &nbsp; 
+<br/>
 
 
 <img align="left" width="250" height="332" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ZehuiYin.jpg" style="vertical-align:left;margin: 0px 17px"> 
@@ -87,7 +88,7 @@ Zehui Yin is an undergraduate student at the University of Toronto Scarborough. 
 
 
 &nbsp; 
-<br/><br/>
+<br/><br/><br/>
 
 ## Lab Director
 
