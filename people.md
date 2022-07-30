@@ -86,9 +86,8 @@ Amay Patel is an undergraduate student at the University of Florida and is curre
 
 Zehui Yin is an undergraduate student at the University of Toronto Scarborough. He majors in the economics for management studies and minors in GIS and applied statistics. Zehui is interested in spatial data analysis and cartography. He enjoys riding buses and trains, which motivates his research interest in public transit. 
 
-
 &nbsp; 
-<br/><br/><br/>
+<br/><br/>
 
 ## Lab Director
 
