@@ -6,7 +6,7 @@ categories: aibigdata
 ---
 
 
-I worked with a few Master of Computer Science students at UF (Ziying Wang, Manzhu Wang, Yepeng Liu) to develop a crowdsourcing platform [[watch a 3-min demo](https://www.youtube.com/watch?v=s4ABfMFuq9g) that have two main functions]: 
+I worked with my colleage, Dr. Xilei Zhao, and a few Master of Computer Science students at UF (Ziying Wang, Manzhu Wang, Yepeng Liu) to develop a crowdsourcing platform [[watch a 3-min demo](https://www.youtube.com/watch?v=s4ABfMFuq9g) that have two main functions]: 
 
 1) It allows residents to report micromobility-related safety incidents (i.e., crashes and near-misses).
 
