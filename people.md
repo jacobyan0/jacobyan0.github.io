@@ -46,7 +46,7 @@ Erik Huang is an incoming PhD student at Northwestern University in Transportati
 &nbsp; 
 &nbsp; 
 &nbsp; 
-<br/><br/>
+<br/><br/><br/>
 
 <img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Tejaswi.png" style="vertical-align:left;margin: 0px 17px"> 
 
@@ -60,7 +60,7 @@ Tejaswi Polimetla is an undergraduate student at the University of Florida and i
 &nbsp; 
 &nbsp; 
 &nbsp; 
-<br/><br/>
+<br/><br/><br/>
 
 <img align="left" width="250" height="258" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AmayPatel.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
@@ -74,7 +74,7 @@ Amay Patel is an undergraduate student at the University of Florida and is curre
 &nbsp; 
 &nbsp; 
 &nbsp; 
-<br/><br/>
+<br/><br/><br/>
 
 
 <img align="left" width="250" height="334" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ShoujingKe.jpg" style="vertical-align:left;margin: 0px 17px"> 
@@ -89,7 +89,7 @@ Shoujing Ke is an senior undergraduate student at University of Florida majoring
 &nbsp; 
 &nbsp; 
 &nbsp; 
-<br/><br/>
+<br/><br/><br/>
 
 
 <img align="left" width="250" height="332" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ZehuiYin.jpg" style="vertical-align:left;margin: 0px 17px"> 
@@ -102,7 +102,7 @@ Shoujing Ke is an senior undergraduate student at University of Florida majoring
 Zehui Yin is an undergraduate student at the University of Toronto Scarborough. He majors in the economics for management studies and minors in GIS and applied statistics. Zehui is interested in spatial data analysis and cartography. He enjoys riding buses and trains, which motivates his research interest in public transit. 
 
 &nbsp; 
-<br/><br/>
+<br/><br/><br/>
 
 ## Lab Director
 
