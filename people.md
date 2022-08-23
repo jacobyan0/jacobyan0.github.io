@@ -46,7 +46,7 @@ Erik Huang is an incoming PhD student at Northwestern University in Transportati
 &nbsp; 
 &nbsp; 
 &nbsp; 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 <img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Tejaswi.png" style="vertical-align:left;margin: 0px 17px"> 
 
@@ -74,7 +74,7 @@ Amay Patel is an undergraduate student at the University of Florida and is curre
 &nbsp; 
 &nbsp; 
 &nbsp; 
-<br/><br/>
+<br/>
 
 
 <img align="left" width="250" height="334" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ShoujingKe.jpg" style="vertical-align:left;margin: 0px 17px"> 
@@ -89,7 +89,7 @@ Shoujing Ke is an senior undergraduate student at University of Florida majoring
 &nbsp; 
 &nbsp; 
 &nbsp; 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 
 <img align="left" width="250" height="332" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ZehuiYin.jpg" style="vertical-align:left;margin: 0px 17px"> 
