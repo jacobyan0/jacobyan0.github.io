@@ -62,7 +62,7 @@ Tejaswi Polimetla is an undergraduate student at the University of Florida and i
 &nbsp; 
 <br/>
 
-<img align="left" width="246" height="254" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AmayPatel.jpg" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="258" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AmayPatel.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Amay Patel (<a href="mailto:amay.patel@ufl.edu">amay.patel@ufl.edu</a>)
 #### Undergraduate student, University of Florida
@@ -76,6 +76,20 @@ Amay Patel is an undergraduate student at the University of Florida and is curre
 &nbsp; 
 <br/>
 
+
+<img align="left" width="250" height="334" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ShoujingKe.jpg" style="vertical-align:left;margin: 0px 17px"> 
+
+#### Shoujing Ke (<a href="mailto:ske@ufl.edu">ske@ufl.edu</a>)
+#### Undergraduate student, University of Florida
+ 
+&nbsp; 
+
+Shoujing Ke is an senior undergraduate student at University of Florida majoring in Computer Science. He enjoys coding (e.g., C++ and Python), and he likes photograph, fitness, cooking,  basketball, badminton, and reading.
+
+&nbsp; 
+&nbsp; 
+&nbsp; 
+<br/>
 
 <img align="left" width="250" height="332" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ZehuiYin.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
