@@ -21,20 +21,6 @@ Anran Zheng is a PhD student in the Department of Civil and Coastal Engineering 
 
 ## Undergrad Students
 
-<img align="left" width="250" height="313" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ErikHuang.png" style="vertical-align:left;margin: 0px 17px"> 
-
-#### Erik Huang (<a href="mailto:erik.huang@ufl.edu">erik.huang@ufl.edu</a>)
-#### Undergraduate student, University of Florida
- 
-&nbsp; 
-
-Erik Huang is an incoming PhD student at Northwestern University in Transportation Systems Analysis and Planning. He received his B.S in Civil Engineering at the University of Florida. He is interested in shared mobility, public transit, and transportation equity.
-
-&nbsp; 
-&nbsp; 
-&nbsp; 
-<br/><br/><br/><br/>
-
 <img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Tejaswi.png" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Tejaswi Polimetla (<a href="mailto:tpolimetla@ufl.edu">tpolimetla@ufl.edu</a>)
@@ -115,7 +101,22 @@ Jacob is the director of the Just&Green Transportation lab. Specializing in publ
  
 &nbsp; 
 
-Lin Su is a MS student in the Department of Civil and Coastal Engineering at the University of Florida. Her research interests include micromobility and machine learning applications. She is currently researching what strategies can promote transit and shared micromobility integration.
+Lin Su was a MS student in the Department of Civil and Coastal Engineering at the University of Florida. She is currently a PhD in Civil, Architectural, and Environmental Engineering at the University of Texas, Austin.
 
 
+<br/><br/>
+
+
+<img align="left" width="250" height="313" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ErikHuang.png" style="vertical-align:left;margin: 0px 17px"> 
+
+#### Erik Huang (<a href="mailto:erik.huang@ufl.edu">erik.huang@ufl.edu</a>)
+#### Undergraduate student, University of Florida
+ 
+&nbsp; 
+
+Erik Huang is a PhD student at Northwestern University in Transportation Systems Analysis and Planning. He received his B.S in Civil Engineering at the University of Florida. 
+
+&nbsp; 
+&nbsp; 
+&nbsp; 
 <br/><br/>
