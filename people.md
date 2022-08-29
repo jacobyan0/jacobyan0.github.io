@@ -62,20 +62,7 @@ Shoujing Ke is an senior undergraduate student at University of Florida majoring
 &nbsp; 
 &nbsp; 
 &nbsp; 
-<br/><br/><br/><br/><br/>
-
-
-<img align="left" width="250" height="332" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ZehuiYin.jpg" style="vertical-align:left;margin: 0px 17px"> 
-
-#### Zehui Yin (<a href="mailto:zehui.yin@mail.utoronto.ca">zehui.yin@mail.utoronto.ca</a>)
-#### Undergraduate student, University of Toronto
- 
-&nbsp; 
-
-Zehui Yin is an undergraduate student at the University of Toronto Scarborough. He majors in the economics for management studies and minors in GIS and applied statistics. Zehui is interested in spatial data analysis and cartography. He enjoys riding buses and trains, which motivates his research interest in public transit. 
-
-&nbsp; 
-<br/><br/>
+<br/><br/><br/><br/>
 
 ## Lab Director
 
@@ -116,4 +103,16 @@ Lin Su was a MS student in the Department of Civil and Coastal Engineering at th
 
 Erik Huang is a PhD student at Northwestern University in Transportation Systems Analysis and Planning. He received his B.S in Civil Engineering at the University of Florida. 
 
+<br/><br/>
+
+<img align="left" width="250" height="332" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ZehuiYin.jpg" style="vertical-align:left;margin: 0px 17px"> 
+
+#### Zehui Yin (<a href="mailto:zehui.yin@mail.utoronto.ca">zehui.yin@mail.utoronto.ca</a>)
+#### Undergraduate student, University of Toronto
+ 
+&nbsp; 
+
+Zehui Yin is an undergraduate student at the University of Toronto Scarborough. He was an intern in the Just & Green Transportation Lab in Summer 2022. 
+
+&nbsp; 
 <br/><br/>
