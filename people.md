@@ -103,7 +103,7 @@ Lin Su is currently a PhD in Civil, Architectural, and Environmental Engineering
 
 Erik Huang is a PhD student at Northwestern University in Transportation Systems Analysis and Planning. He received his B.S in Civil Engineering at the University of Florida. His research interests lie in shared mobility, public transit, and transportation equity.
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 <img align="left" width="250" height="332" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ZehuiYin.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
