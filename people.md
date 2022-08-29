@@ -88,7 +88,7 @@ Jacob is the director of the Just&Green Transportation lab. Specializing in publ
  
 &nbsp; 
 
-Lin Su was a MS student in the Department of Civil and Coastal Engineering at the University of Florida. She is currently a PhD in Civil, Architectural, and Environmental Engineering at the University of Texas, Austin.
+Lin Su is currently a PhD in Civil, Architectural, and Environmental Engineering at the University of Texas, Austin. She received a MS degree from the Department of Civil and Coastal Engineering at the University of Florida. Her research focused on shared micromobility and public transit.
 
 
 <br/><br/><br/>
@@ -101,7 +101,7 @@ Lin Su was a MS student in the Department of Civil and Coastal Engineering at th
  
 &nbsp; 
 
-Erik Huang is a PhD student at Northwestern University in Transportation Systems Analysis and Planning. He received his B.S in Civil Engineering at the University of Florida. 
+Erik Huang is a PhD student at Northwestern University in Transportation Systems Analysis and Planning. He received his B.S in Civil Engineering at the University of Florida. His research interests lie in shared mobility, public transit, and transportation equity.
 
 <br/><br/><br/><br/><br/>
 
@@ -112,7 +112,7 @@ Erik Huang is a PhD student at Northwestern University in Transportation Systems
  
 &nbsp; 
 
-Zehui Yin is an undergraduate student at the University of Toronto Scarborough. He was an intern in the Just & Green Transportation Lab in Summer 2022. 
+Zehui Yin is an undergraduate student at the University of Toronto Scarborough majoring in the economics for management studies and minoring in GIS and applied statistics. He was an intern in the Just & Green Transportation Lab in Summer 2022, focusing on survey data analysis, spatial analytics and visualization. 
 
 &nbsp; 
 <br/><br/>
