@@ -104,7 +104,7 @@ Jacob is the director of the Just&Green Transportation lab. Specializing in publ
 Lin Su was a MS student in the Department of Civil and Coastal Engineering at the University of Florida. She is currently a PhD in Civil, Architectural, and Environmental Engineering at the University of Texas, Austin.
 
 
-<br/><br/>
+<br/><br/><br/>
 
 
 <img align="left" width="250" height="313" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ErikHuang.png" style="vertical-align:left;margin: 0px 17px"> 
@@ -116,7 +116,4 @@ Lin Su was a MS student in the Department of Civil and Coastal Engineering at th
 
 Erik Huang is a PhD student at Northwestern University in Transportation Systems Analysis and Planning. He received his B.S in Civil Engineering at the University of Florida. 
 
-&nbsp; 
-&nbsp; 
-&nbsp; 
 <br/><br/>
