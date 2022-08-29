@@ -62,7 +62,7 @@ Shoujing Ke is an senior undergraduate student at University of Florida majoring
 &nbsp; 
 &nbsp; 
 &nbsp; 
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 ## Lab Director
 
@@ -103,7 +103,7 @@ Lin Su was a MS student in the Department of Civil and Coastal Engineering at th
 
 Erik Huang is a PhD student at Northwestern University in Transportation Systems Analysis and Planning. He received his B.S in Civil Engineering at the University of Florida. 
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 <img align="left" width="250" height="332" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ZehuiYin.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
