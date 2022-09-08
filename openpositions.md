@@ -14,7 +14,7 @@ The successful candidates are expected to study one of the following topics (or 
 
 •	Promoting equitable AI applications in transportation<br/>
 •	Multimodal transportation (e.g., public transit, shared mobility, and shared micromobility)<br/>
-• Electric vehicle charging infrastructure<br/>
+• E-mobility (electric cars, e-bikes or pedelecs, and e-buses) <br/>
 •	Spatial accessibility to essential destinations such as jobs, food, and healthcare
 &nbsp;
 
