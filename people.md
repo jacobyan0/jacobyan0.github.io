@@ -112,7 +112,7 @@ Erik Huang is a PhD student at Northwestern University in Transportation Systems
  
 &nbsp; 
 
-Zehui Yin is an undergraduate student at the University of Toronto Scarborough majoring in the economics for management studies and minoring in GIS and applied statistics. He was an intern in the Just & Green Transportation Lab in Summer 2022, focusing on survey data analysis, spatial analytics and visualization. 
+Zehui Yin is an undergraduate student at the University of Toronto Scarborough majoring in the economics for management studies and minoring in GIS and applied statistics. He was a volunteer in the Just & Green Transportation Lab in Summer 2022, focusing on survey data analysis, spatial analytics and visualization. 
 
 &nbsp; 
 <br/><br/>
