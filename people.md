@@ -17,9 +17,23 @@ The Just&Green Transportation Lab focuses on using data science and artificial i
 
 Anran Zheng is a PhD student in the Department of Civil and Coastal Engineering at the University of Florida. She received a M.S. degree in Urban Spatial Analytics from the University of Pennsylvania. She is interested in solving spatial, urban and health related issues with GIS and big data analytics.
 
-<br/><br/>
+<br/>
 
 ## Undergrad Students
+
+<img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ElianaDuarte.jpg" style="vertical-align:left;margin: 0px 17px"> 
+
+#### Eliana Duarte (<a href="mailto:elianaduarte@ufl.edu">elianaduarte@ufl.edu</a>)
+#### Undergraduate student, University of Florida
+ 
+&nbsp; 
+
+Eliana Duarte is an undergraduate student at the University of Florida pursuing a major in Civil Engineering with a minor in Urban and Regional Planning. She is interested in public transit, transportation planning, and urban design. 
+
+&nbsp; 
+&nbsp; 
+&nbsp; 
+<br/><br/>
 
 <img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Tejaswi.png" style="vertical-align:left;margin: 0px 17px"> 
 
@@ -47,7 +61,7 @@ Amay Patel is an undergraduate student at the University of Florida and is curre
 &nbsp; 
 &nbsp; 
 &nbsp; 
-<br/><br/>
+<br/>
 
 
 <img align="left" width="250" height="334" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ShoujingKe.jpg" style="vertical-align:left;margin: 0px 17px"> 
@@ -77,7 +91,7 @@ Jacob is the director of the Just&Green Transportation lab. Specializing in publ
 
 
 &nbsp; 
-<br/><br/><br/>
+<br/>
 
 ## Former Lab Members
 
@@ -103,7 +117,7 @@ Lin Su is currently a PhD in Civil, Architectural, and Environmental Engineering
 
 Erik Huang is a PhD student at Northwestern University in Transportation Systems Analysis and Planning. He received his B.S in Civil Engineering at the University of Florida. His research interests lie in shared mobility, public transit, and transportation equity.
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 
 <img align="left" width="250" height="332" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ZehuiYin.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
