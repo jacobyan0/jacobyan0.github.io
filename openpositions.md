@@ -12,7 +12,7 @@ We are recruiting 1-2 fully-funded PhD student to join the Department of Civil a
 
 The successful candidates are expected to study one of the following topics (or related topics that fit their own interests):
 
-•	Digital twin, geospatial big data (e.g., GPS data), and AI applications (e.g., computer vision) in transportation<br/>
+•	Digital twin, geospatial big data (e.g., GPS data), and AI applications in transportation<br/>
 •	Multimodal transportation (e.g., public transit, shared mobility, and shared micromobility)<br/>
 • E-mobility (electric cars, e-bikes, e-scooters, and e-buses) <br/>
 •	Spatial accessibility to essential destinations such as jobs, food, and healthcare
