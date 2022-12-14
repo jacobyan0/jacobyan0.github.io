@@ -15,8 +15,9 @@ The Just&Green Transportation Lab focuses on using data science and artificial i
 
 &nbsp; 
 
-Anran Zheng is a PhD student in the Department of Civil and Coastal Engineering at the University of Florida. She received a M.S. degree in Urban Spatial Analytics from the University of Pennsylvania. She is interested in solving spatial, urban and health related issues with GIS and big data analytics.
+Anran Zheng is a PhD student in the Department of Civil and Coastal Engineering at the University of Florida. She received a M.S. degree in Urban Spatial Analytics from the University of Pennsylvania. She is interested in solving spatial, urban and health related issues with GIS and big data analytics. 
 
+See Anran's work here: https://anranz.netlify.app
 <br/>
 
 ## Undergrad Students
