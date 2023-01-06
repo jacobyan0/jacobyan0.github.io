@@ -15,38 +15,24 @@ The Just&Green Transportation Lab focuses on using data science and artificial i
 
 &nbsp; 
 
-Anran Zheng is a PhD student in the Department of Civil and Coastal Engineering at the University of Florida. She received a M.S. degree in Urban Spatial Analytics from the University of Pennsylvania. She is interested in solving spatial, urban and health related issues with GIS and big data analytics.
-
-
-## Master's Students
-
-<img align="left" width="250" height="302" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/LinSu.jpg" style="vertical-align:left;margin: 0px 17px"> 
-
-#### Lin Su (<a href="mailto:sulin@ufl.edu">sulin@ufl.edu</a>)
-#### Master's student in Transportation Engineering, University of Florida
- 
-&nbsp; 
-
-Lin Su is a MS student in the Department of Civil and Coastal Engineering at the University of Florida. Her research interests include micromobility and machine learning applications. She is currently researching what strategies can promote transit and shared micromobility integration.
-
-
-<br/><br/>
+Anran Zheng is a PhD student in the Department of Civil and Coastal Engineering at the University of Florida. She received a M.S. degree in Urban Spatial Analytics from the University of Pennsylvania. She is interested in solving spatial, urban and health related issues with GIS and big data analytics. See Anran's work here: <a href="https://anranz.netlify.app">https://anranz.netlify.app</a>
+<br/>
 
 ## Undergrad Students
 
-<img align="left" width="250" height="313" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ErikHuang.png" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ElianaDuarte.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
-#### Erik Huang (<a href="mailto:erik.huang@ufl.edu">erik.huang@ufl.edu</a>)
+#### Eliana Duarte (<a href="mailto:elianaduarte@ufl.edu">elianaduarte@ufl.edu</a>)
 #### Undergraduate student, University of Florida
  
 &nbsp; 
 
-Erik Huang is an incoming PhD student at Northwestern University in Transportation Systems Analysis and Planning. He received his B.S in Civil Engineering at the University of Florida. He is interested in shared mobility, public transit, and transportation equity.
+Eliana Duarte is an undergraduate student at the University of Florida pursuing a major in Civil Engineering with a minor in Urban and Regional Planning. She is interested in public transit, transportation planning, and urban design. 
 
 &nbsp; 
 &nbsp; 
 &nbsp; 
-<br/>
+<br/><br/>
 
 <img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Tejaswi.png" style="vertical-align:left;margin: 0px 17px"> 
 
@@ -60,7 +46,7 @@ Tejaswi Polimetla is an undergraduate student at the University of Florida and i
 &nbsp; 
 &nbsp; 
 &nbsp; 
-<br/>
+<br/><br/>
 
 <img align="left" width="250" height="258" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AmayPatel.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
@@ -89,19 +75,7 @@ Shoujing Ke is an senior undergraduate student at University of Florida majoring
 &nbsp; 
 &nbsp; 
 &nbsp; 
-<br/>
-
-<img align="left" width="250" height="332" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ZehuiYin.jpg" style="vertical-align:left;margin: 0px 17px"> 
-
-#### Zehui Yin (<a href="mailto:zehui.yin@mail.utoronto.ca">zehui.yin@mail.utoronto.ca</a>)
-#### Undergraduate student, University of Toronto
- 
-&nbsp; 
-
-Zehui Yin is an undergraduate student at the University of Toronto Scarborough. He majors in the economics for management studies and minors in GIS and applied statistics. Zehui is interested in spatial data analysis and cartography. He enjoys riding buses and trains, which motivates his research interest in public transit. 
-
-&nbsp; 
-<br/><br/>
+<br/><br/><br/><br/><br/>
 
 ## Lab Director
 
@@ -113,3 +87,45 @@ Zehui Yin is an undergraduate student at the University of Toronto Scarborough. 
 &nbsp; 
 
 Jacob is the director of the Just&Green Transportation lab. Specializing in public transit, shared mobility, spatial analytics and transportation equity, he applies cutting-edge technologies such as artificial intelligence and data science to find ways to make transportation more equitable and sustainable. 
+
+
+&nbsp; 
+<br/>
+
+## Former Lab Members
+
+<img align="left" width="250" height="302" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/LinSu.jpg" style="vertical-align:left;margin: 0px 17px"> 
+
+#### Lin Su (<a href="mailto:sulin@ufl.edu">sulin@ufl.edu</a>)
+#### Master's student in Transportation Engineering, University of Florida
+ 
+&nbsp; 
+
+Lin Su is currently a PhD in Civil, Architectural, and Environmental Engineering at the University of Texas, Austin. She received a MS degree from the Department of Civil and Coastal Engineering at the University of Florida. Her research focused on shared micromobility and public transit.
+
+
+<br/><br/><br/>
+
+
+<img align="left" width="250" height="313" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ErikHuang.png" style="vertical-align:left;margin: 0px 17px"> 
+
+#### Erik Huang (<a href="mailto:erik.huang@ufl.edu">erik.huang@ufl.edu</a>)
+#### Undergraduate student, University of Florida
+ 
+&nbsp; 
+
+Erik Huang is a PhD student at Northwestern University in Transportation Systems Analysis and Planning. He received his B.S in Civil Engineering at the University of Florida. His research interests lie in shared mobility, public transit, and transportation equity.
+
+<br/><br/><br/>
+
+<img align="left" width="250" height="332" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ZehuiYin.jpg" style="vertical-align:left;margin: 0px 17px"> 
+
+#### Zehui Yin (<a href="mailto:zehui.yin@mail.utoronto.ca">zehui.yin@mail.utoronto.ca</a>)
+#### Undergraduate student, University of Toronto
+ 
+&nbsp; 
+
+Zehui Yin is an undergraduate student at the University of Toronto Scarborough majoring in the economics for management studies and minoring in GIS and applied statistics. He was a volunteer in the Just & Green Transportation Lab in Summer 2022, focusing on survey data analysis, spatial analytics and visualization. 
+
+&nbsp; 
+<br/><br/>

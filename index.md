@@ -11,6 +11,9 @@ I am an Assistant Professor in the Department of Civil and Coastal Engineering a
 
 ## Just&Green Transportation Lab
 
+<img align="left" width="261" height="54" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Lab%20logo.jpg" style="vertical-align:middle;margin: 8px 25px"> 
+
+
 Our work focuses on using data science and artificial intelligence (machine learning) to make transportation more equitable and sustainable. Bridging transportation engineering, data science, and urban planning, we take an interdisciplinary approach to transportation research that connects technological innovations with community needs. We work closely with public agencies and industry partners to develop intelligent decision-support tools that can help them better plan for and manage new mobility systems such as shared e-scooters. 
 
 ## Areas of focus
