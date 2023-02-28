@@ -3,6 +3,8 @@ layout: page
 title: "Data and Software"
 ---
 
+This web page will be constantly updated as more research results from the Just & Green Transportaion become avilable. 
+&nbsp;
 
 ## Software code
 Python code ([Download](https://github.com/jacobyan0/jacobyan0.github.io/blob/master/Sharing/GBFS%20data%20extraction.zip?raw=true)) for scrapping General Bikeshare Feed Specification (GBFS) data from public APIs.
