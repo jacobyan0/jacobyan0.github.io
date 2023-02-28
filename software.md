@@ -3,7 +3,7 @@ layout: page
 title: "Data and Software"
 ---
 
-This web page will be constantly updated as more research results from the Just & Green Transportaion become avilable. 
+This web page will be constantly updated as more research results from the Just & Green Transportaion Lab become avilable. 
 &nbsp;
 
 ## Software code
