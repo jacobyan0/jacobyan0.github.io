@@ -20,8 +20,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   #- {title: "CV", url: "https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jacobyan0/jacobyan0.github.io/master/Yan_CV.pdf"}
   - {title:"People", file: "people.md"} 
   - {file: "projects.md"}
-  - {file: "publications.md"}
-  #- {file: "software.md"}
+  #- {file: "publications.md"}
+  - {file: "software.md"}
   #- {file: "invitedtalks.md"}
   - {file: "teaching.md"}
   - {file: "openpositions.md"}
