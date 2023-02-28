@@ -5,7 +5,7 @@ title: "Data and Software"
 
 
 ## Software code
-Python code [Download](https://github.com/jacobyan0/jacobyan0.github.io/blob/master/Sharing/GBFS%20data%20extraction.zip?raw=true) for scrapping General Bikeshare Feed Specification (GBFS) data from public APIs.
+Python code ([Download])(https://github.com/jacobyan0/jacobyan0.github.io/blob/master/Sharing/GBFS%20data%20extraction.zip?raw=true) for scrapping General Bikeshare Feed Specification (GBFS) data from public APIs.
 
 _Related citation_: <br/>
 Xu, Y., Yan, X., Sisiopiku, V. P., Merlin, L. A., Xing, F., & Zhao, X. (2022). [Micromobility trip origin and destination inference using general bikeshare feed specification data](https://doi.org/10.1177/03611981221092005). Transportation Research Record, 2676(11), 223-238.
