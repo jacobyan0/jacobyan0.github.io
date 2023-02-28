@@ -3,7 +3,8 @@ layout: page
 title: "Data and Software"
 ---
 
-This web page will be constantly updated as more research results from the Just & Green Transportaion Lab become avilable. 
+The Just & Green Transportaion Lab supports open science. This web page will be constantly updated as more research results from the lab become avilable. If you find the codes, data, or other products to be useful, please kindly cite the publication listed under each product.
+
 &nbsp;
 
 ## Software code
