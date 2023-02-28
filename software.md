@@ -17,7 +17,7 @@ Xu, Y., Yan, X., Sisiopiku, V. P., Merlin, L. A., Xing, F., & Zhao, X. (2022). [
 &nbsp;
 
 ## Data
-[1] Sample General Bikeshare Feed Specification (GBFS) data ([Download](https://github.com/jacobyan0/jacobyan0.github.io/blob/master/Sharing/Washington%20DC_GBFS.zip?raw=true)) obtained from public APIs.
+[1] Sample General Bikeshare Feed Specification (GBFS) data ([Download](https://github.com/jacobyan0/jacobyan0.github.io/blob/master/Sharing/Washington%20DC_GBFS.zip?raw=true)) obtained from public APIs. Please contact us if you need access to the full dataset.
 
 _Related citation_:<br/>
 Merlin, L. A., Yan, X., Xu, Y., & Zhao, X. (2021). [A segment-level model of shared, electric scooter origins and destinations](https://doi.org/10.1016/j.trd.2021.102709). _Transportation Research Part D: Transport and Environment_, 92, 102709.
