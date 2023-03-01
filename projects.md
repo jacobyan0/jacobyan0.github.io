@@ -22,9 +22,9 @@ title: "Research Projects"
 ### We very much appreciate the funding support from:
 <img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/usdot.png” width="250"> 
 
-<img align="left" height="150" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/usdot.png" style="vertical-align:middle;margin: 8px 25px"> 
-<img align="left" height="150" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/fdot.png" style="vertical-align:middle;margin: 8px 25px"> 
-<img align="left" height="150" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Ford.png" style="vertical-align:middle;margin: 8px 25px"> 
+<img align="left" height="150" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/usdot.png" style="vertical-align:middle;margin: 25px 25px"> 
+<img align="left" height="150" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/fdot.png" style="vertical-align:middle;margin: 25px 25px"> 
+<img align="left" height="150" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Ford.png" style="vertical-align:middle;margin: 25px 25px"> 
 
 
 <table>
