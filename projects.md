@@ -22,13 +22,13 @@ title: "Research Projects"
 <p tyle="font-size:120%;"> We very much appreciate the funding support from: </p>
 
 
-<div class="container">
+<container>
   <img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/usdot.png" / width = 200px height = 200px>
   <img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Ford.png" / width = 200px height = 200px>
   <img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/NHC.png" / width = 200px height = 200px>
   <img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Poverty Solutions.jpg" / width = 200px height = 200px>
   <img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/fdot.png" / width = 200px height = 200px>
   <img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/fta.jpg" / width = 200px height = 200px>
-</div>
+</container>
 
 
