@@ -26,7 +26,7 @@ title: "Research Projects"
 
   
 <div>
-  <table border="1">
+  <table border="0">
   <tr>
     <td> <img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/usdot.png"   width = 200px height = 200px ></td>
 <td> <img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Ford.png"   width = 200px height = 200px ></td>
