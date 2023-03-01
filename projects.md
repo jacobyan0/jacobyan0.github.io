@@ -22,13 +22,13 @@ title: "Research Projects"
 ### We very much appreciate the funding support from:
 <table>
 <tr>
-<td> <img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/usdot.png” height="100"> </td>
-<td> <img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/fdot.png” height="100"> </td>
-<td> <img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Ford.png” height="100"> </td>
+<td> <img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/usdot.png” width="250"> </td>
+<td> <img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/fdot.png” width="250"> </td>
+<td> <img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Ford.png” width="250"> </td>
 </tr>
 <tr>
-<td> <img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Poverty%20Solutions.jpg” height="100"> </td>
-<td> <img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/fta.jpg” height="100"> </td>
-<td> <img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/NHC.png” height="100"> </td>
+<td> <img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Poverty%20Solutions.jpg” width="250"> </td>
+<td> <img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/fta.jpg” width="250"> </td>
+<td> <img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/NHC.png” width="250"> </td>
 </tr>
 </table>
