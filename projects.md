@@ -24,7 +24,7 @@ title: "Research Projects"
 <img align="center" height="100" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/fdot.png" style="vertical-align:middle;margin: 50px 50px"> 
 <img align="right" height="100" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Ford.png" style="vertical-align:middle;margin: 50px 50px"> 
 
-/n
+\n
 
 <table>
   <tr>
