@@ -23,17 +23,19 @@ title: "Research Projects"
 
 
 <img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Ford.png" width="300"></img>
-<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/usdot.png” length="400"></img>
+<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/usdot.png” height="400"></img>
 
 <img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/usdot.png” height="50"></img>
 <img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/fdot.png” width="300"></img>
-<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Ford.png” length="200"></img>
+<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Ford.png” height="200"></img>
 
 
-<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Poverty%20Solutions.jpg” length="200">
-<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/fta.jpg” length="200">
-<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/NHC.png” length="200">
-
+<p>
+<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Poverty%20Solutions.jpg” heigh="200">
+<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/fta.jpg” heigh="200">
+<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/NHC.png” heigh="200">
+</p>
+  
 <div>
 <table>
   <tr>
