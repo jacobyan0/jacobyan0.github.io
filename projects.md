@@ -26,16 +26,16 @@ title: "Research Projects"
 
   
 <div>
-  <table border="0">
+  <table border=0>
   <tr>
-    <td> <img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/usdot.png"   width = 200px height = 200px ></td>
-<td> <img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Ford.png"   width = 200px height = 200px ></td>
-    <td><img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/NHC.png"  width = 200px height = 200px></td>
+    <td> <img border=0 src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/usdot.png"   width = 200px height = 200px ></td>
+<td> <img border=0 src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Ford.png"   width = 200px height = 200px></td>
+    <td><img border=0 src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/NHC.png"  width = 200px height = 200px></td>
    </tr> 
    <tr>
-      <td><img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Poverty Solutions.jpg" width = 200px height = 200px></td>
-<td> <img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/fdot.png"   width = 200px height = 200px ></td>
-      <td><img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/fta.jpg" width = 200px height = 200px>
+      <td><img border=0 src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Poverty Solutions.jpg" width = 200px height = 200px></td>
+<td> <img border=0 src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/fdot.png"   width = 200px height = 200px></td>
+      <td><img border=0 src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/fta.jpg" width = 200px height = 200px>
   </td>
   </tr>
 </table>
