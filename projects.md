@@ -20,13 +20,19 @@ title: "Research Projects"
 &nbsp; 
 
 ### We very much appreciate the funding support from:
-<img align="left" height="150" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/usdot.png" style="vertical-align:middle;margin: 50px 50px"> 
-<img align="center" height="100" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/fdot.png" style="vertical-align:middle;margin: 50px 50px"> 
-<img align="right" height="100" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Ford.png" style="vertical-align:middle;margin: 50px 50px"> 
 
 
-<img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Ford.png" width="250"> 
-<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/usdot.png” length="200">
+<img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Ford.png" width="300"> 
+<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/usdot.png” length="400">
+
+<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/usdot.png” height="50">
+<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/fdot.png” width="300">
+<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Ford.png” length="200">
+
+
+<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Poverty%20Solutions.jpg” length="200">
+<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/fta.jpg” length="200">
+<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/NHC.png” length="200">
 
 <div>
 <table>
