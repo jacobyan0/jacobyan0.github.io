@@ -22,15 +22,19 @@ title: "Research Projects"
 ### We very much appreciate the funding support from:
 
 
+<img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Ford.png" width="300"></img>
+<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/usdot.png” height="400"></img>
+
+<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/usdot.png” height="50"></img>
 
 <img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/fdot.png” width="300"></img>
 <img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Ford.png” height="200"></img>
 
 
 <p>
-<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Poverty%20Solutions.jpg” heigh="200">
-<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/fta.jpg” heigh="200">
-<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/NHC.png” heigh="200">
+<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Poverty%20Solutions.jpg” height="200">
+<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/fta.jpg” height="200">
+<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/NHC.png” height="200">
 </p>
   
 <div>
