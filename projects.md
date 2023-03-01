@@ -23,7 +23,7 @@ title: "Research Projects"
 
 
 <img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Ford.png" style="width:128px;height:128px;">
-<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/usdot.png” style="width:128px;height:128px;"></img>
+<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/usdot.png” style="width:128px;height:128px;">
 
 
 <p>
