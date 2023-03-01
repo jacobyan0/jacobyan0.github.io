@@ -20,6 +20,8 @@ title: "Research Projects"
 &nbsp; 
 
 ### We very much appreciate the funding support from:
+<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/usdot.png” width="250"> 
+
 <table>
 <tr>
 <td> <img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/usdot.png” width="250"> </td>
