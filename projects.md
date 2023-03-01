@@ -19,7 +19,7 @@ title: "Research Projects"
 
 &nbsp; 
 
-### We very much appreciate the funding support from:
+<p tyle="font-size:120%;"> We very much appreciate the funding support from: </p>
 
 
 <img align="left" width="250" height="263" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/usdot.png" style="vertical-align:left;margin: 0px 17px"> 
