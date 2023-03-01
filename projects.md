@@ -22,15 +22,10 @@ title: "Research Projects"
 ### We very much appreciate the funding support from:
 
 
-<img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Ford.png" style="width:128px;height:128px;">
+
 <img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/usdot.png” style="width:128px;height:128px;">
+<img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Ford.png" style="width:128px;height:128px;">
 
-
-<p>
-<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Poverty%20Solutions.jpg” height="200">
-<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/fta.jpg” height="200">
-<img src=”https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/NHC.png” height="200">
-</p>
   
 <div>
 <table>
