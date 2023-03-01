@@ -21,8 +21,8 @@ title: "Research Projects"
 
 ### We very much appreciate the funding support from:
 <img align="left" height="150" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/usdot.png" style="vertical-align:middle;margin: 50px 50px"> 
-<img align="left" height="100" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/fdot.png" style="vertical-align:middle;margin: 50px 50px"> 
-<img align="left" height="100" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Ford.png" style="vertical-align:middle;margin: 50px 50px"> 
+<img align="center" height="100" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/fdot.png" style="vertical-align:middle;margin: 50px 50px"> 
+<img align="right" height="100" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Ford.png" style="vertical-align:middle;margin: 50px 50px"> 
 
 
 <table>
