@@ -7,6 +7,14 @@ The Just & Green Transportaion Lab supports open science. This web page will be 
 
 &nbsp;
 
+## Digital platform 
+
+ 
+ <a href="https://www.youtube.com/embed/s4ABfMFuq9g" target="_blank">
+ <img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/platform.png" alt="Watch the video" width="480" height="360" border="10" />
+</a>
+ 
+   
 ## Software code
 [1] Python code ([Download](https://github.com/jacobyan0/jacobyan0.github.io/blob/master/Sharing/GBFS%20data%20extraction.zip?raw=true)) for scrapping General Bikeshare Feed Specification (GBFS) data from public APIs.
 
