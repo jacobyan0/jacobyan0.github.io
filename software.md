@@ -7,14 +7,7 @@ The Just & Green Transportaion Lab supports open science. This web page will be 
 
 &nbsp;
 
-## Digital platform 
 
- 
- <a href="https://www.youtube.com/embed/s4ABfMFuq9g" target="_blank">
- <img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/platform.png" alt="Watch the video" width="480" height="360" border="10" />
-</a>
- 
-   
 ## Software code
 [1] Python code ([Download](https://github.com/jacobyan0/jacobyan0.github.io/blob/master/Sharing/GBFS%20data%20extraction.zip?raw=true)) for scrapping General Bikeshare Feed Specification (GBFS) data from public APIs.
 
@@ -30,6 +23,16 @@ Xu, Y., Yan, X., Sisiopiku, V. P., Merlin, L. A., Xing, F., & Zhao, X. (2022). [
 _Related citation_:<br/>
 Merlin, L. A., Yan, X., Xu, Y., & Zhao, X. (2021). [A segment-level model of shared, electric scooter origins and destinations](https://doi.org/10.1016/j.trd.2021.102709). _Transportation Research Part D: Transport and Environment_, 92, 102709.
 
+&nbsp;
+&nbsp;
+
+## Digital platform 
+
+[1] Micromobility Analytics and Management Platform (under development)
+ <a href="https://www.youtube.com/embed/s4ABfMFuq9g" target="_blank">
+ <img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/platform.png" alt="Watch the video" width="480" height="360" border="10" />
+</a>
+ 
 &nbsp;
 &nbsp;
 
