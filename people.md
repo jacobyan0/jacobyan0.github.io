@@ -34,6 +34,8 @@ Eliana Duarte is an undergraduate student at the University of Florida pursuing 
 &nbsp; 
 <br/><br/>
 
+<b>News!</b> Big congrats to Eliana for being selected for the McNair Scholars Program!
+
 <img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Tejaswi.png" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Tejaswi Polimetla (<a href="mailto:tpolimetla@ufl.edu">tpolimetla@ufl.edu</a>)
