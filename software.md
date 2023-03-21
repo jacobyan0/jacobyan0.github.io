@@ -29,6 +29,7 @@ Yan, X., Yang, W., Zhang, X., Xu, Y., Bejleri, I., & Zhao, X. (2021). [A spatiot
 ## Digital platform 
 
 [1] Micromobility Analytics and Management Platform (under development)
+
  <a href="https://www.youtube.com/embed/s4ABfMFuq9g" target="_blank">
  <img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/platform.png" alt="Watch the video" width="480" height="360" border="10" />
 </a>
