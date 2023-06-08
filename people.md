@@ -6,16 +6,26 @@ permalink: /people/
 
 The Just&Green Transportation Lab focuses on using data science and artificial intelligence (machine learning) to make transportation more equitable and sustainable. Our interdisciplinary team is made up of people from various fields such as Transportation Engineering, Urban and Regional Planning, Geography, Computer Science, Statistics, and Economics.
 
-## PhD Students
+## Master's Students
+
+<img align="left" width="250" height="426" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/YuxuanZhang.jpeg" style="vertical-align:left;margin: 0px 17px"> 
+
+#### Yuxuan Zhang (<a href="mailto:zhang.yuxuang@ufl.edu">zhang.yuxuan@ufl.edu</a>)
+#### Master's student in Computer Science, University of Florida
+
+&nbsp; 
+
+Yuxuan Zhang graduated from the University of Florida with a master's in computer science. Currently, he is a Research Assistant at the Just&Green Transportation Lab. Yuxuan loves coding and is interested in new challenges. 
+<br/>
 
 <img align="left" width="250" height="263" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AnranZheng.jpeg" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Anran Zheng (<a href="mailto:anranzheng@ufl.edu">anranzheng@ufl.edu</a>)
-#### PhD student in Transportation Engineering, University of Florida
+#### Master's student in Transportation Engineering, University of Florida
 
 &nbsp; 
 
-Anran Zheng is a PhD student in the Department of Civil and Coastal Engineering at the University of Florida. She received a M.S. degree in Urban Spatial Analytics from the University of Pennsylvania. She is interested in solving spatial, urban and health related issues with GIS and big data analytics. See Anran's work here: <a href="https://anranz.netlify.app">https://anranz.netlify.app</a>
+Anran Zheng is a master'sstudent in the Department of Civil and Coastal Engineering at the University of Florida. She is interested in solving spatial, urban and health related issues with GIS and big data analytics. See Anran's work here: <a href="https://anranz.netlify.app">https://anranz.netlify.app</a>
 <br/>
 
 ## Undergrad Students
@@ -28,6 +38,20 @@ Anran Zheng is a PhD student in the Department of Civil and Coastal Engineering 
 &nbsp; 
 
 Eliana Duarte is an undergraduate student at the University of Florida pursuing a major in Civil Engineering with a minor in Urban and Regional Planning. She is interested in public transit, transportation planning, and urban design. 
+
+&nbsp; 
+&nbsp; 
+&nbsp; 
+<br/><br/>
+
+<img align="left" width="250" height="333" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/KseniaVelichko.jpg" style="vertical-align:left;margin: 0px 17px"> 
+
+#### Ksenia Velichko (<a href="mailto:kvelichko@ufl.edu">kvelichko@ufl.edu</a>)
+#### Undergraduate student, University of Florida
+ 
+&nbsp; 
+
+Ksenia Velichko is a senior undergraduate student at the University of Florida pursuing a major in Computer Science. She is interested in digital art and design, sociology, and enjoys work involving public health. 
 
 &nbsp; 
 &nbsp; 
