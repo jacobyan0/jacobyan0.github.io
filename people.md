@@ -15,9 +15,12 @@ The Just&Green Transportation Lab focuses on using data science and artificial i
 
 &nbsp; 
 
-Yuxuan Zhang graduated from the University of Florida with a master's in computer science. Currently, he is a Research Assistant at the Just&Green Transportation Lab. Yuxuan loves coding and is interested in new challenges. 
+Yuxuan Zhang graduated from the University of Florida with a master's in computer science. Currently, he is a Research Assistant at the Just&Green Transportation Lab. Yuxuan loves coding and enjoys taking on new challenges. 
 <br/>
 
+&nbsp; 
+&nbsp; 
+&nbsp; 
 &nbsp; 
 &nbsp; 
 &nbsp; 
