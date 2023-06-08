@@ -18,6 +18,9 @@ The Just&Green Transportation Lab focuses on using data science and artificial i
 Yuxuan Zhang graduated from the University of Florida with a master's in computer science. Currently, he is a Research Assistant at the Just&Green Transportation Lab. Yuxuan loves coding and is interested in new challenges. 
 <br/>
 
+&nbsp; 
+&nbsp; 
+
 <img align="left" width="250" height="263" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AnranZheng.jpeg" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Anran Zheng (<a href="mailto:anranzheng@ufl.edu">anranzheng@ufl.edu</a>)
@@ -57,6 +60,9 @@ Ksenia Velichko is a senior undergraduate student at the University of Florida p
 &nbsp; 
 &nbsp; 
 <br/><br/>
+
+&nbsp; 
+&nbsp; 
 
 <img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Tejaswi.png" style="vertical-align:left;margin: 0px 17px"> 
 
