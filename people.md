@@ -8,7 +8,7 @@ The Just&Green Transportation Lab focuses on using data science and artificial i
 
 ## Master's Students
 
-<img align="left" width="250" height="426" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/YuxuanZhang.jpg" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="316" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/YuxuanZhang.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Yuxuan Zhang (<a href="mailto:zhang.yuxuang@ufl.edu">zhang.yuxuan@ufl.edu</a>)
 #### Master's student in Computer Science, University of Florida
@@ -47,7 +47,7 @@ Eliana Duarte is an undergraduate student at the University of Florida pursuing 
 &nbsp; 
 <br/><br/>
 
-<img align="left" width="250" height="333" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/KseniaVelichko.jpeg" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="248" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/KseniaVelichko.jpeg" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Ksenia Velichko (<a href="mailto:kvelichko@ufl.edu">kvelichko@ufl.edu</a>)
 #### Undergraduate student, University of Florida
