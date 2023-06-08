@@ -47,7 +47,7 @@ Eliana Duarte is an undergraduate student at the University of Florida pursuing 
 &nbsp; 
 <br/><br/>
 
-<img align="left" width="250" height="333" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/KseniaVelichko.jpg" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="333" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/KseniaVelichko.jpeg" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Ksenia Velichko (<a href="mailto:kvelichko@ufl.edu">kvelichko@ufl.edu</a>)
 #### Undergraduate student, University of Florida
