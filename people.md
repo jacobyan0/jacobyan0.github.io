@@ -19,14 +19,7 @@ Yuxuan Zhang graduated from the University of Florida with a master's in compute
 <br/>
 
 &nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
-&nbsp; 
+
 <br/>
 <br/>
 
