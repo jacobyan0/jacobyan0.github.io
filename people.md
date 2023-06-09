@@ -43,7 +43,6 @@ Eliana Duarte is an undergraduate student at the University of Florida pursuing 
 
 &nbsp; 
 <br/>
-<br/>
 
 <img align="left" width="250" height="248" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/KseniaVelichko.jpeg" style="vertical-align:left;margin: 0px 17px"> 
 
@@ -55,7 +54,6 @@ Eliana Duarte is an undergraduate student at the University of Florida pursuing 
 Ksenia Velichko is a senior undergraduate student at the University of Florida pursuing a major in Computer Science. She is interested in digital art and design, sociology, and enjoys work involving public health. 
 
 &nbsp; 
-<br/>
 <br/>
 
 
@@ -70,7 +68,6 @@ Tejaswi Polimetla is an undergraduate student at the University of Florida and i
 
 &nbsp; 
 <br/>
-<br/>
 
 
 
@@ -84,7 +81,9 @@ Tejaswi Polimetla is an undergraduate student at the University of Florida and i
 Shoujing Ke is an senior undergraduate student at University of Florida majoring in Computer Science. He enjoys coding (e.g., C++ and Python), and he likes photograph, fitness, cooking,  basketball, badminton, and reading.
 
 &nbsp;  
-<br/><br/><br/><br/><br/>
+<br/>
+<br/>
+<br/>
 
 ## Lab Director
 
