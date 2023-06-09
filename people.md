@@ -42,9 +42,8 @@ Anran Zheng is a master'sstudent in the Department of Civil and Coastal Engineer
 Eliana Duarte is an undergraduate student at the University of Florida pursuing a major in Civil Engineering with a minor in Urban and Regional Planning. She is interested in public transit, transportation planning, and urban design. 
 
 &nbsp; 
-&nbsp; 
-&nbsp; 
-<br/><br/>
+<br/>
+<br/>
 
 <img align="left" width="250" height="248" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/KseniaVelichko.jpeg" style="vertical-align:left;margin: 0px 17px"> 
 
@@ -56,12 +55,9 @@ Eliana Duarte is an undergraduate student at the University of Florida pursuing 
 Ksenia Velichko is a senior undergraduate student at the University of Florida pursuing a major in Computer Science. She is interested in digital art and design, sociology, and enjoys work involving public health. 
 
 &nbsp; 
-&nbsp; 
-&nbsp; 
-<br/><br/>
+<br/>
+<br/>
 
-&nbsp; 
-&nbsp; 
 
 <img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Tejaswi.png" style="vertical-align:left;margin: 0px 17px"> 
 
@@ -73,9 +69,8 @@ Ksenia Velichko is a senior undergraduate student at the University of Florida p
 Tejaswi Polimetla is an undergraduate student at the University of Florida and is majoring in Economics and Geography. Teja is interested in spatial planning, artificial intelligence, and transportation policy.
 
 &nbsp; 
-&nbsp; 
-&nbsp; 
-<br/><br/>
+<br/>
+<br/>
 
 
 
@@ -88,9 +83,7 @@ Tejaswi Polimetla is an undergraduate student at the University of Florida and i
 
 Shoujing Ke is an senior undergraduate student at University of Florida majoring in Computer Science. He enjoys coding (e.g., C++ and Python), and he likes photograph, fitness, cooking,  basketball, badminton, and reading.
 
-&nbsp; 
-&nbsp; 
-&nbsp; 
+&nbsp;  
 <br/><br/><br/><br/><br/>
 
 ## Lab Director
@@ -104,8 +97,6 @@ Shoujing Ke is an senior undergraduate student at University of Florida majoring
 
 Jacob is the director of the Just&Green Transportation lab. Specializing in public transit, shared mobility, spatial analytics and transportation equity, he applies cutting-edge technologies such as artificial intelligence and data science to find ways to make transportation more equitable and sustainable. 
 
-
-&nbsp; 
 <br/>
 
 ## Former Lab Members
@@ -120,8 +111,6 @@ Jacob is the director of the Just&Green Transportation lab. Specializing in publ
 Amay Patel is an undergraduate student at the University of Florida and is currently majoring in Computer Science with a minor in Statistics. Amay is interested in artificial intelligence and transport equity along with spatial data analysis. 
 
 &nbsp; 
-&nbsp; 
-&nbsp; 
 <br/>
 
 
@@ -135,7 +124,8 @@ Amay Patel is an undergraduate student at the University of Florida and is curre
 Lin Su is currently a PhD in Civil, Architectural, and Environmental Engineering at the University of Texas, Austin. She received a MS degree from the Department of Civil and Coastal Engineering at the University of Florida. Her research focused on shared micromobility and public transit.
 
 
-<br/><br/><br/>
+<br/>
+<br/>
 
 
 <img align="left" width="250" height="313" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ErikHuang.png" style="vertical-align:left;margin: 0px 17px"> 
@@ -147,7 +137,8 @@ Lin Su is currently a PhD in Civil, Architectural, and Environmental Engineering
 
 Erik Huang is a PhD student at Northwestern University in Transportation Systems Analysis and Planning. He received his B.S in Civil Engineering at the University of Florida. His research interests lie in shared mobility, public transit, and transportation equity.
 
-<br/><br/><br/>
+<br/>
+<br/>
 
 <img align="left" width="250" height="332" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ZehuiYin.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
