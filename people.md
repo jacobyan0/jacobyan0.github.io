@@ -27,7 +27,7 @@ Yuxuan Zhang graduated from the University of Florida with a master's in compute
 
 &nbsp; 
 
-Anran Zheng is a master'sstudent in the Department of Civil and Coastal Engineering at the University of Florida. She is interested in solving spatial, urban and health related issues with GIS and big data analytics. See Anran's work here: <a href="https://anranz.netlify.app">https://anranz.netlify.app</a>
+Anran Zheng is a master'sstudent in the Department of Civil and Coastal Engineering at the University of Florida. She is interested in solving spatial, urban and health related issues with GIS and big data analytics. See Anran's work here: <a href="https://anranz.netlify.app">https://anran0716.github.io</a>
 <br/>
 
 ## Undergrad Students
