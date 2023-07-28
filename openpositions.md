@@ -26,4 +26,4 @@ To express your interest in joining the team, please email your CV, a short cove
 
 #### Temporary Student Research Assistant Positions
 
-The Just&Green Transportation Lab is always looking for enthusiastic undergraduate and master's students who are interested in AI, data science, public transit, emerging transportation technologies, and transport equity. To express your interest in joining the group as a student researcher, please email your CV and a short writing sample to Dr. Xiang 'Jacob' Yan (xiangyan@ufl.edu).
+The Just&Green Transportation Lab frequently recruit enthusiastic undergraduate and master's students who are interested in AI, data science, public transit, emerging transportation technologies, and transport equity into the group. To express your interest, please email your CV and a short writing sample to Dr. Xiang 'Jacob' Yan (xiangyan@ufl.edu).
