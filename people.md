@@ -21,9 +21,9 @@ Duanya Lyu received her M.E. and B.E. degrees in traffic engineering from South 
 <br/>
 <br/>
 
-<img align="left" width="250" height="188" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/YihengQian.jpg" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="286" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/YihengQian.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
-#### Yiheng Qian (<a href="mailto:yihengqian@ufl.edu@ufl.edu">yihengqian@ufl.edu</a>)
+#### Yiheng Qian (<a href="mailto:yihengqian@ufl.edu">yihengqian@ufl.edu</a>)
 #### Ph.D. student in Transportation Engineering, University of Florida
 &nbsp; 
 
