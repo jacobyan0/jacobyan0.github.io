@@ -6,6 +6,31 @@ permalink: /people/
 
 The Just&Green Transportation Lab focuses on using data science and artificial intelligence (machine learning) to make transportation more equitable and sustainable. Our interdisciplinary team is made up of people from various fields such as Transportation Engineering, Urban and Regional Planning, Geography, Computer Science, Statistics, and Economics.
 
+## Ph.D. Students
+
+<img align="left" width="250" height="328" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/DuanyaLyu.jpg" style="vertical-align:left;margin: 0px 17px"> 
+
+#### Duanya Lyu (<a href="mailto:lyu.duanya@ufl.edu">lyu.duanya@ufl.edu</a>)
+#### Ph.D. student in Transportation Engineering, University of Florida
+&nbsp; 
+
+Duanya Lyu received her M.E. and B.E. degrees in traffic engineering from South China University of Technology. Her research interests include transportation equity, sustainability, and spatial data analysis. Beyond academia, she finds relaxation in practicing yoga.
+<br/>
+<br/>
+<br/>
+
+<img align="left" width="250" height="188" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/YihengQian.jpg" style="vertical-align:left;margin: 0px 17px"> 
+
+#### Yiheng Qian (<a href="mailto:yihengqian@ufl.edu@ufl.edu">yihengqian@ufl.edu</a>)
+#### Ph.D. student in Transportation Engineering, University of Florida
+&nbsp; 
+
+Yiheng Qian received his BS degree from Tongji University and his MS degree from Northwestern University. His research interest is to increase the efficiency and equity of transportation systems based on machine learning and statistical methods. He likes singing, playing the piano, and traveling.
+<br/>
+<br/>
+<br/>
+
+
 ## Master's Students
 
 <img align="left" width="250" height="316" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/YuxuanZhang.jpg" style="vertical-align:left;margin: 0px 17px"> 
