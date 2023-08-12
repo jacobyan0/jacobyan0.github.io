@@ -18,6 +18,8 @@ Duanya Lyu received her M.E. and B.E. degrees in traffic engineering from South 
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 <img align="left" width="250" height="188" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/YihengQian.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
@@ -27,9 +29,6 @@ Duanya Lyu received her M.E. and B.E. degrees in traffic engineering from South 
 
 Yiheng Qian received his BS degree from Tongji University and his MS degree from Northwestern University. His research interest is to increase the efficiency and equity of transportation systems based on machine learning and statistical methods. He likes singing, playing the piano, and traveling.
 <br/>
-<br/>
-<br/>
-
 
 ## Master's Students
 
