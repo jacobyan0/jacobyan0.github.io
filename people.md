@@ -30,6 +30,7 @@ Duanya Lyu received her M.E. and B.E. degrees in traffic engineering from South 
 Yiheng Qian received his BS degree from Tongji University and his MS degree from Northwestern University. His research interest is to increase the efficiency and equity of transportation systems based on machine learning and statistical methods. He likes singing, playing the piano, and traveling.
 <br/>
 <br/>
+<br/>
 
 ## Master's Students
 
@@ -53,6 +54,7 @@ Yuxuan Zhang graduated from the University of Florida with a master's in compute
 &nbsp; 
 
 Anran Zheng is a master'sstudent in the Department of Civil and Coastal Engineering at the University of Florida. She is interested in solving spatial, urban and health related issues with GIS and big data analytics. See Anran's work here: <a href="https://anranz.netlify.app">https://anran0716.github.io</a>
+<br/>
 <br/>
 
 ## Undergrad Students
@@ -93,6 +95,8 @@ Tejaswi Polimetla is an undergraduate student at the University of Florida and i
 
 &nbsp; 
 <br/>
+<br/>
+<br/>
 
 ## Lab Director
 
@@ -105,6 +109,7 @@ Tejaswi Polimetla is an undergraduate student at the University of Florida and i
 
 Jacob is the director of the Just&Green Transportation lab. Specializing in public transit, shared mobility, spatial analytics and transportation equity, he applies cutting-edge technologies such as artificial intelligence and data science to find ways to make transportation more equitable and sustainable. 
 
+<br/>
 <br/>
 
 ## Former Lab Members
