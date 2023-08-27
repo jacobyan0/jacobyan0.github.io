@@ -94,6 +94,20 @@ Tejaswi Polimetla is an undergraduate student at the University of Florida and i
 &nbsp; 
 <br/>
 
+## Lab Director
+
+<img align="left" width="226" height="277" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/XiangYan.jpg" style="vertical-align:middle;margin: 0px 17px"> 
+
+#### Xiang 'Jacob' Yan (<a href="mailto:xiangyan@ufl.edu">xiangyan@ufl.edu</a>)
+#### Assistant Professor in Transportation Engineering, University of Florida
+
+&nbsp; 
+
+Jacob is the director of the Just&Green Transportation lab. Specializing in public transit, shared mobility, spatial analytics and transportation equity, he applies cutting-edge technologies such as artificial intelligence and data science to find ways to make transportation more equitable and sustainable. 
+
+<br/>
+
+## Former Lab Members
 
 
 <img align="left" width="250" height="334" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ShoujingKe.jpg" style="vertical-align:left;margin: 0px 17px"> 
@@ -110,20 +124,6 @@ Shoujing Ke is an senior undergraduate student at University of Florida majoring
 <br/>
 <br/>
 
-## Lab Director
-
-<img align="left" width="226" height="277" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/XiangYan.jpg" style="vertical-align:middle;margin: 0px 17px"> 
-
-#### Xiang 'Jacob' Yan (<a href="mailto:xiangyan@ufl.edu">xiangyan@ufl.edu</a>)
-#### Assistant Professor in Transportation Engineering, University of Florida
-
-&nbsp; 
-
-Jacob is the director of the Just&Green Transportation lab. Specializing in public transit, shared mobility, spatial analytics and transportation equity, he applies cutting-edge technologies such as artificial intelligence and data science to find ways to make transportation more equitable and sustainable. 
-
-<br/>
-
-## Former Lab Members
 
 <img align="left" width="250" height="258" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AmayPatel.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
