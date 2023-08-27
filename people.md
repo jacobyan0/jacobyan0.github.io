@@ -109,7 +109,6 @@ Jacob is the director of the Just&Green Transportation lab. Specializing in publ
 
 ## Former Lab Members
 
-
 <img align="left" width="250" height="334" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ShoujingKe.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Shoujing Ke (<a href="mailto:ske@ufl.edu">ske@ufl.edu</a>)
