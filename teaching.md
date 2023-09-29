@@ -14,7 +14,7 @@ This course provides an introduction to sustainable transportation and public tr
 
 ## **CGN 4905/6905 Applied Data Science in Civil and Environmental Engineering**
 
-This class teaches students the intricacies of data science techniques and their applications to real-world problems. Students also learn the basics of problem formulation and data ethics. The images below are final project posters.  
+This class teaches students the intricacies of data science techniques and their applications to real-world problems. Students also learn the basics of problem formulation and data ethics. The images below show the Class of Fall 2021 and their final project posters.  
 
 <img align="" width="480" height="360" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Fall%202021_CGN%204905.jpg" style="vertical-align:middle;margin:15px 15px"> 
 
