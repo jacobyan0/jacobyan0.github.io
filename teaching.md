@@ -4,8 +4,15 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
+## **CGN 4905/6905 Sustainable Transportation and Public Transit**
+Automobile-based transportation planning has been dominating U.S. cities, making people without easy access to personal vehicles have few options to get around. Also, automobile-based travel carries significant environmental harms, making transportation the economic sector that generates the largest share of greenhouse gas emissions in the US. Accordingly, the concept of sustainable transportation has emerged as a key strategy to provide more transportation and lifecycle choices for individuals and enhance the long-term sustainability of cities and regions.
 
-## **Fall 2021: CGN 4905/6905 Applied Data Science in Civil and Environmental Engineering**
+This course provides an introduction to sustainable transportation and public transit, covering the basic concepts, critical issues, emerging trends, and recent policy initiatives. The class will be centered on mass transit (buses and trains), aiming to equip students with a foundational understanding of transit planning and operations. Other topics include bicycling, walking, shared mobility (e.g., ridesharing and shared micromobility), street design, social equity, and emerging technologies. 
+
+&nbsp;
+&nbsp;
+
+## **CGN 4905/6905 Applied Data Science in Civil and Environmental Engineering**
 
 This class teaches students the intricacies of data science techniques and their applications to real-world problems. Students also learn the basics of problem formulation and data ethics. The images below are final project posters.  
 
