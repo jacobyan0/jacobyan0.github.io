@@ -31,7 +31,7 @@ Yan, X., Yang, W., Zhang, X., Xu, Y., Bejleri, I., & Zhao, X. (2021). [A spatiot
 [1] Micromobility Analytics and Management Platform 
 
  <a href="https://www.youtube.com/embed/s4ABfMFuq9g" target="_blank">
- <img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/platform.png" alt="Watch the video" width="480" height="360" border="10" />
+ <img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/platform.png" alt="Watch the video" width="960" height="720" border="10" />
 </a>
  
 &nbsp;
@@ -40,7 +40,7 @@ Yan, X., Yang, W., Zhang, X., Xu, Y., Bejleri, I., & Zhao, X. (2021). [A spatiot
 [2] Transit On-time Performance Dashboard
 
  <a href="https://github.com/jacobyan0/jacobyan0.github.io/blob/ccfb8a22ebd06633ad230fdd8b3c12033aa9a547/images/Other/MDT_OnTimePerformance.png" target="_blank">
- <img src="https://github.com/jacobyan0/jacobyan0.github.io/blob/ccfb8a22ebd06633ad230fdd8b3c12033aa9a547/images/Other/MDT_OnTimePerformance.png" alt="Watch the video" width="480" height="360" border="10" />
+ <img src="https://github.com/jacobyan0/jacobyan0.github.io/blob/ccfb8a22ebd06633ad230fdd8b3c12033aa9a547/images/Other/MDT_OnTimePerformance.png" alt="Watch the video" width="960" height="528" border="10" />
 </a>
 
 ## Survey instrument
