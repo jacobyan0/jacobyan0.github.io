@@ -26,7 +26,7 @@ Yan, X., Yang, W., Zhang, X., Xu, Y., Bejleri, I., & Zhao, X. (2021). [A spatiot
 &nbsp;
 &nbsp;
 
-## Digital platform 
+## Databases and application platforms 
 
 [1] Micromobility Analytics and Management Platform 
 
@@ -36,6 +36,12 @@ Yan, X., Yang, W., Zhang, X., Xu, Y., Bejleri, I., & Zhao, X. (2021). [A spatiot
  
 &nbsp;
 &nbsp;
+
+[2] Transit On-time Performance Dashboard
+
+ <a href="https://github.com/jacobyan0/jacobyan0.github.io/blob/ccfb8a22ebd06633ad230fdd8b3c12033aa9a547/images/Other/MDT_OnTimePerformance.png" target="_blank">
+ <img src="https://github.com/jacobyan0/jacobyan0.github.io/blob/ccfb8a22ebd06633ad230fdd8b3c12033aa9a547/images/Other/MDT_OnTimePerformance.png" alt="Watch the video" width="480" height="360" border="10" />
+</a>
 
 ## Survey instrument
 [1] Transit and share micromobility survey questionnaire ([Download](https://github.com/jacobyan0/jacobyan0.github.io/blob/master/Sharing/Transit%20and%20shared%20micromobility%20survey.docx?raw=true))
