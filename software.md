@@ -3,7 +3,7 @@ layout: page
 title: "Data and Software"
 ---
 
-The Just & Green Transportaion Lab supports open science. This web page will be constantly updated as more research results from the lab become avilable. If you find the codes, data, or other products to be useful, please kindly cite the publication listed under each product.
+The Just & Green Transportation Lab supports open science. This web page will be constantly updated as more research results from the lab become avilable. If you find the codes, data, or other products to be useful, please kindly cite the publication listed under each product.
 
 &nbsp;
 
@@ -39,9 +39,10 @@ Yan, X., Yang, W., Zhang, X., Xu, Y., Bejleri, I., & Zhao, X. (2021). [A spatiot
 
 [2] Transit On-time Performance Dashboard
 
- <a href="https://github.com/jacobyan0/jacobyan0.github.io/blob/ccfb8a22ebd06633ad230fdd8b3c12033aa9a547/images/Other/MDT_OnTimePerformance.png" target="_blank">
+
  <img src="https://github.com/jacobyan0/jacobyan0.github.io/blob/ccfb8a22ebd06633ad230fdd8b3c12033aa9a547/images/Other/MDT_OnTimePerformance.png" alt="Watch the video" width="960" height="528" border="10" />
-</a>
+
+
 
 ## Survey instrument
 [1] Transit and share micromobility survey questionnaire ([Download](https://github.com/jacobyan0/jacobyan0.github.io/blob/master/Sharing/Transit%20and%20shared%20micromobility%20survey.docx?raw=true))
