@@ -116,8 +116,7 @@ Tejaswi Polimetla is an undergraduate student at the University of Florida and i
 
 &nbsp; 
 <br/>
-<br/>
-<br/>
+
 
 <img align="left" width="250" height="263" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AnranZheng.jpeg" style="vertical-align:left;margin: 0px 17px"> 
 
