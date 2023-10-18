@@ -9,7 +9,8 @@ The Just&Green Transportation Lab focuses on using data science and artificial i
 ## Postdoc Associate
 <img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/LuyuLiu.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
-#### Postdoc Associate (<a href="mailto:luyuliu@ufl.edu">luyuliu@ufl.edu</a>)
+#### Luyu Liu (<a href="mailto:luyuliu@ufl.edu">luyuliu@ufl.edu</a>)
+#### Postdoc Associate in Civil and Coastal Engineering, University of Florida
 &nbsp; 
 
 Luyu Liu is a Postdoc Associate working in the SERMOS Lab and Just&Green Lab at the University of Florida. He received his Ph.D. degree in Geographic Information Science at The Ohio State University. His research focuses on promoting sustainable transportation and mobility equity with GIS and data science techniques.
