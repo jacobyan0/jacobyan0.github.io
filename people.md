@@ -46,17 +46,6 @@ Yuxuan Zhang graduated from the University of Florida with a master's in compute
 <br/>
 <br/>
 
-<img align="left" width="250" height="263" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AnranZheng.jpeg" style="vertical-align:left;margin: 0px 17px"> 
-
-#### Anran Zheng (<a href="mailto:anranzheng@ufl.edu">anranzheng@ufl.edu</a>)
-#### Master's student in Transportation Engineering, University of Florida
-
-&nbsp; 
-
-Anran Zheng is a master'sstudent in the Department of Civil and Coastal Engineering at the University of Florida. She is interested in solving spatial, urban and health related issues with GIS and big data analytics. See Anran's work here: <a href="https://anranz.netlify.app">https://anran0716.github.io</a>
-<br/>
-<br/>
-
 ## Undergrad Students
 
 <img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ElianaDuarte.jpg" style="vertical-align:left;margin: 0px 17px"> 
@@ -84,19 +73,6 @@ Ksenia Velichko is a senior undergraduate student at the University of Florida p
 <br/>
 
 
-<img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Tejaswi.png" style="vertical-align:left;margin: 0px 17px"> 
-
-#### Tejaswi Polimetla (<a href="mailto:tpolimetla@ufl.edu">tpolimetla@ufl.edu</a>)
-#### Undergraduate student, University of Florida
- 
-&nbsp; 
-
-Tejaswi Polimetla is an undergraduate student at the University of Florida and is majoring in Economics and Geography. Teja is interested in spatial planning, artificial intelligence, and transportation policy.
-
-&nbsp; 
-<br/>
-<br/>
-<br/>
 
 ## Lab Director
 
@@ -114,14 +90,41 @@ Jacob is the director of the Just&Green Transportation lab. Specializing in publ
 
 ## Former Lab Members
 
-<img align="left" width="250" height="334" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ShoujingKe.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
-#### Shoujing Ke (<a href="mailto:ske@ufl.edu">ske@ufl.edu</a>)
-#### Undergraduate student, University of Florida
+<img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Tejaswi.png" style="vertical-align:left;margin: 0px 17px"> 
+
+#### Tejaswi Polimetla (<a href="mailto:tpolimetla@ufl.edu">tpolimetla@ufl.edu</a>)
+#### Undergraduate student, Economics & Geography, University of Florida
  
 &nbsp; 
 
-Shoujing Ke is an senior undergraduate student at University of Florida majoring in Computer Science. He enjoys coding (e.g., C++ and Python), and he likes photograph, fitness, cooking,  basketball, badminton, and reading.
+Tejaswi Polimetla is an undergraduate student at the University of Florida and is majoring in Economics and Geography. Teja is interested in spatial planning, artificial intelligence, and transportation policy.
+
+&nbsp; 
+<br/>
+<br/>
+<br/>
+
+<img align="left" width="250" height="263" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AnranZheng.jpeg" style="vertical-align:left;margin: 0px 17px"> 
+
+#### Anran Zheng (<a href="mailto:anranzheng@ufl.edu">anranzheng@ufl.edu</a>)
+#### Master's student, Transportation Engineering, University of Florida
+
+&nbsp; 
+
+Anran Zheng is a master'sstudent in the Department of Civil and Coastal Engineering at the University of Florida. She is interested in solving spatial, urban and health related issues with GIS and big data analytics. See Anran's work here: <a href="https://anranz.netlify.app">https://anran0716.github.io</a>
+<br/>
+<br/>
+
+
+<img align="left" width="250" height="334" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ShoujingKe.jpg" style="vertical-align:left;margin: 0px 17px"> 
+
+#### Shoujing Ke (<a href="mailto:ske@ufl.edu">ske@ufl.edu</a>)
+#### Undergraduate student, Computer Science, University of Florida
+ 
+&nbsp; 
+
+Shoujing Ke is a senior undergraduate student at University of Florida majoring in Computer Science. He enjoys coding (e.g., C++ and Python), and he likes photograph, fitness, cooking,  basketball, badminton, and reading.
 
 &nbsp;  
 <br/>
@@ -132,7 +135,7 @@ Shoujing Ke is an senior undergraduate student at University of Florida majoring
 <img align="left" width="250" height="258" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AmayPatel.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Amay Patel (<a href="mailto:amay.patel@ufl.edu">amay.patel@ufl.edu</a>)
-#### Undergraduate student, University of Florida
+#### Undergraduate student, Computer Science, University of Florida
  
 &nbsp; 
 
@@ -159,7 +162,7 @@ Lin Su is currently a PhD in Civil, Architectural, and Environmental Engineering
 <img align="left" width="250" height="313" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ErikHuang.png" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Erik Huang (<a href="mailto:erik.huang@ufl.edu">erik.huang@ufl.edu</a>)
-#### Undergraduate student, University of Florida
+#### Undergraduate student, Transportation Engineering University of Florida
  
 &nbsp; 
 
@@ -171,11 +174,11 @@ Erik Huang is a PhD student at Northwestern University in Transportation Systems
 <img align="left" width="250" height="332" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ZehuiYin.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Zehui Yin (<a href="mailto:zehui.yin@mail.utoronto.ca">zehui.yin@mail.utoronto.ca</a>)
-#### Undergraduate student, University of Toronto
+#### Undergraduate student, Economics & GIS, University of Toronto
  
 &nbsp; 
 
-Zehui Yin is an undergraduate student at the University of Toronto Scarborough majoring in the economics for management studies and minoring in GIS and applied statistics. He was a volunteer in the Just & Green Transportation Lab in Summer 2022, focusing on survey data analysis, spatial analytics and visualization. 
+Zehui Yin is an undergraduate student at the University of Toronto Scarborough majoring in economics for management studies and minoring in GIS and applied statistics. He was a volunteer in the Just & Green Transportation Lab in Summer 2022, focusing on survey data analysis, spatial analytics and visualization. 
 
 &nbsp; 
 <br/><br/>
