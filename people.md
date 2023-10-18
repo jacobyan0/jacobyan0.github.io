@@ -7,7 +7,7 @@ permalink: /people/
 The Just&Green Transportation Lab focuses on using data science and artificial intelligence (machine learning) to make transportation more equitable and sustainable. Our interdisciplinary team is made up of people from various fields such as Transportation Engineering, Urban and Regional Planning, Geography, Computer Science, Statistics, and Economics.
 
 ## Postdoc Associate
-<img align="left" width="250" height="328" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/LuyuLiu.jpg" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/LuyuLiu.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Postdoc Associate (<a href="mailto:luyuliu@ufl.edu">luyuliu@ufl.edu</a>)
 &nbsp; 
