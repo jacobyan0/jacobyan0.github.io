@@ -31,14 +31,14 @@ Yan, X., Yang, W., Zhang, X., Xu, Y., Bejleri, I., & Zhao, X. (2021). [A spatiot
 [1] Micromobility Analytics and Management Platform 
 
  <a href="https://www.youtube.com/embed/s4ABfMFuq9g" target="_blank">
- <img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Platform.jpg" alt="Watch the video" width="960" height="460" border="10" />
+ <img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Platform.jpg" alt="Watch the video" width="960" height="460" />
 </a>
  
 &nbsp;
 
 [2] Transit On-time Performance Dashboard
 
-<img align="left" width="960" height="528" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/MDT_OnTimePerformance.png" style="vertical-align:left;margin: 0px 17px" />
+<img align="left" width="960" height="528" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/MDT_OnTimePerformance.png" style="vertical-align:left;margin: 0px 10px" />
 
 &nbsp;
 <br/>
