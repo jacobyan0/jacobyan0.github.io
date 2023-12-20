@@ -45,14 +45,28 @@ Yiheng Qian received his BS degree from Tongji University and his MS degree from
 
 ## Master's Students
 
-<img align="left" width="250" height="316" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/YuxuanZhang.jpg" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="319" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/KaiyueWang.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
-#### Yuxuan Zhang (<a href="mailto:zhang.yuxuang@ufl.edu">zhang.yuxuan@ufl.edu</a>)
+#### Kaiyue Wang (<a href="mailto:kaiyuewang@ufl.edu">kaiyuewang@ufl.edu</a>)
 #### Master's student in Computer Science, University of Florida
 
 &nbsp; 
 
-Yuxuan Zhang graduated from the University of Florida with a master's in computer science. Currently, he is a Research Assistant at the Just&Green Transportation Lab. Yuxuan loves coding and enjoys taking on new challenges. 
+Kaiyue Wang graduated from the University of Florida with a master’s in computer science. Her research interest is in computer vision. She loves coding and traveling.
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/YilongDai.jpg" style="vertical-align:left;margin: 0px 17px"> 
+
+#### Yilong Dai (<a href="mailto:daiyilong@ufl.edu">daiyilong@ufl.edu</a>)
+#### Master's student in Computer Science, University of Florida
+
+&nbsp; 
+
+Yilong Dai is a Master student in the department of Computer Science at University of Florida. He received his bachelor’s degree from Xi’an Jiaotong University. He is a full-stack developer and loves machine learning. Out of work, he is a crazy fan of Kyrie Irving.
 <br/>
 <br/>
 <br/>
@@ -101,8 +115,23 @@ Jacob is the director of the Just&Green Transportation lab. Specializing in publ
 <br/>
 <br/>
 
+
 ## Former Lab Members
 
+
+<img align="left" width="250" height="316" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/YuxuanZhang.jpg" style="vertical-align:left;margin: 0px 17px"> 
+
+#### Yuxuan Zhang (<a href="mailto:zhang.yuxuang@ufl.edu">zhang.yuxuan@ufl.edu</a>)
+#### Master's student in Computer Science, University of Florida
+
+&nbsp; 
+
+Yuxuan Zhang graduated from the University of Florida with a master's in computer science. Currently, he is a Research Assistant at the Just&Green Transportation Lab. Yuxuan loves coding and enjoys taking on new challenges. 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Tejaswi.png" style="vertical-align:left;margin: 0px 17px"> 
 
@@ -139,6 +168,21 @@ Anran Zheng is a master'sstudent in the Department of Civil and Coastal Engineer
 Shoujing Ke is a senior undergraduate student at University of Florida majoring in Computer Science. He enjoys coding (e.g., C++ and Python), and he likes photograph, fitness, cooking,  basketball, badminton, and reading.
 
 &nbsp;  
+<br/>
+<br/>
+<br/>
+
+
+<img align="left" width="250" height="316" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/RuoyangXiong.jpg" style="vertical-align:left;margin: 0px 17px"> 
+
+#### Ruoyang Xiong (<a href="mailto:xiongruoyangg@ufl.edu">xiongruoyang@ufl.edu</a>)
+#### Master's student in Computer Science, University of Florida
+
+&nbsp; 
+
+Ruoyang Xiong graduated from the University of Florida with a master’s in computer science. He has a strong interest in computer version, SLAM, and robotics. Currently, he is working for Rockwell Automation as a senior software engineer.
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
