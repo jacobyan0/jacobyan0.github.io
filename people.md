@@ -71,8 +71,7 @@ Yilong Dai is a Master student in the department of Computer Science at Universi
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 ## Undergrad Students
 
@@ -185,8 +184,7 @@ Ruoyang Xiong graduated from the University of Florida with a master’s in comp
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 
 <img align="left" width="250" height="258" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AmayPatel.jpg" style="vertical-align:left;margin: 0px 17px"> 
