@@ -58,6 +58,7 @@ Kaiyue Wang graduated from the University of Florida with a master’s in comput
 <br/>
 <br/>
 <br/>
+&nbsp; 
 
 <img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/YilongDai.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
