@@ -126,7 +126,7 @@ Jacob is the director of the Just&Green Transportation lab. Specializing in publ
 
 &nbsp; 
 
-Yuxuan Zhang graduated from the University of Florida with a master's in computer science. Currently, he is a Research Assistant at the Just&Green Transportation Lab. Yuxuan loves coding and enjoys taking on new challenges. 
+Yuxuan Zhang graduated from the University of Florida with a master's in computer science. Yuxuan loves coding and enjoys taking on new challenges. 
 <br/>
 <br/>
 <br/>
@@ -154,7 +154,7 @@ Tejaswi Polimetla is an undergraduate student at the University of Florida and i
 
 &nbsp; 
 
-Anran Zheng is a master's student in the Department of Civil and Coastal Engineering at the University of Florida. She is interested in solving spatial, urban and health related issues with GIS and big data analytics. See Anran's work here: <a href="https://anranz.netlify.app">https://anran0716.github.io</a>
+Anran Zheng was a master's student in the Department of Civil and Coastal Engineering at the University of Florida. She is interested in solving spatial, urban and health related issues with GIS and big data analytics. 
 <br/>
 <br/>
 
@@ -167,7 +167,7 @@ Anran Zheng is a master's student in the Department of Civil and Coastal Enginee
 
 &nbsp; 
 
-Shoujing Ke is a senior undergraduate student at University of Florida majoring in Computer Science. He enjoys coding (e.g., C++ and Python), and he likes photograph, fitness, cooking,  basketball, badminton, and reading.
+Shoujing Ke was an undergraduate student at University of Florida majoring in Computer Science. He enjoys coding (e.g., C++ and Python), and he likes photograph, fitness, cooking,  basketball, badminton, and reading.
 
 &nbsp;  
 <br/>
@@ -183,7 +183,7 @@ Shoujing Ke is a senior undergraduate student at University of Florida majoring 
 
 &nbsp; 
 
-Ruoyang Xiong graduated from the University of Florida with a master’s in computer science. He has a strong interest in computer version, SLAM, and robotics. Currently, he is working for Rockwell Automation as a senior software engineer.
+Ruoyang Xiong graduated from the University of Florida with a master’s in computer science. He has a strong interest in computer vision, SLAM, and robotics. Currently, he is working for Rockwell Automation as a senior software engineer.
 <br/>
 <br/>
 <br/>
@@ -211,7 +211,7 @@ Amay Patel is an undergraduate student at the University of Florida and is curre
 
 &nbsp; 
 
-Lin Su is currently a PhD in Civil, Architectural, and Environmental Engineering at the University of Texas, Austin. She received a MS degree from the Department of Civil and Coastal Engineering at the University of Florida. Her research focused on shared micromobility and public transit.
+Lin Su is currently a PhD in Civil, Architectural, and Environmental Engineering at the University of Texas, Austin. She received an MS degree from the Department of Civil and Coastal Engineering at the University of Florida. Her research focused on shared micromobility and public transit.
 
 
 <br/>
@@ -226,7 +226,7 @@ Lin Su is currently a PhD in Civil, Architectural, and Environmental Engineering
 
 &nbsp; 
 
-Erik Huang is a PhD student at Northwestern University in Transportation Systems Analysis and Planning. He received his B.S in Civil Engineering at the University of Florida. His research interests lie in shared mobility, public transit, and transportation equity.
+Erik Huang is a PhD student at Northwestern University in Transportation Systems Analysis and Planning. He received his B.S. in Civil Engineering at the University of Florida. His research interests lie in shared mobility, public transit, and transportation equity.
 
 <br/>
 <br/>
