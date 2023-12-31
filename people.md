@@ -132,6 +132,7 @@ Yuxuan Zhang graduated from the University of Florida with a master's in compute
 <br/>
 <br/>
 <br/>
+<br/>
 
 <img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Tejaswi.png" style="vertical-align:left;margin: 0px 17px"> 
 
@@ -157,7 +158,8 @@ Tejaswi Polimetla is an undergraduate student at the University of Florida and i
 Anran Zheng was a master's student in the Department of Civil and Coastal Engineering at the University of Florida. She is interested in solving spatial, urban and health related issues with GIS and big data analytics. 
 <br/>
 <br/>
-
+<br/>
+<br/>
 
 <img align="left" width="250" height="334" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ShoujingKe.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
@@ -172,19 +174,17 @@ Shoujing Ke was an undergraduate student at University of Florida majoring in Co
 &nbsp;  
 <br/>
 <br/>
-<br/>
 
 
 <img align="left" width="250" height="316" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/RuoyangXiong.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Ruoyang Xiong (<a href="mailto:xiongruoyangg@ufl.edu">xiongruoyang@ufl.edu</a>)
 #### Master's student in Computer Science, University of Florida
-#### Placement: Senior Software Engineer, L&T Technology Services
+#### Placement: Senior Software Engineer, Rockwell Automation
 
 &nbsp; 
 
-Ruoyang Xiong graduated from the University of Florida with a master’s in computer science. He has a strong interest in computer vision, SLAM, and robotics. Currently, he is working for Rockwell Automation as a senior software engineer.
-<br/>
+Ruoyang Xiong graduated from the University of Florida with a master’s in computer science. He is interested in computer vision, SLAM, and robotics. 
 <br/>
 <br/>
 
@@ -213,8 +213,6 @@ Amay Patel is an undergraduate student at the University of Florida and is curre
 
 Lin Su is currently a PhD in Civil, Architectural, and Environmental Engineering at the University of Texas, Austin. She received an MS degree from the Department of Civil and Coastal Engineering at the University of Florida. Her research focused on shared micromobility and public transit.
 
-
-<br/>
 <br/>
 
 
