@@ -150,10 +150,11 @@ Tejaswi Polimetla is an undergraduate student at the University of Florida and i
 
 #### Anran Zheng (<a href="mailto:anranzheng@ufl.edu">anranzheng@ufl.edu</a>)
 #### Master's student, Transportation Engineering, University of Florida
+#### Placement: GIS Specialist, AECOM
 
 &nbsp; 
 
-Anran Zheng is a master'sstudent in the Department of Civil and Coastal Engineering at the University of Florida. She is interested in solving spatial, urban and health related issues with GIS and big data analytics. See Anran's work here: <a href="https://anranz.netlify.app">https://anran0716.github.io</a>
+Anran Zheng is a master's student in the Department of Civil and Coastal Engineering at the University of Florida. She is interested in solving spatial, urban and health related issues with GIS and big data analytics. See Anran's work here: <a href="https://anranz.netlify.app">https://anran0716.github.io</a>
 <br/>
 <br/>
 
@@ -162,7 +163,8 @@ Anran Zheng is a master'sstudent in the Department of Civil and Coastal Engineer
 
 #### Shoujing Ke (<a href="mailto:ske@ufl.edu">ske@ufl.edu</a>)
 #### Undergraduate student, Computer Science, University of Florida
- 
+#### Placement: Software Engineer, Jreamscape LLC
+
 &nbsp; 
 
 Shoujing Ke is a senior undergraduate student at University of Florida majoring in Computer Science. He enjoys coding (e.g., C++ and Python), and he likes photograph, fitness, cooking,  basketball, badminton, and reading.
@@ -177,6 +179,7 @@ Shoujing Ke is a senior undergraduate student at University of Florida majoring 
 
 #### Ruoyang Xiong (<a href="mailto:xiongruoyangg@ufl.edu">xiongruoyang@ufl.edu</a>)
 #### Master's student in Computer Science, University of Florida
+#### Placement: Senior Software Engineer, L&T Technology Services
 
 &nbsp; 
 
@@ -204,7 +207,8 @@ Amay Patel is an undergraduate student at the University of Florida and is curre
 
 #### Lin Su (<a href="mailto:sulin@ufl.edu">sulin@ufl.edu</a>)
 #### Master's student in Transportation Engineering, University of Florida
- 
+#### Placement: PhD student, University of Texas at Austin
+
 &nbsp; 
 
 Lin Su is currently a PhD in Civil, Architectural, and Environmental Engineering at the University of Texas, Austin. She received a MS degree from the Department of Civil and Coastal Engineering at the University of Florida. Her research focused on shared micromobility and public transit.
@@ -218,7 +222,8 @@ Lin Su is currently a PhD in Civil, Architectural, and Environmental Engineering
 
 #### Erik Huang (<a href="mailto:erik.huang@ufl.edu">erik.huang@ufl.edu</a>)
 #### Undergraduate student, Transportation Engineering University of Florida
- 
+#### Placement: PhD student, Northwestern University
+
 &nbsp; 
 
 Erik Huang is a PhD student at Northwestern University in Transportation Systems Analysis and Planning. He received his B.S in Civil Engineering at the University of Florida. His research interests lie in shared mobility, public transit, and transportation equity.
