@@ -6,9 +6,6 @@ categories: transitnewmobility
 ---
 
 
-<img align="center" width="350" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Mobilityhub_fig1_intro.png" style="vertical-align:middle;margin:15px 15px"/> 
-
-<!--This project introduces a novel mobility hub identification framework. Beginning with a GIS-based methodology, we identify hub locations by prioritizing factors such as transit availability, accessibility, and equity. The tool, available on GitHub, utilizes publicly accessible datasets, ensuring its versatility for diverse regions. To refine these locations, we then integrate citizen input through a survey focused on multimodal travel and opinions on the identified hubs. This collaborative approach optimizes GIS-identified hub locations. In a case study for Gainesville, Florida, we identified mobility hubs at neighborhood, district, and regional levels, and we're extending the application to West Palm Beach. -->
 
 
 - Mobility Hubs
@@ -16,7 +13,9 @@ categories: transitnewmobility
   Mobility hubs are physical locations that allow travelers to seamlessly switch between various modes of transportation such as public transit, ridehailing, and micromobility. These hubs, by enhancing connectivity and accessibility, contribute to an improved quality of life and offer various socioeconomic benefits. Also, as integral components of transport networks, mobility hubs play a crucial role in integrating new mobility technologies.
 
   Cities and transit agencies are showing growing interest in integrating mobility hubs into their transportation improvement initiatives. However, there lacks a standardized method for identifying potential locations for mobility hub development.
-  
+
+  <img align="center" width="350" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Mobilityhub_fig1_intro.png" style="vertical-align:middle;margin:15px 15px"/> 
+
   
 - Research Objectives
 
