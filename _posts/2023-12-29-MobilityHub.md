@@ -8,24 +8,23 @@ categories: transitnewmobility
 
 
 
-- Mobility Hubs
 
   Mobility hubs are physical locations that allow travelers to seamlessly switch between various modes of transportation such as public transit, ridehailing, and micromobility. These hubs, by enhancing connectivity and accessibility, contribute to an improved quality of travel and offer various socioeconomic benefits. Also, as integral components of transport networks, mobility hubs play a crucial role in integrating new mobility technologies.
 
   <img align="center" width="350" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Mobilityhub_fig1_intro.png" style="vertical-align:middle;margin:15px 15px"/> 
 
-  Cities and transit agencies are showing growing interest in integrating mobility hubs into their transportation improvement initiatives. However, there lacks a standardized method for identifying potential locations for mobility hub development.
+  <br/>
+- ### Research Objectives
 
-  
-- Research Objectives
-
-   The purpose of the research is to develop a methodology framework to assess the suitability of an area for establishing mobility hubs and identify the potential locations. This involves considering various factors, including
+   We have developed a methodology to assess the suitability of an area for establishing mobility hubs and identify potential locations. This involves considering five major factors, including
   - Accommodating multimodal travel needs and streamlining transfer processes,
-  - Integrating existing infrastructure,
+  - Integrating with existing bikeped infrastructure,
   - Enhancing first-/last-mile connectivity,
+  - Promoting access to destinations,
   - Promoting socioeconomic equity.
 
-- Analytical Framework
+<br/>
+- ### Analytical Framework
 
   We have developed a multi-criteria approach for identifying multi-level mobility hubs. The approach considers bus stop clusters as the spatial units for potential hub locations (as it is widely recognized that mobility hubs are most effective when located at or near transit stops with high ridership activity). We calculate scores, assign weights, and calculate mobility indexes based on different scenarios. We then carry out the evaluation procedure at various scales, including neighborhood, district, or regional levels. 
 
@@ -40,43 +39,48 @@ categories: transitnewmobility
   3. <u>Compute Neighborhood-Level Hub Index</u>: Using the results from Steps 1 and 2, we calculate the index value for the neighborhood-level hubs. We then identify the neighborhood-level hubs based on the index. Steps include selecting the site with the highest index value as the first hub, excluding potential hubs within 1.5 miles of selected hubs, and repeating these steps until the service area of the mobility hubs covers 75% of transit coverage areas or the total number of hubs reaches a specified limit (N). 
   
   4. <u>Identify a Network of Mobility Hubs</u>: District- and regional-level hub indexes are then computed for the selected neighborhood hubs. In this step, we enlarge the catchment area of the spatial unit and assume catchment areas of 3 and 5 miles, respectively.
+<br/>
 
-  We develope the analytical procedure with ArcGIS Pro and Python.
-
-- Project Data Collection
+- ### Data sources
     1. Transit Data: Gainesville Regional Transit System (RTS) provides information on bus routes and stops through the General Transit Feed Specification (GTFS) dataset. RTS also provides bus ridership data, including passenger counts and on-board wheelchair and bicycle amounts.
     2. FM/LM Connectivity Data: Micromobility trip data, covering e-scooter and micro-transit trips, is collected from the City of Gainesville. Census block-level FM/LM gap scores are derived from the American Community Survey (ACS) and LEHD Origin-Destination Employment Statistics (LODES).
     3. Infrastructure Data: Intersection density data, indicating multi-modal and pedestrian-oriented facilities, is sourced from the Smart Location Database. Road infrastructure data is collected from OpenStreetMap (OSM), offering detailed information about road networks.
     4. Socioeconomic Data: Demographic variables related to population, race, age, income, and vehicle ownership are considered for socioeconomic analysis and are sourced from ACS.
     5. Accessibility Data: Smart Location Database provides data on destination accessibility via auto or transit. Walkability around bus stops is evaluated using walk scores obtained from the Walkscore API.
+<br/>
 
+- ### Results 
 
-- Results and Findings
+  We have generated results for six planning scenarios:
+    - Enhancing transit
+    - Enhancing first-/last-mile connectivity
+    - Leveraging existing infrastructure
+    - Promoting equity
+    - Enhancing accessibility
+    - Equal weights
 
-  For each of the six different scenarios, we identified neighborhood-level, district-level and regional-level mobility hubs.
+  For each scenario, we identified a network of neighborhood-level, district-level, and regional-level mobility hubs in the City of Gainesville.
 
   <img align="center" width="700" height="400" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Mobilityhub_fig3_case.png" style="vertical-align:middle;margin:15px 15px"/> 
 
-  In general, this outcome seems fairly plausible. Most of neighborhood-level hubs locate at southwest and east Gainesville. District-level hubs should be built at Oak Mall, north Gainesville and GNV airport, which has the highest FMLM gap. Butler Plaza and downtown Gainesville are also potential sites for district-level hubs, which has higher transportation equity score and transit supply. Shands Hospital is most suitable for siting the regional-level mobility hub, where ridership and accessibility were the highest. 
-
+  Most neighborhood-level hubs are located in southwest and east Gainesville. District-level hubs should be built at Oak Mall, north Gainesville, and GNV airport, which has the highest FM/LM gap. Butler Plaza and downtown Gainesville are also potential sites for district-level hubs, which have higher transportation equity scores and transit supply. Shands Hospital is most suitable for siting the regional-level mobility hub, where ridership and accessibility were the highest. 
+  <br/>
   
-- Summary
+- ### Summary
   
-    In this project, we presents a GIS-based analytical framework for identifying the most suitable locations for mobility hubs within the context of Gainesville, Florida. The proposed methodology is designed to evaluate and prioritize potential hub locations at different scales by assigning scores and weights to a variety of criteria. These criteria encompass essential factors such as transit supply availability, first-/last-mile connectivity, accessibility, road infrastructure, and socioeconomic equity. By integrating these criteria into a comprehensive evaluation process, this research aims to provide valuable insights and data-driven recommendations that will guide the strategic placement of mobility hubs in Gainesville, ultimately fostering a more efficient, equitable, and accessible urban transportation system.
+    In this project, we present a GIS-based analytical framework for identifying the most suitable locations for mobility hubs within the context of Gainesville, Florida. The proposed methodology is designed to evaluate and prioritize potential hub locations at different scales by assigning scores and weights to a variety of criteria. These criteria encompass essential factors such as transit supply availability, first-/last-mile connectivity, accessibility, road infrastructure, and socioeconomic equity. By integrating these criteria into a comprehensive evaluation process, this research aims to provide valuable insights and data-driven recommendations that will guide the strategic placement of mobility hubs in Gainesville, ultimately fostering a more efficient, equitable, and accessible urban transportation system.
 
+<br/>
+<br/>
 
-- Acknowledgement
+The mobility hub identification tool (including a set of ArcGIS toolbox and Python script) developed from the project is available for downloading here: https://github.com/jacobyan0/Just-and-Green-Transportatiion-Lab/tree/main/Florida%20Mobility%20Hubs
+
+<br/>
+<br/>
+<br/>
+- ### Acknowledgement
   
-  The research team would like to thank the Florida Department of Transportation (FDOT) Transit Office for the assistance in understanding the scope of the project and for providing feedback on this project.
-
-  We would also like to thank the following stakeholders for participating in this project: the City of Gainesville, FDOT District Two, and FDOT District Four.
-
-  And we would also like to thank Gainesville Regional Transit System (RTS) for providing the transit supply and ridership data.
+  The research team would like to thank the funding support from the Florida Department of Transportation (FDOT) for funding this project. Project managers David Sherman, Chris Wiglesworth, and Gabe Matthews provided valuable comments and guidance for this project. We would also like to thank the following stakeholders for participating in this project: the City of Gainesville (Jesus Gomez & Debbie Leistner), FDOT District Two (Janell Damato & Derek Dixon), and FDOT District Four (Lisa Maack & Wibet Hay). 
   
   
 
-
-For the full report and the developed tools: Report for the Gainesville Study; [ArcGIS toolbox and code](https://github.com/jacobyan0/Just-and-Green-Transportatiion-Lab/tree/main/Florida%20Mobility%20Hubs).
-
-  
-*Key words: mobility hub, multimodal travel, public transit*
