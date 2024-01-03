@@ -76,7 +76,7 @@ categories: transitnewmobility
   
 
 
-For the full report and the developed tools: Report for the Gainesville Study; [ArcGIS toolbox and code](https://github.com/jacobyan0/Just-and-Green-Transportatiion-Lab).
+For the full report and the developed tools: Report for the Gainesville Study; [ArcGIS toolbox and code](https://github.com/jacobyan0/Just-and-Green-Transportatiion-Lab/tree/main/Florida%20Mobility%20Hubs).
 
   
 *Key words: mobility hub, multimodal travel, public transit*
