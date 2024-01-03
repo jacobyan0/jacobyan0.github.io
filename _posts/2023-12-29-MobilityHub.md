@@ -14,6 +14,7 @@ categories: transitnewmobility
   <img align="center" width="350" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Mobilityhub_fig1_intro.png" style="vertical-align:middle;margin:15px 15px"/> 
 
   <br/>
+  
 - ### Research Objectives
 
    We have developed a methodology to assess the suitability of an area for establishing mobility hubs and identify potential locations. This involves considering five major factors, including
@@ -24,6 +25,7 @@ categories: transitnewmobility
   - Promoting socioeconomic equity.
 
 <br/>
+
 - ### Analytical Framework
 
   We have developed a multi-criteria approach for identifying multi-level mobility hubs. The approach considers bus stop clusters as the spatial units for potential hub locations (as it is widely recognized that mobility hubs are most effective when located at or near transit stops with high ridership activity). We calculate scores, assign weights, and calculate mobility indexes based on different scenarios. We then carry out the evaluation procedure at various scales, including neighborhood, district, or regional levels. 
@@ -39,6 +41,7 @@ categories: transitnewmobility
   3. <u>Compute Neighborhood-Level Hub Index</u>: Using the results from Steps 1 and 2, we calculate the index value for the neighborhood-level hubs. We then identify the neighborhood-level hubs based on the index. Steps include selecting the site with the highest index value as the first hub, excluding potential hubs within 1.5 miles of selected hubs, and repeating these steps until the service area of the mobility hubs covers 75% of transit coverage areas or the total number of hubs reaches a specified limit (N). 
   
   4. <u>Identify a Network of Mobility Hubs</u>: District- and regional-level hub indexes are then computed for the selected neighborhood hubs. In this step, we enlarge the catchment area of the spatial unit and assume catchment areas of 3 and 5 miles, respectively.
+
 <br/>
 
 - ### Data sources
@@ -47,6 +50,7 @@ categories: transitnewmobility
     3. Infrastructure Data: Intersection density data, indicating multi-modal and pedestrian-oriented facilities, is sourced from the Smart Location Database. Road infrastructure data is collected from OpenStreetMap (OSM), offering detailed information about road networks.
     4. Socioeconomic Data: Demographic variables related to population, race, age, income, and vehicle ownership are considered for socioeconomic analysis and are sourced from ACS.
     5. Accessibility Data: Smart Location Database provides data on destination accessibility via auto or transit. Walkability around bus stops is evaluated using walk scores obtained from the Walkscore API.
+
 <br/>
 
 - ### Results 
@@ -64,6 +68,7 @@ categories: transitnewmobility
   <img align="center" width="700" height="400" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Mobilityhub_fig3_case.png" style="vertical-align:middle;margin:15px 15px"/> 
 
   Most neighborhood-level hubs are located in southwest and east Gainesville. District-level hubs should be built at Oak Mall, north Gainesville, and GNV airport, which has the highest FM/LM gap. Butler Plaza and downtown Gainesville are also potential sites for district-level hubs, which have higher transportation equity scores and transit supply. Shands Hospital is most suitable for siting the regional-level mobility hub, where ridership and accessibility were the highest. 
+
   <br/>
   
 - ### Summary
@@ -78,6 +83,7 @@ The mobility hub identification tool (including a set of ArcGIS toolbox and Pyth
 <br/>
 <br/>
 <br/>
+
 - ### Acknowledgement
   
   The research team would like to thank the funding support from the Florida Department of Transportation (FDOT) for funding this project. Project managers David Sherman, Chris Wiglesworth, and Gabe Matthews provided valuable comments and guidance for this project. We would also like to thank the following stakeholders for participating in this project: the City of Gainesville (Jesus Gomez & Debbie Leistner), FDOT District Two (Janell Damato & Derek Dixon), and FDOT District Four (Lisa Maack & Wibet Hay). 
