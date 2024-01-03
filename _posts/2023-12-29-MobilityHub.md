@@ -78,7 +78,11 @@ categories: transitnewmobility
 <br/>
 <br/>
 
-The mobility hub identification tool (including a set of ArcGIS toolbox and Python script) developed from the project is available for downloading here: https://github.com/jacobyan0/Just-and-Green-Transportatiion-Lab/tree/main/Florida%20Mobility%20Hubs
+The mobility hub identification tool (including a set of ArcGIS toolbox and Python script) developed from the project can be downloaded by [clicking here](https://github.com/jacobyan0/Just-and-Green-Transportatiion-Lab/tree/main/Florida%20Mobility%20Hubs).
+
+Read more about the project: 
+- [ArcGIS Storymap](https://storymaps.arcgis.com/stories/9c56b17d9587428b8b4e323979576c67)
+- Final Report (coming soon)
 
 <br/>
 <br/>
