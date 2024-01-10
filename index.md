@@ -7,7 +7,7 @@ title: "About"
 
 My name is Xiang (Jacob) Yan. I am an Assistant Professor in the Department of Civil and Coastal Engineering at the University of Florida, where I lead the Just&Green Transportation Lab.
 
-[View](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jacobyan0/jacobyan0.github.io/master/Yan_CV.pdf) or [download](https://raw.githubusercontent.com/jacobyan0/jacobyan0.github.io/master/Yan_CV.pdf) CV (updated in Feburary 2023).
+[View](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jacobyan0/jacobyan0.github.io/master/Yan_CV.pdf) or [download](https://raw.githubusercontent.com/jacobyan0/jacobyan0.github.io/master/Yan_CV.pdf) CV (updated in January 2024).
 
 ## Just&Green Transportation Lab
 
