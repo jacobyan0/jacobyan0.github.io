@@ -28,6 +28,7 @@ November 12, 2021 (co-presented with Dr. Kara Kockelman from UT Austin)
 **PhD Dissertation: Redefining the value of accessibility ([Video](https://youtu.be/OAe3plmbTCs))**
 
 (Won Best Dissertation Award from the World Society for Transport and Land Use Research)
+
 *World Symposium on Transport and Land Use Research*
 August 10, 2021 
 
