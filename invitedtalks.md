@@ -3,95 +3,32 @@ layout: page
 title: "Talks"
 ---
 
+
+## This page lists some recorded talks/presentations that our team gives on various occasions.
+
+
+**Strategies for Promoting Shared Micromobility to Complement Public Transit ([Video]([https://echo360.org/media/a5f766f9-b5bc-4259-86ac-6e5bed864c67/public]))**
+
+*Zube Lecture Series @ Landscape Architecture and Regional Planning, University of Massachusetts Amherst*
+
+September 28, 2023. 
+
 &nbsp;
-## Invited Talks
+
 
 **Machine Learning in Travel Behavior Research ([Video](https://www.youtube.com/watch?v=Z4ZwGnKWDKk))**
 
 *Transportation Research Board Standing Committee AMS50 Webinar Series*
 
-November 12, 2021 (Dr. Kara Kockelman from UT Austin is another speaker). 
+November 12, 2021 (co-presented with Dr. Kara Kockelman from UT Austin) 
 
 &nbsp;
 
-**Do e-scooters fill mobility gaps and promote equity before and during COVID-19? A spatiotemporal analysis using open big data**
 
-*University of Florida Biocomplexity Engineering Group Seminars*
+**PhD Dissertation: Redefining the value of accessibility ([Video](https://youtu.be/OAe3plmbTCs))**
 
-October 19, 2021. 
-
-&nbsp;
-
-**Exploring the potential for public transit and share micromobility integration**
-
-*Ford Motor Company Robotics and Mobility Research EMM/SAR Meeting Series*
-
-September 30, 2021. 
+(Won Best Dissertation Award from the World Society for Transport and Land Use Research)
+*World Symposium on Transport and Land Use Research*
+August 10, 2021 
 
 &nbsp;
-
-**The effectiveness of parking policies to reduce parking demand pressure and car use**
-
-*511NY Rideshare Car Free Day Webinar*
-
-September 14, 2021. 
-
-&nbsp;
-
-**Using big data and machine learning for transportation research**
-
-*University of Florida Student Chapter for the Institute of Transportation Engineers*
-
-March 4, 2021. 
-
-&nbsp;
-
-**The promises and pitfalls of machine learning and big data: Reflectively leveraging data science for transportation planning**
-
-*Department of City and Regional Planning, University of North Carolina, Chapel Hill*
-
-November 30, 2020. 
-
-&nbsp;
-
-**Ridesourcing as a solution to the last-mile travel problem: Evidence from stated preference data**
-
-*Next Generation Transportation Systems Seminar, University of Michigan, Ann Arbor*
-
-January 17, 2018
-
-
-&nbsp;
-&nbsp;
-&nbsp;
-
-
-## Panels, Roundtables, and Workshops
-
-**Exploring nonlinear relationships with machine learning**
-
-*Association of Collegiate Schools of Planning (ACSP) Annual Conference*
-
-Roundtable (Other panelists include Peng Chen, Tao Tao, and Sadegh Sabouri)
-
-October 22 2021.
-
-&nbsp;
-
-**Exploring nonlinear relationships with machine learning**
-
-*The 15th International Association for China Planning (IACP) Annual Conference*
-
-Roundtable (Other panelists include Tao Tao, Kailai Wang, and Wenjia Zhang)
-
-September 11-12, 2021. 
-
-&nbsp;
-
-**Extracting travel behavioral insights from black-box machine-learning models**
-
-*Workshop on Machine Learning Methods to Calibrate Integrated Land Use and Transport Models}*
-
-Jointly presented the talk with Xilei Zhao.
-
-June 13-14, 2019. Georgia Institute of Technology, Atlanta.
