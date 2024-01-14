@@ -38,6 +38,9 @@ Yan, X., Yang, W., Zhang, X., Xu, Y., Bejleri, I., & Zhao, X. (2021). [A spatiot
  <a href="https://www.youtube.com/embed/s4ABfMFuq9g" target="_blank">
  <img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Platform.jpg" alt="Watch the video" width="960" height="460" />
 </a>
+
+_Related citation_:<br/>
+Su, L. Yan, X., Zhao, X. (2024). [Micromobility equity: A comparison of shared e-scooters and station-based bikeshare in Washington DC](https://doi.org/10.1016/j.tranpol.2023.10.008). Transport Policy, 145, 25-36. 
  
 &nbsp;
 
