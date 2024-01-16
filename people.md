@@ -117,7 +117,7 @@ Pedro Henrique Vicentini-Silva is an undergraduate student in civil engineering 
 
 ## Lab Director
 
-<img align="left" width="226" height="277" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/XiangYan.jpg" style="vertical-align:middle;margin: 0px 17px"> 
+<img align="left" width="250" height="306" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/XiangYan.jpg" style="vertical-align:middle;margin: 0px 17px"> 
 
 #### Xiang 'Jacob' Yan (<a href="mailto:xiangyan@ufl.edu">xiangyan@ufl.edu</a>)
 #### Assistant Professor in Transportation Engineering, University of Florida
