@@ -100,6 +100,20 @@ Ksenia Velichko is a senior undergraduate student at the University of Florida p
 <br/>
 
 
+## Visting students/scholars
+
+<img align="left" width="250" height="336" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Pedro.jpg" style="vertical-align:left;margin: 0px 17px"> 
+
+#### Pedro Henrique Vicentini-Silva (<a href="mailto:pedro.vicentini@unesp.br">pedro.vicentini@unesp.br</a>)
+#### Visiting student, University of Florida
+ 
+&nbsp; 
+
+Pedro Henrique Vicentini-Silva is an undergraduate student in civil engineering at UNESP-FEB (São Paulo State University - Bauru School of Engineering) in Brazil and researches traffic safety, focusing on vulnerable road users such as pedestrians and cyclists. 
+
+&nbsp; 
+<br/>
+<br/>
 
 ## Lab Director
 
