@@ -7,7 +7,7 @@ title: "Open Positions"
 
 #### PhD Student Positions
 
-We are recruiting 1-2 fully-funded PhD student to join the Department of Civil and Coastal Engineering at the University of Florida (ranked a Top 5 public university by US News) for the Fall 2024 or Spring 2025 semester. Qualified candidates should have solid data analysis and programming (Python or R) skills and a strong interest in applying these skills to understand and solve transportation and urban issues. Students with solid training in statistics/econometrics, machine learning/AI, and GIS are especially encouraged to apply. We welcome students from various educational backgrounds, including but not limited to, civil/transportation engineering, geography, computer science, and statistics, and urban planning.
+We are recruiting 1-2 fully-funded PhD student to join the Department of Civil and Coastal Engineering at the University of Florida (ranked a Top 5 public university by US News) for the Fall 2024 or Spring 2025 semester. Qualified candidates should have solid data analysis and programming (Python or R) skills and a strong interest in applying these skills to understand and solve transportation and urban issues. Students with knowledge in statistics/econometrics, machine learning/AI, and GIS are especially encouraged to apply. We welcome students from various educational backgrounds, including but not limited to, civil/transportation engineering, geography, computer science, and statistics, and urban planning.
 &nbsp;
 
 The successful candidates are expected to study one of the following topics (or related topics that fit their own interests):
