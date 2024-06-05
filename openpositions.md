@@ -12,10 +12,9 @@ We are recruiting 1-2 fully-funded PhD student to join the Transportation Engine
 
 The successful candidates are expected to study one or more of the following topics (or related topics that fit their own interests):
 
-•	Machine learning and AI applications in transportation<br/>
+•	AI/ML and big data applications in transportation<br/>
 •	Multimodal transportation (e.g., public transit, shared mobility, and shared micromobility)<br/>
 • E-mobility (e-bikes, electric cars, e-scooters, and e-buses) <br/>
-• Computational social science, data analytics (e.g., GPS data), and digital twin modeling/simulation 
 •	Spatial accessibility to essential destinations such as food and healthcare
 &nbsp;
 
