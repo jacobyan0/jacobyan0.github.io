@@ -99,6 +99,17 @@ Ksenia Velichko is a senior undergraduate student at the University of Florida p
 &nbsp; 
 <br/>
 
+<img align="left" width="250" height="313" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AubreyDolbeck.jpg" style="vertical-align:left;margin: 0px 17px"> 
+
+#### Aubrey Dolbeck (<a href="mailto:a.dolbeck@ufl.edu">a.dolbeck@ufl.edu</a>)
+#### Undergraduate student, University of Florida
+ 
+&nbsp; 
+
+Aubrey is a senior at the University of Florida majoring in Geography with specialization in Environmental Geosciences. She is interested in GIS, geomatics, and incorporating sustainability in civil engineering. Outside of the lab, she enjoys hiking, cycling, and reading. 
+
+&nbsp; 
+<br/>
 
 ## Visting students/scholars
 
