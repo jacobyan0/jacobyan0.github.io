@@ -89,7 +89,7 @@ The mobility hub identification tool (including a set of ArcGIS toolbox and Pyth
 
 - ### Acknowledgement
   
-  The research team would like to thank the funding support from the Florida Department of Transportation (FDOT) for funding this project. Project managers David Sherman, Chris Wiglesworth, and Gabe Matthews provided valuable comments and guidance for this project. We would also like to thank the following stakeholders for participating in this project: the City of Gainesville (Jesus Gomez & Debbie Leistner), FDOT District Two (Janell Damato & Derek Dixon), and FDOT District Four (Lisa Maack & Wibet Hay). 
+  The research team would like to thank the funding support from the Florida Department of Transportation (FDOT) for funding this project. Project managers Chris Wiglesworth, Gabe Matthews, David Sherman, and Kristin Gladwin provided valuable comments and guidance for this project. We would also like to thank the following stakeholders for participating in this project: the City of Gainesville (Jesus Gomez & Debbie Leistner), FDOT District Two (Janell Damato & Derek Dixon), and FDOT District Four (Lisa Maack & Wibet Hay). 
   
   
 
