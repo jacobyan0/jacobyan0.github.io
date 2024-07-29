@@ -6,17 +6,6 @@ permalink: /people/
 
 The Just&Green Transportation Lab focuses on using data science and artificial intelligence (machine learning) to make transportation more equitable and sustainable. Our interdisciplinary team is made up of people from various fields such as Transportation Engineering, Urban and Regional Planning, Geography, Computer Science, Statistics, and Economics.
 
-## Postdoc Associate
-<img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/LuyuLiu.jpg" style="vertical-align:left;margin: 0px 17px"> 
-
-#### Luyu Liu (<a href="mailto:luyuliu@ufl.edu">luyuliu@ufl.edu</a>)
-#### Postdoc Associate in Civil and Coastal Engineering, University of Florida
-&nbsp; 
-
-Luyu Liu is jointly hired by the SERMOS Lab and Just&Green Lab. He received his Ph.D. degree in Geographic Information Science at The Ohio State University. His research focuses on promoting sustainable transportation and mobility equity with GIS and data science techniques.
-<br/>
-<br/>
-
 ## Ph.D. Students
 
 <img align="left" width="250" height="328" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/DuanyaLyu.jpg" style="vertical-align:left;margin: 0px 17px"> 
@@ -129,21 +118,9 @@ Aubrey is a senior at the University of Florida majoring in Geography with speci
 <br/>
 <br/>
 
-## Visting students/scholars
+<!-- ## Visting students/scholars -->
 
-<img align="left" width="250" height="336" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Pedro.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
-#### Pedro Henrique Vicentini-Silva (<a href="mailto:pedro.vicentini@unesp.br">pedro.vicentini@unesp.br</a>)
-#### Visiting student, University of Florida
- 
-&nbsp; 
-
-Pedro Henrique Vicentini-Silva is an undergraduate student in civil engineering at UNESP-FEB (São Paulo State University - Bauru School of Engineering) in Brazil and researches traffic safety, focusing on vulnerable road users such as pedestrians and cyclists. 
-
-&nbsp; 
-<br/>
-<br/>
-<br/>
 
 ## Lab Director
 
@@ -162,8 +139,32 @@ Jacob is the director of the Just&Green Transportation lab. Specializing in publ
 
 ## Former Lab Members
 
+## Postdoc Associate
+<img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/LuyuLiu.jpg" style="vertical-align:left;margin: 0px 17px"> 
+
+#### Luyu Liu (<a href="mailto:luyuliu@ufl.edu">luyuliu@ufl.edu</a>)
+#### Postdoc Associate in Civil and Coastal Engineering, University of Florida
+&nbsp; 
+
+Luyu Liu joined Auburn University as an Assistant Professor. He received his Ph.D. degree in Geographic Information Science at The Ohio State University. His research focuses on promoting sustainable transportation and mobility equity with GIS and data science techniques.
+<br/>
+<br/>
 
 <img align="left" width="250" height="316" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/YuxuanZhang.jpg" style="vertical-align:left;margin: 0px 17px"> 
+
+<img align="left" width="250" height="336" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Pedro.jpg" style="vertical-align:left;margin: 0px 17px"> 
+
+#### Pedro Henrique Vicentini-Silva (<a href="mailto:pedro.vicentini@unesp.br">pedro.vicentini@unesp.br</a>)
+#### Visiting student, University of Florida
+ 
+&nbsp; 
+
+Pedro Henrique Vicentini-Silva is an undergraduate student in civil engineering at UNESP-FEB (São Paulo State University - Bauru School of Engineering) in Brazil and researches traffic safety, focusing on vulnerable road users such as pedestrians and cyclists. 
+
+&nbsp; 
+<br/>
+<br/>
+<br/>
 
 #### Yuxuan Zhang (<a href="mailto:zhang.yuxuang@ufl.edu">zhang.yuxuan@ufl.edu</a>)
 #### Master's student in Computer Science, University of Florida
