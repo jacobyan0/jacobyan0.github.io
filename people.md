@@ -150,7 +150,6 @@ Luyu Liu joined Auburn University as an Assistant Professor. He received his Ph.
 <br/>
 <br/>
 
-<img align="left" width="250" height="316" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/YuxuanZhang.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
 <img align="left" width="250" height="336" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Pedro.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
@@ -165,6 +164,8 @@ Pedro Henrique Vicentini-Silva is an undergraduate student in civil engineering 
 <br/>
 <br/>
 <br/>
+
+<img align="left" width="250" height="316" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/YuxuanZhang.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Yuxuan Zhang (<a href="mailto:zhang.yuxuang@ufl.edu">zhang.yuxuan@ufl.edu</a>)
 #### Master's student in Computer Science, University of Florida
