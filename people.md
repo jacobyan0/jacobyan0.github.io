@@ -7,6 +7,18 @@ permalink: /people/
 The Just&Green Transportation Lab focuses on using data science and artificial intelligence (machine learning) to make transportation more equitable and sustainable. Our interdisciplinary team is made up of people from various fields such as Transportation Engineering, Urban and Regional Planning, Geography, Computer Science, Statistics, and Economics.
 
 ## Ph.D. Students
+<img align="left" width="250" height="328" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/FaizurHimel.jpg" style="vertical-align:left;margin: 0px 17px"> 
+
+#### Faizur Rahman Himel (<a href="mailto:lyu.duanya@ufl.edu">lyu.duanya@ufl.edu</a>)
+#### Ph.D. student in Transportation Engineering, University of Florida
+&nbsp; 
+
+Faizur received a bachelor's degree in Civil Engineering from Bangladesh University of Engineering and Technology. He is interested in using geospatial analytics and predictive learning in transportation engineering to create vibrant, sustainable, and equitable urban environments. He also enjoys street photography and traveling.
+
+<br/>
+<br/>
+<br/>
+
 
 <img align="left" width="250" height="328" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/DuanyaLyu.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
