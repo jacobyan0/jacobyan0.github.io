@@ -18,7 +18,6 @@ Faizur received a bachelor's degree in Civil Engineering from Bangladesh Univers
 <br/>
 <br/>
 <br/>
-<br/>
 
 <img align="left" width="250" height="328" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/DuanyaLyu.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
