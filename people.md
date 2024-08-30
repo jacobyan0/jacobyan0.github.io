@@ -9,11 +9,11 @@ The Just&Green Transportation Lab focuses on using data science and artificial i
 ## Ph.D. Students
 <img align="left" width="250" height="312" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/FaizurHimel.jpg" style="vertical-align:left;margin: 0px 17px"> 
 
-#### Faizur Rahman Himel (<a href="mailto:lyu.duanya@ufl.edu">lyu.duanya@ufl.edu</a>)
+#### Faizur Rahman Himel (<a href="mailto:f.himel@ufl.edu">f.himel@ufl.edu</a>)
 #### Ph.D. student in Transportation Engineering, University of Florida
 &nbsp; 
 
-Faizur received a bachelor's degree in Civil Engineering from Bangladesh University of Engineering and Technology. He is interested in using geospatial analytics and predictive learning in transportation engineering to create vibrant, sustainable, and equitable urban environments. He also enjoys street photography and traveling.
+Faizur received a Bachelor's degree in Civil Engineering from Bangladesh University of Engineering and Technology. He is interested in using geospatial analytics and predictive learning in transportation engineering to create vibrant, sustainable, and equitable urban environments. He enjoys street photography and traveling.
 
 <br/>
 <br/>
@@ -38,7 +38,7 @@ Duanya Lyu received her M.E. and B.E. degrees in traffic engineering from South 
 #### Ph.D. student in Transportation Engineering, University of Florida
 &nbsp; 
 
-Yiheng Qian received his BS degree from Tongji University and his MS degree from Northwestern University. His research interest is to increase the efficiency and equity of transportation systems based on machine learning and statistical methods. He likes singing, playing the piano, and traveling.
+Yiheng Qian received his BE degree from Tongji University and his MS degree from Northwestern University. His research interest is to increase the efficiency and equity of transportation systems based on machine learning and statistical methods. He likes singing, playing the piano, and traveling.
 <br/>
 <br/>
 <br/>
