@@ -10,7 +10,7 @@ We are looking for an energetic postdoc scholar to join the lab as soon as possi
 
 The ideal candidate should have solid data analysis and programming (e.g., Python/R) skills and a strong background in statistical learning (statistics/econometrics and/or machine learning/AI). We welcome applicants from various educational backgrounds, including but not limited to, civil/transportation engineering, geography, computer science, statistics, and urban planning.
 
-The position offers a competitive salary and benefits. This is a one-year appointment with the potential of extending to two to three years. If you are interested, please submit your complete CV, a short cover letter outlining your interests, and a research statement (up to 2 pages) to me (xiangyan@ufl.edu). Applications received by September 15 will receive full consideration for this position.
+The position offers a competitive salary and benefits. This is a one-year appointment with the potential of extending to two to three years. If you are interested, please submit your complete CV, a short cover letter outlining your interests, and a research statement (up to 2 pages) to me (xiangyan@ufl.edu). We will accept applications until September 31; however, to receive full consideration for this position, please submit an application by September 15.
 
 #### PhD Student Positions
 
