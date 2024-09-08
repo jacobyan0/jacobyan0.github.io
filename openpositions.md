@@ -6,9 +6,9 @@ title: "Open Positions"
 ## Come to work with us!
 
 #### Postdoc Scholar Position
-We are looking for an energetic postdoc scholar to join the lab as soon as possible (The start date can be any time between now and 1/1/2025. ). In this position, you will work on projects related to public transit and sustainable transportation systems, funded by NSF, USDOT, and FDOT. You are expected to conduct independent research, supervise graduate and undergraduate students, contribute to teaching and research proposals, and perform project management. 
+We are looking for an energetic postdoc scholar to join the lab as soon as possible (The start date can be any time between now and 1/1/2025). In this position, you will work on projects related to public transit and sustainable transportation systems, funded by NSF, USDOT, and FDOT. You are expected to conduct independent research, supervise graduate and undergraduate students, contribute to teaching and research proposals, and perform project management. 
 
-The ideal candidate should have solid data analysis and programming (e.g., Python/R) skills and a strong background in statistical learning (statistics/econometrics and/or machine learning/AI). We welcome applicants from various educational backgrounds, including but not limited to, civil/transportation engineering, geography, computer science, statistics, and urban planning.
+The ideal candidate should have solid data analysis and programming (e.g., Python/R) skills and a strong background in statistical learning (statistics/econometrics or machine learning/AI). We welcome applicants from various educational backgrounds, including but not limited to, civil/transportation engineering, geography, computer science, statistics, and urban planning.
 
 The position offers a competitive salary and benefits. This is a one-year appointment with the potential of extending to two to three years. If you are interested, please submit your complete CV, a short cover letter outlining your interests, and a research statement (up to 2 pages) to me (xiangyan@ufl.edu). We will accept applications until September 31; however, to receive full consideration for this position, please submit an application by September 15.
 
