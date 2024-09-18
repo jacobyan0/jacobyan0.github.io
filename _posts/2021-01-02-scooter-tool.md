@@ -6,7 +6,7 @@ categories: aibigdata
 ---
 
 
-I worked with my colleage, Dr. Xilei Zhao, and a few Master of Computer Science students at UF (Ziying Wang, Manzhu Wang, Yepeng Liu) to develop a crowdsourcing platform [[watch a 3-min demo](https://www.youtube.com/watch?v=s4ABfMFuq9g) that have two main functions]: 
+We a crowdsourcing platform [[watch a 3-min demo](https://www.youtube.com/watch?v=s4ABfMFuq9g) that have two main functions]: 
 
 1) It allows residents to report micromobility-related safety incidents (i.e., crashes and near-misses).
 
@@ -15,3 +15,9 @@ I worked with my colleage, Dr. Xilei Zhao, and a few Master of Computer Science 
 2) It allows city transportation staff to conduct analytics regarding e-scooter parking and usage patterns.
 
 <img align="center" width="800" height="400" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/AnalyticsPlatform.png" style="vertical-align:middle;margin:15px 15px"> 
+
+
+*Key words: micromobility, crowdsourcing, data dashboard*
+
+* Related publication:
+Yan, X., Zhao, X., Broaddus, A., Johnson, J., & Srinivasan, S. (2023). [Evaluating shared e-scooters’ potential to enhance public transit and reduce driving](https://doi.org/10.1016/j.trd.2023.103640). _Transportation Research Part D: Transport and Environment_, 117, 103640.
