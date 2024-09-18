@@ -5,11 +5,7 @@ layout: post
 categories: transitnewmobility
 ---
 
-<figure>
-<img align="left" width="350" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/women_heat_transit.jpg" style="vertical-align:middle;margin:15px 15px"/> 
-  <figcaption>A woman waits in the shade away from a bus stop (Source: Lucio Vasquez/Houston Public Media).</figcaption>
-</figure>
-This paper introduces a holistic measurement system, the Transit Heat Exposure Index (THEI), to gauge high-fidelity heat exposure for transit riders. The method combines microclimate simulations using meteorological and LIDAR data and realistic transit network routing to consider both the heat exposure intensity and exposure time. The proposed method allows one to estimate heat exposure at the network link level during walking along street links and waiting at bus stops.
+<img align="left" width="350" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Women_transit_heat.png" style="vertical-align:middle;margin:15px 15px"/> This paper introduces a holistic measurement system, the Transit Heat Exposure Index (THEI), to gauge high-fidelity heat exposure for transit riders. The method combines microclimate simulations using meteorological and LIDAR data and realistic transit network routing to consider both the heat exposure intensity and exposure time. The proposed method allows one to estimate heat exposure at the network link level during walking along street links and waiting at bus stops.
 
 *Key words: Extreme heat, transit, microclimate, heat exposure*
 
