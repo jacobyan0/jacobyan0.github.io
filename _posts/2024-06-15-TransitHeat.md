@@ -1,5 +1,5 @@
 ---
-title:  "A Novel Method for Locating Mobility Hubs"
+title:  "Measuring Transit Riders' Exposure to Extreme Heat"
 mathjax: true
 layout: post
 categories: 
