@@ -2,7 +2,9 @@
 title:  "Conducing Bus Stop Census with Computer Vision"
 mathjax: true
 layout: post
-categories: transitnewmobility
+categories: 
+ - transitnewmobility
+ - aibigdata
 ---
 
 
