@@ -1,20 +1,18 @@
 ---
-title:  "A Novel Method for Locating Mobility Hubs"
+title:  "Conducing Bus Stop Census with Computer Vision"
 mathjax: true
 layout: post
 categories: transitnewmobility
 ---
 
 
-<img align="left" width="350" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Mobilityhub_fig1_intro.png" style="vertical-align:middle;margin:15px 15px"/> Mobility hubs are physical locations that allow travelers to seamlessly switch between various modes of transportation such as public transit, ridehailing, and micromobility. We have developed a methodology to assess the suitability of an area for establishing mobility hubs and identify potential locations. The results are validated through an crowdsourcing approach facilitated by interactive mapping.
+<img align="left" width="350" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/BusStopCV.png" style="vertical-align:middle;margin:15px 15px"/> We have developed an automated, low-cost, and generalizable approach using Google Street View images and deep learning techniques to evaluate bus stop amenities. Leveraging the latest YOLOv8 model, transfer learning, and a dynamic prediction algorithm, our approach achieves efficient detection of bus stop amenities (e.g., shelters and benches) with high accuracy and precision. Scalability and transferability tests further suggest that highly accurate feature detection results can be achieved through model fine-tuning on a small sample of local data.
 
-Read more about the project [here](https://jacobyan0.github.io/LocatingMobilityHubs/)
-
-*Key words: Mobility hub, transit, new mobility, crowdsourcing*
+*Key words: Computer Vision, transit, Google Street View Image, Bus Stop Amenities*
 
 * Related publication:
 
-Duarte, E., Lyu, D., Zheng, A., Merlin, L., Renne, J., Hoermann, S., Yan, X. <ins>Developing and validating a multi-criteria approach for locating multimodal mobility hubs</ins>. [Download Preprint](https://github.com/jacobyan0/jacobyan0.github.io/blob/589ac4bf8940b40a3cafdea4bf79ff83fc7ea51b/ArticlesPreprints/TRB2025_Mobility_Hub_Location_Selection_Paper.pdf).
+Dai, Y., Liu, L., Wang, K., L., M., Yan, X. Using Deep Learning and Google Street View Images to Assess Bus Stop Amenities. [Download Preprint](https://github.com/jacobyan0/jacobyan0.github.io/blob/ae422791104af6ea3c6189a82154ab6f56dba7ab/ArticlesPreprints/Bus_Stop_Amenities_Assessment_System.pdf).
 
 
 
