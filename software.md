@@ -14,7 +14,6 @@ The Just & Green Transportation Lab supports open science. This web page will be
 _Related citation_: <br/>
 Xu, Y., Yan, X., Sisiopiku, V. P., Merlin, L. A., Xing, F., & Zhao, X. (2022). [Micromobility trip origin and destination inference using general bikeshare feed specification data](https://doi.org/10.1177/03611981221092005). _Transportation Research Record_, 2676(11), 223-238.
 
-&nbsp;
 
 [2] Mobility Hub Planning Tool: Python code and ArcGIS Toolbox ([Download](https://github.com/jacobyan0/Just-and-Green-Transportatiion-Lab/tree/main/Florida%20Mobility%20Hubs)) 
 
@@ -41,7 +40,7 @@ Yan, X., Yang, W., Zhang, X., Xu, Y., Bejleri, I., & Zhao, X. (2021). [A spatiot
 
 &nbsp;
 _Related citation_:<br/>
-Su, L. Yan, X., Zhao, X. (2024). [Micromobility equity: A comparison of shared e-scooters and station-based bikeshare in Washington DC](https://doi.org/10.1016/j.tranpol.2023.10.008). Transport Policy, 145, 25-36. 
+Yan, X., Yang, W., Zhang, X., Xu, Y., Bejleri, I., Zhao, X. (2021). <ins>A spatiotemporal analysis of e-scooters’ relationships with transit and station-based bikesharing</ins>. [[Download Preprint](https://www.researchgate.net/profile/Xilei-Zhao-2/publication/355383039_A_spatiotemporal_analysis_of_e-scooters'_relationships_with_transit_and_station-based_bikeshare/links/616e022c25467d2f0059dea5/A-spatiotemporal-analysis-of-e-scooters-relationships-with-transit-and-station-based-bikeshare.pdf?_sg%5B0%5D=_XqK5sdms5R3ywizuu0YecPO_7-W_iejXqKtKvWji604FbWI18sTD7Ao3MBw9CFpQGyK69F2bcwfqxQuH3AU9w.EI98qaQlXYcsWvPFxBgyt3fZV6uzfkQSQLQk_E25dOzMhFBGHQuTQOdxlAWVSc_RwFThb-UaglzqXi9DAZiCtQ.57QuGZSh3AKI7nwLt0_LPUjgKQ-l74cA2tG4ZFFFKFPBFvQ5r11tTe62U32cKDNlo5icTGp1feQQvw0saU2TZQ&_sg%5B1%5D=Ib0wDK9zjCh0ci0h2Y7DeLwnllgE4d02KG4LrKSi9GPZjC-MsoTPGOUYVB4tqWuSQstTJry3pQnublFLabYxBK58zQImJ0Le_-uofHpfLwvZ.EI98qaQlXYcsWvPFxBgyt3fZV6uzfkQSQLQk_E25dOzMhFBGHQuTQOdxlAWVSc_RwFThb-UaglzqXi9DAZiCtQ.57QuGZSh3AKI7nwLt0_LPUjgKQ-l74cA2tG4ZFFFKFPBFvQ5r11tTe62U32cKDNlo5icTGp1feQQvw0saU2TZQ&_iepl=)]. *Transportation Research Part D: Transport and Environment*. 12, 103088. https://doi.org/10.1016/j.trd.2021.103088
  
 &nbsp;
 
