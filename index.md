@@ -38,3 +38,4 @@ Since 2020, I have co-lead (with California Department of Transportation) the or
 
 [Click here](https://www.transportation.institute.ufl.edu/news-and-events/annual-research-to-practice-transit-symposium/) to learn more.
 
+<img align="center" width="459" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/R2PTransitSymposium.png" style="vertical-align:middle;margin:15px 15px"/> 
