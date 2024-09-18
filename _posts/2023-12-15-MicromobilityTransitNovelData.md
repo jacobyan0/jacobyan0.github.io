@@ -1,5 +1,5 @@
 ---
-title:  "A Novel Method for Locating Mobility Hubs"
+title:  "Shared micromobility as a last-mile transit solution? Spatiotemporal insights from a novel dataset"
 mathjax: true
 layout: post
 categories: 
