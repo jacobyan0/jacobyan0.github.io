@@ -2,7 +2,6 @@
 title:  "A Novel Method for Locating Mobility Hubs"
 mathjax: true
 layout: post
-categories: transitnewmobility
 ---
 
   
