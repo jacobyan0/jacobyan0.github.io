@@ -22,7 +22,7 @@ title: "Research"
 <p tyle="font-size:120%;"> We very much appreciate the funding support from: </p>
 
 <div>
-<img border=0 src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/all logos.png" width = 400px height = 250px>
+<img border=0 src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/all logos.png" width = 600px height = 375px>
 </div>
 
 
