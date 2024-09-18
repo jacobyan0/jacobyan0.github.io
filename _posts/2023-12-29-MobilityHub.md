@@ -15,4 +15,4 @@ categories: transitnewmobility
 Duarte, E., Lyu, D., Zheng, A., Merlin, L., Renne, J., Hoermann, S., Yan, X. <ins>Developing and validating a multi-criteria approach for locating multimodal mobility hubs</ins>. [Download Preprint](https://github.com/jacobyan0/jacobyan0.github.io/blob/589ac4bf8940b40a3cafdea4bf79ff83fc7ea51b/ArticlesPreprints/TRB2025_Mobility_Hub_Location_Selection_Paper.pdf).
 
 
-* Read more about the project [here](https://jacobyan0.github.io/LocatingMobilityHubs/)
+### Read more about the project [here](https://jacobyan0.github.io/LocatingMobilityHubs/)
