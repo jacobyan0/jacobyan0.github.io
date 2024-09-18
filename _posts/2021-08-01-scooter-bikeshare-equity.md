@@ -14,4 +14,4 @@ categories:
 
 * Related publication:
 
-Su, L., **Yan, X.**, Zhao, X. <ins>Micromobility equity: A comparison of shared e-scooters and station-based bikeshare in Washington DC</ins>. [[Download Preprint](https://github.com/jacobyan0/jacobyan0.github.io/raw/master/ArticlesPreprints/Micromobility%20equity_e-scooters%20vs%20bikeshare.pdf)].
+Su, L., **Yan, X.**, Zhao, X. <ins>Micromobility equity: A comparison of shared e-scooters and station-based bikeshare in Washington DC</ins>. [[Download Preprint](https://github.com/jacobyan0/jacobyan0.github.io/raw/master/ArticlesPreprints/Micromobility%20equity_e-scooters%20vs%20bikeshare.pdf)].  _Transport policy_, 145, 25-36.
