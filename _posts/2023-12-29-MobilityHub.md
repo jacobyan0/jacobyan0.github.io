@@ -8,7 +8,7 @@ categories: transitnewmobility
 
 <img align="left" width="350" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Mobilityhub_fig1_intro.png" style="vertical-align:middle;margin:15px 15px"/> Mobility hubs are physical locations that allow travelers to seamlessly switch between various modes of transportation such as public transit, ridehailing, and micromobility. We have developed a methodology to assess the suitability of an area for establishing mobility hubs and identify potential locations. The results are validated through an crowdsourcing approach facilitated by interactive mapping.
 
-Read more about the project [here](https://jacobyan0.github.io/LocatingMobilityHubs/)
+Read more about the project [here](https://jacobyan0.github.io/MobilityHubs_FullPost/)
 
 *Key words: Mobility hub, transit, new mobility, crowdsourcing*
 
