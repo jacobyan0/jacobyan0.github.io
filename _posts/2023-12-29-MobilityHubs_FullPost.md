@@ -69,7 +69,7 @@ Mobility hubs are physical locations that allow travelers to seamlessly switch b
 
 - ### Validation and Refinement
 
-We believe that mobility hub planning cannot be done through a pure data-driven process. Hence, we have aimed to validate and refine the results by engaging stakeholders and residents through an interactive-mapping-enabled crowdsourcing approach. See the YouTube video below  
+We believe that mobility hub planning cannot be done through a pure data-driven process. Hence, we have aimed to validate and refine the results by engaging stakeholders and residents through an interactive-mapping-enabled crowdsourcing approach. Click on the image below to watch a YouTube video that describe our crowdsourcing approach:
 
 [![Crowdsourcing community input for mobility hub planning](https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/MobilityHubCrowdsourcing.png)](https://www.youtube.com/watch?v=KqSUk5cCEII&ab_channel=Xiang%27Jacob%27Yan)
 
