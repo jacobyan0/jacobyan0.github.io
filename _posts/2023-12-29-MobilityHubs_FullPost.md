@@ -72,7 +72,10 @@ Mobility hubs are physical locations that allow travelers to seamlessly switch b
 We believe that mobility hub planning cannot be done through a pure data-driven process. Hence, we have aimed to validate and refine the results by engaging stakeholders and residents through an interactive-mapping-enabled crowdsourcing approach. See the YouTube video below  
 
 [![Crowdsourcing community input for mobility hub planning](https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/MobilityHubCrowdsourcing.png)](https://www.youtube.com/watch?v=KqSUk5cCEII&ab_channel=Xiang%27Jacob%27Yan)
-  
+
+  <br/>
+  <br/>
+
 - ### Conclusion
   
     In this project, we present a GIS-based analytical framework for identifying the most suitable locations for mobility hubs within the context of Gainesville, Florida. The proposed methodology is designed to evaluate and prioritize potential hub locations at different scales by assigning scores and weights to a variety of criteria. These criteria encompass essential factors such as transit supply availability, first-/last-mile connectivity, accessibility, road infrastructure, and socioeconomic equity. By integrating these criteria into a comprehensive evaluation process, this research aims to provide valuable insights and data-driven recommendations that will guide the strategic placement of mobility hubs in Gainesville, ultimately fostering a more efficient, equitable, and accessible urban transportation system.
