@@ -87,6 +87,7 @@ We believe that mobility hub planning cannot be done through a pure data-driven 
 - ### Other Resources
 The mobility hub identification tool (including a set of ArcGIS toolbox and Python script) developed from the project can be downloaded by [clicking here](https://github.com/jacobyan0/Just-and-Green-Transportatiion-Lab/tree/main/Florida%20Mobility%20Hubs). Read more about the project: 
 - [ArcGIS Storymap](https://storymaps.arcgis.com/stories/9c56b17d9587428b8b4e323979576c67)
+- Webinar: https://www.youtube.com/watch?v=d0FJiCnMOS8&ab_channel=Xiang%27Jacob%27Yan
 - Final Report (coming soon)
 
 <br/>
