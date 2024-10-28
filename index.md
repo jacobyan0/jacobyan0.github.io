@@ -34,7 +34,7 @@ Our mission centers on the innovative and thoughtful application of data science
 
 ## The Annual Research-to-Practice Transit Symsposium
 
-Since 2020, I have co-led (with the California Department of Transportation) the organization of the Annual Research-to-Practice Transit Symposium, in collaboration with many other partners such as APTA, the Mineta Transportation Institute, and UC Davis. The symposium provides a platform where transit researchers and practitioners share insights on how evidence-based research is used to inform transit planning and operations. The event is live-streamed on YouTube and accessible to the public at no cost. It attracts hundreds of participants annually, with the number consistently increasing each year.
+Since 2020, I have co-led (with Chad Riding at the California Department of Transportation) to organize the Annual Research-to-Practice Transit Symposium, in collaboration with many other partners such as APTA, the Mineta Transportation Institute, and UC Davis. The symposium provides a platform where transit researchers and practitioners share insights on how evidence-based research is used to inform transit planning and operations. The event is live-streamed on YouTube and accessible to the public at no cost. It attracts hundreds of participants annually, with the number consistently increasing each year.
 
 [Click here](https://www.transportation.institute.ufl.edu/news-and-events/annual-research-to-practice-transit-symposium/) to learn more.
 
