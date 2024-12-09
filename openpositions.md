@@ -6,7 +6,7 @@ title: "Open Positions"
 ## Come to work with us!
 
 #### Postdoc Scholar Position
-We are looking for an energetic postdoc scholar to join the lab in Summer or Fall 2025. In this position, you will work on projects related to public transit and sustainable transportation systems (e.g., bicycles, EVs, and shared mobility), funded by NSF, USDOT, and FDOT. You are expected to conduct independent research, supervise graduate and undergraduate students, contribute to teaching and research proposals, and perform project management. 
+We are looking for an energetic postdoc scholar to join the lab in Summer or Fall 2025. In this position, you will work on projects related to public transit and sustainable transportation systems (e.g., bicycles, EVs, and shared mobility), funded by NSF and USDOT. You are encouraged to propose your own research ideas that fit into the lab's mission. You are expected to conduct independent research, supervise graduate and undergraduate students, contribute to teaching and research proposals, and perform project management. 
 
 The ideal candidate should have solid data analysis and programming (e.g., Python/R) skills and a strong background in statistical learning (statistics/econometrics or machine learning/AI). We welcome applicants from various educational backgrounds, including but not limited to, civil/transportation engineering, geography, computer science, statistics, and urban planning.
 
@@ -17,7 +17,7 @@ The position offers a competitive salary and benefits. This is a one-year appoin
 We are recruiting 1-2 fully-funded PhD students to join the Transportation Engineering program at the University of Florida for the Fall 2025 semester. Qualified candidates should have solid data analysis and programming (e.g., Python/R) skills and a strong interest in applying these skills to understand and solve transportation and urban issues. Students with knowledge in statistics/econometrics, machine learning/AI, and GIS are especially encouraged to apply. We welcome students from various educational backgrounds, including but not limited to, civil/transportation engineering, geography, computer science, statistics, and urban planning.
 &nbsp;
 
-The successful candidates are expected to study one or more of the following topics (or related topics that fit their own interests):
+The successful candidates are expected to study one or more of the following topics (or related topics that fit your own interests):
 
 •	AI/ML and big data applications in transportation<br/>
 •	Multimodal transportation (e.g., public transit, shared mobility, and micromobility)<br/>
