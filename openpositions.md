@@ -6,7 +6,7 @@ title: "Open Positions"
 ## Come to work with us!
 
 #### Postdoc Scholar Position
-We are looking for an energetic postdoc scholar to join the lab in Spring or Summer 2025. In this position, you will work on projects related to public transit and sustainable transportation systems (e.g., bicycles, EVs, and shared mobility), funded by NSF, USDOT, and FDOT. You are expected to conduct independent research, supervise graduate and undergraduate students, contribute to teaching and research proposals, and perform project management. 
+We are looking for an energetic postdoc scholar to join the lab in Summer or Fall 2025. In this position, you will work on projects related to public transit and sustainable transportation systems (e.g., bicycles, EVs, and shared mobility), funded by NSF, USDOT, and FDOT. You are expected to conduct independent research, supervise graduate and undergraduate students, contribute to teaching and research proposals, and perform project management. 
 
 The ideal candidate should have solid data analysis and programming (e.g., Python/R) skills and a strong background in statistical learning (statistics/econometrics or machine learning/AI). We welcome applicants from various educational backgrounds, including but not limited to, civil/transportation engineering, geography, computer science, statistics, and urban planning.
 
