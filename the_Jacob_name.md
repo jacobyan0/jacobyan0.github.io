@@ -14,7 +14,6 @@ Over the years, many people have asked me how to pronounce "Xiang" so they can c
 
 I prefer "Jacob" because it works better for me in professional and daily interactions. Since Mandarin pronunciation of my given name, "Xiang," is quite different from how non-Mandarin speakers typically say it, I sometimes don’t realize I’m being addressed.
 
-&nbsp;
 
 ## **The cultural reason** ##
 My full name is 严 (Yan) 翔 (Xiang). In Chinese culture, people with a single-character given name are usually addressed by their full name. Using just the given name is rare and typically reserved for close friends in informal settings.
