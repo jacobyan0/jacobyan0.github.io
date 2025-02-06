@@ -9,6 +9,7 @@ Over the years, many people have asked me how to prounce "Xiang" so that they ca
 <img align="left" width="312" height="177" src="[https://github.com/jacobyan0/jacobyan0.github.io/blob/ab69ea947be47492e70d1513d6c825b172c96c1e/images/photos/RayDelahanty.jpg](https://www.youtube.com/watch?v=aGjc-gsh834&ab_channel=RayDelahanty%7CCityNerd)" style="vertical-align:middle;margin: 8px 25px"> 
 
 &nbsp;
+&nbsp;
 
 ## **The short answer** ##
 
