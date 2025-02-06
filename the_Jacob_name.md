@@ -1,54 +1,22 @@
 ---
 layout: page
-title: "Teaching"
-permalink: /teaching/
+title: "Why I prefer to be called "Jacob""
+permalink: /aboutmyname/
 ---
 
-## **CGN 4905/6905 Sustainable Transportation and Public Transit**
-Automobile-based transportation planning has been dominating U.S. cities, making people without easy access to personal vehicles have few options to get around. Also, automobile-based travel carries significant environmental harms, making transportation the economic sector that generates the largest share of greenhouse gas emissions in the US. Accordingly, the concept of sustainable transportation has emerged as a key strategy to provide more transportation and lifecycle choices for individuals and enhance the long-term sustainability of cities and regions.
+Over the years, many people have asked me how to prounce "Xiang" so that they can call me by my real name. Some folks said that they felt bad for not being able to prounce my name properly, including a great YouTuber Ray Delahanty that I really admire (see image below). If you are one of these well-meaning people or have ever wondered if you should call me by "Xiang" or "Jacob," here is a post to explain why "**Jacob**" is my prefered name. 
 
-This course provides an introduction to sustainable transportation and public transit, covering the basic concepts, critical issues, emerging trends, and recent policy initiatives. The class will be centered on mass transit (buses and trains), aiming to equip students with a foundational understanding of transit planning and operations. Other topics include bicycling, walking, shared mobility (e.g., ridesharing and shared micromobility), street design, social equity, and emerging technologies. 
+<img align="left" width="261" height="54" src="[https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Lab%20logo.jpg](https://github.com/jacobyan0/jacobyan0.github.io/blob/ab69ea947be47492e70d1513d6c825b172c96c1e/images/photos/RayDelahanty.jpg)" style="vertical-align:middle;margin: 8px 25px"> 
 
-&nbsp;
-&nbsp;
+## **The short answer**
 
-## **CGN 4905/6905 Applied Data Science in Civil and Environmental Engineering**
-
-This class teaches students the intricacies of data science techniques and their applications to real-world problems. Students also learn the basics of problem formulation and data ethics. The images below show the Class of Fall 2021 and their final project posters.  
-
-<img align="" width="480" height="360" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Fall%202021_CGN%204905.jpg" style="vertical-align:middle;margin:15px 15px"> 
-
-### **•	Transportation**
-<img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Peccoud_Bicycle%20Infrastructure%20in%20Gainesville-1.jpg" style="vertical-align:middle;margin:15px 15px"> 
-
-<img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Shi_Traffic%20and%20speeding%20hotspots%20in%20Gainesville-1.jpg" style="vertical-align:middle;margin:15px 15px"> 
-
-<img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Lin_escooter%20as%20last-mile%20complement%20to%20public%20transit-1.jpg" style="vertical-align:middle;margin:15px 15px"> 
-
-<img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Da%20Kuang_Bike%20rack%20and%20wheelchair%20boardings-1.jpg" style="vertical-align:middle;margin:15px 15px"> 
+The short answer is that Jacob works better for me in professional and daily interactions. This is because people who do not speak Mandarine prounce my official first name (Xiang) very differently from the original sound, which sometimes made me not realize that I was called upon. 
 
 &nbsp;
 &nbsp;
 
-
-### **•	Water and Climate**
-<img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Cahacci%20%26%20Quinn%20%26%20Tefera_Groundwater%20level%20and%20quality%20in%20South%20Florida-1.jpg" style="vertical-align:middle;margin:15px 15px"> 
-
-<img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Teshome_Evapotransporation%20and%20climate%20change%20in%20Florida-1.jpg" style="vertical-align:middle;margin:15px 15px"> 
-
-<img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Sen_Air%20pollutants%20and%20traffic-1.jpg" style="vertical-align:middle;margin:15px 15px"> 
-
-&nbsp;
-&nbsp;
+## **The cultural reason**
+My official name is 严（Yan）翔(Xiang). In the Chinese culture, people with one character for their first name is usually called by their full name, and only in rare cases such as writing to an intimate friend would they be addressed by their one-character first name. Therefore, when I was an exchange student to Hong Kong in 2011, I worked with a close friend from Austrialia to pick the name "Jacob" for me (He said that it is the fist name that came to his mind based on his impression of me, and I liked it).  
 
 
-### **•	Energy**
-<img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Hartless%26Mendoza%20_Energy%20trends%20across%20US%20states-1.jpg" style="vertical-align:middle;margin:15px 15px"> 
-
-&nbsp;
-&nbsp;
-
-
-### **•	COVID-19**
-<img align="" width="720" height="480" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/StudentWork/Fall%202021/Fall%202021_Propis_COVID%2019%20and%20where%20to%20live-1.jpg" style="vertical-align:middle;margin:15px 15px"> 
-
+![image](https://github.com/user-attachments/assets/1441d524-62e9-4a1e-8e40-a8a0fbc1fa9c)
