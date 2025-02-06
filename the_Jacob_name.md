@@ -16,7 +16,7 @@ I prefer "Jacob" because it works better for me in professional and daily intera
 
 
 ## **The cultural reason** ##
-My full name is 严 (Yan) 翔 (Xiang). In Chinese culture, people with a single-character given name are usually addressed by their full name. Using just the given name is rare and typically reserved for close friends in informal settings.
+My full name is 严 (Yan) 翔 (Xiang). In Chinese culture, people with a single-character given name are usually addressed by their full name. Using just the given name is rare and typically reserved for parents, the significant other, and close friends in limited circumstances.
 
 Because of this, when I was an exchange student in Hong Kong in 2011, a close Australian friend helped me choose an English name. He suggested "Jacob" because it was the first name that came to his mind based on his impression of me, and I liked it—so it stuck!
 
