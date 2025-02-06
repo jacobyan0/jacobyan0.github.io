@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Why I prefer to be called "Jacob""
+title: "Why I prefer to be called Jacob"
 permalink: /aboutmyname/
 ---
 
