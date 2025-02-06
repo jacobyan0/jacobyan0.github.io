@@ -66,7 +66,16 @@ Mobility hubs are physical locations that allow travelers to seamlessly switch b
   Most neighborhood-level hubs are located in southwest and east Gainesville. District-level hubs should be built at Oak Mall, north Gainesville, and GNV airport, which has the highest FM/LM gap. Butler Plaza and downtown Gainesville are also potential sites for district-level hubs, which have higher transportation equity scores and transit supply. Shands Hospital is most suitable for siting the regional-level mobility hub, where ridership and accessibility were the highest. 
 
   <br/>
-  
+
+- ### Validation and Refinement
+
+We believe that mobility hub planning cannot be done through a pure data-driven process. Hence, we have aimed to validate and refine the results by engaging stakeholders and residents through an interactive-mapping-enabled crowdsourcing approach. Click on the image below to watch a YouTube video that describe our crowdsourcing approach:
+
+[![Crowdsourcing community input for mobility hub planning](https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/MobilityHubCrowdsourcing.png)](https://www.youtube.com/watch?v=KqSUk5cCEII&ab_channel=Xiang%27Jacob%27Yan)
+
+  <br/>
+  <br/>
+
 - ### Conclusion
   
     In this project, we present a GIS-based analytical framework for identifying the most suitable locations for mobility hubs within the context of Gainesville, Florida. The proposed methodology is designed to evaluate and prioritize potential hub locations at different scales by assigning scores and weights to a variety of criteria. These criteria encompass essential factors such as transit supply availability, first-/last-mile connectivity, accessibility, road infrastructure, and socioeconomic equity. By integrating these criteria into a comprehensive evaluation process, this research aims to provide valuable insights and data-driven recommendations that will guide the strategic placement of mobility hubs in Gainesville, ultimately fostering a more efficient, equitable, and accessible urban transportation system.
@@ -78,6 +87,7 @@ Mobility hubs are physical locations that allow travelers to seamlessly switch b
 - ### Other Resources
 The mobility hub identification tool (including a set of ArcGIS toolbox and Python script) developed from the project can be downloaded by [clicking here](https://github.com/jacobyan0/Just-and-Green-Transportatiion-Lab/tree/main/Florida%20Mobility%20Hubs). Read more about the project: 
 - [ArcGIS Storymap](https://storymaps.arcgis.com/stories/9c56b17d9587428b8b4e323979576c67)
+- Webinar: https://www.youtube.com/watch?v=d0FJiCnMOS8&ab_channel=Xiang%27Jacob%27Yan
 - Final Report (coming soon)
 
 <br/>
