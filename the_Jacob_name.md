@@ -8,7 +8,7 @@ If you've ever wondered whether to call me "Xiang" or "Jacob," this post explain
 
 I have been using the name "Jacob" for many years. However, over the years, many people have asked me how to pronounce "Xiang" so they can call me by my real name. Some have even expressed feeling bad for not getting it quite right (I also apologize when I mispronounce others' names!). I decided to make this post when I saw Ray Delahanty, a YouTuber I really admire, noted the following when refering to my work:
 
-[<img align="" width="312" height="177" src="https://github.com/jacobyan0/jacobyan0.github.io/blob/ab69ea947be47492e70d1513d6c825b172c96c1e/images/photos/RayDelahanty.jpg" style="vertical-align:middle;margin: 8px 25px">](https://www.youtube.com/watch?v=aGjc-gsh834&ab_channel=RayDelahanty%7CCityNerd)
+[<img align="" width="312" height="177" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/RayDelahanty.jpg" style="vertical-align:middle;margin: 8px 25px">](https://www.youtube.com/watch?v=aGjc-gsh834&ab_channel=RayDelahanty%7CCityNerd)
 
 ## **The short answer** ##
 
