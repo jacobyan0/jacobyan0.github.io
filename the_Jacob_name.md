@@ -10,13 +10,10 @@ Over the years, many people have asked me how to pronounce "Xiang" so they can c
 
 [<img align="" width="312" height="177" src="https://github.com/jacobyan0/jacobyan0.github.io/blob/ab69ea947be47492e70d1513d6c825b172c96c1e/images/photos/RayDelahanty.jpg" style="vertical-align:middle;margin: 8px 25px">](https://www.youtube.com/watch?v=aGjc-gsh834&ab_channel=RayDelahanty%7CCityNerd)
 
-&nbsp;
-
 ## **The short answer** ##
 
 I prefer "Jacob" because it works better for me in professional and daily interactions. Since Mandarin pronunciation of my given name, "Xiang," is quite different from how non-Mandarin speakers typically say it, I sometimes don’t realize I’m being addressed.
 
-&nbsp;
 &nbsp;
 
 ## **The cultural reason** ##
