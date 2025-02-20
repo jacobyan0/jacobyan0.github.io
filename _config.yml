@@ -31,8 +31,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:xjacobyan@gmail.com"}
   - {title: GoogleScholar, icon: user-graduate, url: "https://scholar.google.com/citations?user=5A-NXMsAAAAJ&hl=en"}
-  - {title: RG, icon: researchgate, url: "https://www.researchgate.net/profile/Xiang-Yan-8"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/xiang-jacob-yan-3a526781/"}
+  - {title: ResearchGate, icon: researchgate, url: "https://www.researchgate.net/profile/Xiang-Yan-8"}
   #- {title: Twitter, icon: twitter-square, url: "https://twitter.com/JacobYan3"}
 
 comments:
