@@ -155,9 +155,11 @@ Jacob is the director of the Just&Green Transportation lab. Specializing in publ
 
 #### Luyu Liu (<a href="mailto:luyuliu@ufl.edu">luyuliu@ufl.edu</a>)
 #### Postdoc Associate in Civil and Coastal Engineering, University of Florida
+#### Placement: Assistant Professor, Auburn University
+
 &nbsp; 
 
-Luyu Liu joined Auburn University as an Assistant Professor. He received his Ph.D. degree in Geographic Information Science at The Ohio State University. His research focuses on promoting sustainable transportation and mobility equity with GIS and data science techniques.
+Luyu Liu received his Ph.D. degree in Geographic Information Science at The Ohio State University. His research focuses on promoting sustainable transportation and mobility equity with GIS and data science techniques.
 <br/>
 <br/>
 
@@ -195,6 +197,7 @@ Yuxuan Zhang graduated from the University of Florida with a master's in compute
 
 #### Tejaswi Polimetla (<a href="mailto:tpolimetla@ufl.edu">tpolimetla@ufl.edu</a>)
 #### Undergraduate student, Economics & Geography, University of Florida
+#### Placement: Master of Data Science Program, Harvard Unviersity
  
 &nbsp; 
 
@@ -290,6 +293,7 @@ Erik Huang is a PhD student at Northwestern University in Transportation Systems
 
 #### Zehui Yin (<a href="mailto:zehui.yin@mail.utoronto.ca">zehui.yin@mail.utoronto.ca</a>)
 #### Undergraduate student, Economics & GIS, University of Toronto
+#### Placement: PhD student, McMaster University
  
 &nbsp; 
 
