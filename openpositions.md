@@ -18,7 +18,7 @@ The position offers a competitive salary and benefits. This is a one-year appoin
 
 #### PhD Student Positions
 
-We are recruiting 1-2 fully-funded PhD students to join the Transportation Engineering program at the University of Florida for the Spring/Fall 2026 semester. Qualified candidates should have solid data analysis and programming (e.g., Python/R) skills and a strong interest in applying these skills to understand and solve transportation and urban issues. Students with knowledge in statistics/econometrics, machine learning/AI, and GIS are especially encouraged to apply. We welcome students from various educational backgrounds, including but not limited to, civil/transportation engineering, geography, computer science, statistics, and urban planning.
+We expect to recruit 1-2 fully-funded PhD students to join the Transportation Engineering program at the University of Florida for the Fall 2026 semester. Qualified candidates should have solid data analysis and programming (e.g., Python/R) skills and a strong interest in applying these skills to understand and solve transportation and urban issues. Students with knowledge in statistics/econometrics, machine learning/AI, and GIS are especially encouraged to apply. We welcome students from various educational backgrounds, including but not limited to, civil/transportation engineering, geography, computer science, statistics, and urban planning.
 &nbsp;
 
 The ideal candidates will work on developing Large Language Models and AI agents to address critical challenges in transportation and infrastructure systems. They may also study one or more of the following topics or related topics that fit their own interests: 
