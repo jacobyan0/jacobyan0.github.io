@@ -5,16 +5,17 @@ title: "About"
 
 
 
-My name is Xiang (Jacob) Yan ([learn more about my preferred name](https://jacobyan0.github.io//aboutmyname)). I am an Assistant Professor in the Department of Civil and Coastal Engineering at the University of Florida, where I lead the Just&Green Transportation Lab.
+My name is Xiang (Jacob) Yan ([learn more about my preferred name](https://jacobyan0.github.io//aboutmyname)). I am an Assistant Professor in the Department of Civil and Coastal Engineering at the University of Florida.
 
 [View](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jacobyan0/jacobyan0.github.io/master/Yan_CV.pdf) or [download](https://raw.githubusercontent.com/jacobyan0/jacobyan0.github.io/master/Yan_CV.pdf) CV.
 
-## Just&Green Transportation Lab
+## Our Lab
 
+<!---
 <img align="left" width="261" height="54" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Lab%20logo.jpg" style="vertical-align:middle;margin: 8px 25px"> 
+-->
 
-
-Our mission centers on the innovative and thoughtful application of data science and artificial intelligence to make transportation more equitable and sustainable. Bridging urban planning, data science, and transportation engineering, we take an interdisciplinary approach to transportation research that connects technological innovations with community needs. We work closely with public agencies and industry partners to develop intelligent decision-support tools that can help them better plan for and manage public transit systems and new mobility services (e.g., ridesharing, bike-sharing, and electric vehicles). 
+Our lab's work focuses on leveraging data-driven and AI-enabled methods to advance public transit and sustainable transportation systems. Bridging urban planning, data science, and transportation engineering, we take an interdisciplinary approach to transportation research that connects technological innovations with community needs. We work closely with public agencies and industry partners to develop intelligent decision-support tools that can help them better plan for and manage public transit systems and new mobility services (e.g., ridesharing, bike-sharing, and electric vehicles). 
 
 <!---<b>News!</b> TRB2023 is around the corner! [Click to see](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jacobyan0/jacobyan0.github.io/master/OtherFiles/TRB2023%20Just%20and%20Green%20Transportation%20Lab.pdf) the list of presentations by our lab.               -->
 
