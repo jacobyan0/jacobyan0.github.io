@@ -27,7 +27,7 @@ Our lab's work focuses on leveraging data-driven and AI-enabled methods to advan
 * [Machine learning & AI](https://jacobyan0.github.io/aibigdata/)
 * [Spatial big data](https://jacobyan0.github.io/aibigdata/)
 * [Public transit & shared mobility](https://jacobyan0.github.io/transitnewmobility/)
-* [Transport equity](https://jacobyan0.github.io/equity/)
+<!--- * [Transport equity](https://jacobyan0.github.io/equity/)  -->
 * [Spatial accessibility](https://jacobyan0.github.io/accessibility/)
 * [Travel behavior](https://jacobyan0.github.io/travelbehavior/)
 * [Transportation & community resilience](https://jacobyan0.github.io/resilience/)
