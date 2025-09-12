@@ -33,7 +33,7 @@ Yiheng Qian received his BE degree from Tongji University and his MS degree from
 <br/>
 <br/>
 
-<img align="left" width="250" height="275" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/SuhailAsghar.jpg" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="275" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/SuhailAsghar.JPG" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Suhail Asghar
 #### Ph.D. student in Transportation Engineering, University of Florida
