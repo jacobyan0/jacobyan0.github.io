@@ -15,7 +15,7 @@ My name is Xiang (Jacob) Yan ([learn more about my preferred name](https://jacob
 <img align="left" width="261" height="54" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Lab%20logo.jpg" style="vertical-align:middle;margin: 8px 25px"> 
 -->
 
-Our lab's work focuses on leveraging data-driven and AI-enabled methods to advance public transit and sustainable transportation systems. Bridging urban planning, data science, and transportation engineering, we take an interdisciplinary approach to transportation research that connects technological innovations with community needs. We work closely with public agencies and industry partners to develop intelligent decision-support tools that can help them better plan for and manage public transit systems and new mobility services (e.g., ridesharing, bike-sharing, and electric vehicles). 
+Our lab's work focuses on leveraging data-driven and AI-enabled methods to advance public transit and sustainable transportation systems. Bridging urban planning, data science, and transportation engineering, we take an interdisciplinary approach to transportation research that connects technological innovations with community needs. We work closely with public agencies, community organizations, and industry partners to develop intelligent decision-support tools that can help them better plan for and manage public transit, active transportation, and new mobility systems. 
 
 <!---<b>News!</b> TRB2023 is around the corner! [Click to see](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jacobyan0/jacobyan0.github.io/master/OtherFiles/TRB2023%20Just%20and%20Green%20Transportation%20Lab.pdf) the list of presentations by our lab.               -->
 
