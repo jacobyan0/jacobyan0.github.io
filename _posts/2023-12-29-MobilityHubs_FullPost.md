@@ -83,6 +83,10 @@ We believe that mobility hub planning cannot be done through a pure data-driven 
 <br/>
 <br/>
 
+- ### Recommended Citation
+Duarte, E., Lyu, D., Zheng, A., Merlin, L.A., Gladwin, K., Renne, J., Hoermann, S., Yan, X. (2026). A Multicriteria Analytical Framework for Site Selection of Mobility Hubs. Transportation Research Record: Journal of the Transportation Research Board. https://doi.org/10.1177/03611981261448539
+
+<br/>
 
 - ### Other Resources
 The mobility hub identification tool (including a set of ArcGIS toolbox and Python script) developed from the project can be downloaded by [clicking here](https://github.com/jacobyan0/Just-and-Green-Transportatiion-Lab/tree/main/Florida%20Mobility%20Hubs). Read more about the project: 
