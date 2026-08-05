@@ -7,7 +7,7 @@ title: "About"
 
 My name is Xiang (Jacob) Yan ([learn more about my preferred name](https://jacobyan0.github.io//aboutmyname)). I am an Assistant Professor in the Department of Civil and Coastal Engineering at the University of Florida.
 
-[View my CV](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jacobyan0/jacobyan0.github.io/master/Yan_CV.pdf) or [download my CV](https://raw.githubusercontent.com/jacobyan0/jacobyan0.github.io/master/Yan_CV.pdf) CV.
+[View my CV](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jacobyan0/jacobyan0.github.io/master/Yan_CV.pdf) or [download my CV](https://raw.githubusercontent.com/jacobyan0/jacobyan0.github.io/master/Yan_CV.pdf).
 
 ## Our Lab
 
