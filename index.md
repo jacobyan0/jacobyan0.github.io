@@ -7,7 +7,7 @@ title: "About"
 
 My name is Xiang (Jacob) Yan ([learn more about my preferred name](https://jacobyan0.github.io//aboutmyname)). I am an Assistant Professor in the Department of Civil and Coastal Engineering at the University of Florida.
 
-[View](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jacobyan0/jacobyan0.github.io/master/Yan_CV.pdf) or [download](https://raw.githubusercontent.com/jacobyan0/jacobyan0.github.io/master/Yan_CV.pdf) CV.
+[View my CV](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jacobyan0/jacobyan0.github.io/master/Yan_CV.pdf) or [download my CV](https://raw.githubusercontent.com/jacobyan0/jacobyan0.github.io/master/Yan_CV.pdf) CV.
 
 ## Our Lab
 
@@ -22,7 +22,7 @@ Our lab's work focuses on leveraging novel data and emerging AI methods to advan
 ## Areas of Focus
 
 
-<img align="right" width="210" height="210" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Headshot_Yan.jpg" style="vertical-align:middle"> 
+<img align="right" width="210" height="210" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Headshot_Yan.jpg" alt="Portrait of Xiang Jacob Yan" style="vertical-align:middle">
 
 * [Machine learning & AI](https://jacobyan0.github.io/aibigdata/)
 * [Spatial big data](https://jacobyan0.github.io/aibigdata/)
@@ -33,10 +33,10 @@ Our lab's work focuses on leveraging novel data and emerging AI methods to advan
 
 <!--- * [Transport equity](https://jacobyan0.github.io/equity/)  -->
 
-## The Annual Research-to-Practice Transit Symsposium
+## The Annual Research-to-Practice Transit Symposium
 
 Since 2020, I have co-led with Chad Riding at the California Department of Transportation to organize the Annual Research-to-Practice Transit Symposium, in collaboration with many other partners such as APTA, the Mineta Transportation Institute, and UC Davis. The symposium provides a platform where transit researchers and practitioners share insights on how evidence-based research is used to inform transit planning and operations. The event is live-streamed on YouTube and accessible to the public at no cost. It attracts hundreds of participants annually, with the number consistently increasing each year.
 
-[Click here](https://www.transportation.institute.ufl.edu/news-and-events/annual-research-to-practice-transit-symposium/) to learn more.
+[Learn more about the Annual Research-to-Practice Transit Symposium](https://www.transportation.institute.ufl.edu/news-and-events/annual-research-to-practice-transit-symposium/).
 
-<img align="center" width="968" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/R2PTransitSymposium.png" style="vertical-align:middle;margin:15px 15px"/> 
+<img align="center" width="968" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/R2PTransitSymposium.png" alt="Posters for past Research-to-Practice Transit Symposium events" style="vertical-align:middle;margin:15px 15px"/>
