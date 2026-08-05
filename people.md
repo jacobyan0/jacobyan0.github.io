@@ -9,20 +9,20 @@ The Just&Green Transportation Lab focuses on using data science and artificial i
 ## Ph.D. Students
 
 
-<img align="left" width="250" height="328" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/DuanyaLyu.jpg" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="328" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/DuanyaLyu.jpg" alt="Portrait of Duanya Lyu" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Duanya Lyu 
 #### Ph.D. student in Transportation Engineering, University of Florida
 &nbsp; 
 
-Duanya Lyu received her M.E. and B.E. degrees in traffic engineering from South China University of Technology. Her research interests include transportation equity, sustainability, and spatial data analysis. Beyond academia, she finds relaxation in practicing yoga.
+Duanya Lyu received her M.S. and B.S. degrees in traffic engineering from South China University of Technology. Her research interests include transportation equity, sustainability, and spatial data analysis.
 <br/>
 <br/>
 <br/>
 <br/>
 <br/>
 
-<img align="left" width="250" height="286" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/YihengQian.jpg" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="286" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/YihengQian.jpg" alt="Portrait of Yiheng Qian" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Yiheng Qian 
 #### Ph.D. student in Transportation Engineering, University of Florida
@@ -33,7 +33,7 @@ Yiheng Qian received his BE degree from Tongji University and his MS degree from
 <br/>
 <br/>
 
-<img align="left" width="250" height="275" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/SuhailAsghar.JPG" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="275" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/SuhailAsghar.jpg" alt="Portrait of Suhail Asghar" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Suhail Asghar
 #### Ph.D. student in Transportation Engineering, University of Florida
@@ -47,7 +47,7 @@ Suhail Asghar received his M.S. in Civil Engineering from Penn State University 
 ## Master's Students
 
 
-<img align="left" width="250" height="319" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/KaiyueWang.jpg" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="319" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/KaiyueWang.jpg" alt="Portrait of Kaiyue Wang" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Kaiyue Wang
 #### Master's student in Computer Science, University of Florida
@@ -62,7 +62,7 @@ Kaiyue Wang graduated from the University of Florida with a master’s in comput
 <br/>
 &nbsp; 
 
-<img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/YilongDai.jpg" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/YilongDai.jpg" alt="Portrait of Yilong Dai" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Yilong Dai 
 #### Master's student in Computer Science, University of Florida
@@ -77,7 +77,7 @@ Yilong Dai is a Master student in the department of Computer Science at Universi
 
 ## Undergrad Students
 
-<img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ElianaDuarte.jpg" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ElianaDuarte.jpg" alt="Portrait of Eliana Duarte" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Eliana Duarte 
 #### Undergraduate student, University of Florida
@@ -90,7 +90,7 @@ Eliana Duarte is an undergraduate student at the University of Florida pursuing 
 <br/>
 
 
-<img align="left" width="250" height="333" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/MateoNader.jpg" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="333" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/MateoNader.jpg" alt="Portrait of Mateo Nader" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Mateo Nader 
 #### Undergraduate student, University of Florida
@@ -105,7 +105,7 @@ Mateo Nader is an undergraduate student at the University of Florida pursuing a 
 <br/>
 
 
-<img align="left" width="250" height="248" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/KseniaVelichko.jpeg" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="248" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/KseniaVelichko.jpeg" alt="Portrait of Ksenia Velichko" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Ksenia Velichko 
 #### Undergraduate student, University of Florida
@@ -117,7 +117,7 @@ Ksenia Velichko is a senior undergraduate student at the University of Florida p
 &nbsp; 
 <br/>
 
-<img align="left" width="250" height="313" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AubreyDolbeck.jpg" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="313" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AubreyDolbeck.jpg" alt="Portrait of Aubrey Dolbeck" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Aubrey Dolbeck 
 #### Undergraduate student, University of Florida
@@ -137,7 +137,7 @@ Aubrey is a senior at the University of Florida majoring in Geography with speci
 
 ## Lab Director
 
-<img align="left" width="250" height="306" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/XiangYan.jpg" style="vertical-align:middle;margin: 0px 17px"> 
+<img align="left" width="250" height="306" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/XiangYan.jpg" alt="Portrait of Xiang Jacob Yan" style="vertical-align:middle;margin: 0px 17px"> 
 
 #### Xiang 'Jacob' Yan 
 #### Assistant Professor in Transportation Engineering, University of Florida
@@ -152,8 +152,8 @@ Jacob is the director of the Just&Green Transportation lab. Specializing in publ
 
 ## Former Lab Members
 
-## Postdoc Associate
-<img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/LuyuLiu.jpg" style="vertical-align:left;margin: 0px 17px"> 
+### Postdoc Associate
+<img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/LuyuLiu.jpg" alt="Portrait of Luyu Liu" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Luyu Liu 
 #### Postdoc Associate in Civil and Coastal Engineering, University of Florida
@@ -166,7 +166,7 @@ Luyu Liu received his Ph.D. degree in Geographic Information Science at The Ohio
 <br/>
 
 
-<img align="left" width="250" height="336" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Pedro.jpg" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="336" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Pedro.jpg" alt="Portrait of Pedro Henrique Vicentini-Silva" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Pedro Henrique Vicentini-Silva 
 #### Visiting student, University of Florida
@@ -180,7 +180,7 @@ Pedro Henrique Vicentini-Silva is an undergraduate student in civil engineering 
 <br/>
 <br/>
 
-<img align="left" width="250" height="316" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/YuxuanZhang.jpg" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="316" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/YuxuanZhang.jpg" alt="Portrait of Yuxuan Zhang" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Yuxuan Zhang 
 #### Master's student in Computer Science, University of Florida
@@ -195,11 +195,11 @@ Yuxuan Zhang graduated from the University of Florida with a master's in compute
 <br/>
 <br/>
 
-<img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Tejaswi.png" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/Tejaswi.png" alt="Portrait of Tejaswi Polimetla" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Tejaswi Polimetla 
 #### Undergraduate student, Economics & Geography, University of Florida
-#### Placement: Master of Data Science Program, Harvard Unviersity
+#### Placement: Master of Data Science Program, Harvard University
  
 &nbsp; 
 
@@ -209,7 +209,7 @@ Tejaswi Polimetla is an undergraduate student at the University of Florida and i
 <br/>
 
 
-<img align="left" width="250" height="263" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AnranZheng.jpeg" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="263" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AnranZheng.jpeg"  alt="Portrait of Anran Zheng" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Anran Zheng 
 #### Master's student, Transportation Engineering, University of Florida
@@ -223,7 +223,7 @@ Anran Zheng was a master's student in the Department of Civil and Coastal Engine
 <br/>
 <br/>
 
-<img align="left" width="250" height="334" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ShoujingKe.jpg" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="334" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ShoujingKe.jpg" alt="Portrait of Shoujing Ke" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Shoujing Ke 
 #### Undergraduate student, Computer Science, University of Florida
@@ -238,7 +238,7 @@ Shoujing Ke was an undergraduate student at University of Florida majoring in Co
 <br/>
 
 
-<img align="left" width="250" height="316" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/RuoyangXiong.jpg" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="316" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/RuoyangXiong.jpg" alt="Portrait of Ruoyang Xiong" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Ruoyang Xiong 
 #### Master's student in Computer Science, University of Florida
@@ -252,7 +252,7 @@ Ruoyang Xiong graduated from the University of Florida with a master’s in comp
 
 
 
-<img align="left" width="250" height="258" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AmayPatel.jpg" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="258" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/AmayPatel.jpg" alt="Portrait of Amay Patel" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Amay Patel 
 #### Undergraduate student, Computer Science, University of Florida
@@ -265,7 +265,7 @@ Amay Patel is an undergraduate student at the University of Florida and is curre
 <br/>
 
 
-<img align="left" width="250" height="302" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/LinSu.jpg" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="302" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/LinSu.jpg" alt="Portrait of Lin Su" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Lin Su 
 #### Master's student in Transportation Engineering, University of Florida
@@ -278,7 +278,7 @@ Lin Su is currently a PhD in Civil, Architectural, and Environmental Engineering
 <br/>
 
 
-<img align="left" width="250" height="313" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ErikHuang.png" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="313" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ErikHuang.png" alt="Portrait of Erik Huang" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Erik Huang 
 #### Undergraduate student, Transportation Engineering University of Florida
@@ -291,7 +291,7 @@ Erik Huang is a PhD student at Northwestern University in Transportation Systems
 <br/>
 <br/>
 
-<img align="left" width="250" height="332" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ZehuiYin.jpg" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="332" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/ZehuiYin.jpg" alt="Portrait of Zehui Yin" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Zehui Yin 
 #### Undergraduate student, Economics & GIS, University of Toronto
@@ -304,7 +304,7 @@ Zehui Yin is an undergraduate student at the University of Toronto Scarborough m
 &nbsp; 
 <br/><br/>
 
-<img align="left" width="250" height="312" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/FaizurHimel.jpg" style="vertical-align:left;margin: 0px 17px"> 
+<img align="left" width="250" height="312" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/photos/FaizurHimel.jpg" alt="Portrait of Faizur Rahman Himel" style="vertical-align:left;margin: 0px 17px"> 
 
 #### Faizur Rahman Himel 
 #### M.S. student in Transportation Engineering, University of Florida
