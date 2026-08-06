@@ -83,8 +83,8 @@ We believe that mobility hub planning cannot be done through a purely data-drive
   
 In this project, we present a GIS-based analytical framework for identifying the most suitable locations for mobility hubs within the context of Gainesville, Florida. The proposed methodology is designed to evaluate and prioritize potential hub locations at different scales by assigning scores and weights to a variety of criteria. These criteria encompass essential factors such as transit supply availability, first-/last-mile connectivity, accessibility, road infrastructure, and socioeconomic equity. By integrating these criteria into a comprehensive evaluation process, this research aims to provide valuable insights and data-driven recommendations that will guide the strategic placement of mobility hubs in Gainesville, ultimately fostering a more efficient, equitable, and accessible urban transportation system.
 
-	<br/>
-	<br/>
+  <br/>
+  <br/>
 
 ### Recommended Citation
 Duarte, E., Lyu, D., Zheng, A., Merlin, L.A., Gladwin, K., Renne, J., Hoermann, S., Yan, X. (2026). A Multicriteria Analytical Framework for Site Selection of Mobility Hubs. Transportation Research Record: Journal of the Transportation Research Board. https://doi.org/10.1177/03611981261448539
