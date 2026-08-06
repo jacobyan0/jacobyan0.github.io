@@ -41,11 +41,11 @@ Mobility hubs are physical locations that allow travelers to seamlessly switch b
 <br/>
 
 ### Data sources
-    1. Transit Data: Gainesville Regional Transit System (RTS) provides information on bus routes and stops through the General Transit Feed Specification (GTFS) dataset. RTS also provides bus ridership data, including passenger counts and on-board wheelchair and bicycle amounts.
-    2. FM/LM Connectivity Data: Micromobility trip data, covering e-scooter and micro-transit trips, is collected from the City of Gainesville. Census block-level FM/LM gap scores are derived from the American Community Survey (ACS) and LEHD Origin-Destination Employment Statistics (LODES).
-    3. Infrastructure Data: Intersection density data, indicating multi-modal and pedestrian-oriented facilities, is sourced from the Smart Location Database. Road infrastructure data is collected from OpenStreetMap (OSM), offering detailed information about road networks.
-    4. Socioeconomic Data: Demographic variables related to population, race, age, income, and vehicle ownership are considered for socioeconomic analysis and are sourced from ACS.
-    5. Accessibility Data: Smart Location Database provides data on destination accessibility via auto or transit. Walkability around bus stops is evaluated using walk scores obtained from the Walkscore API.
+1. Transit Data: Gainesville Regional Transit System (RTS) provides information on bus routes and stops through the General Transit Feed Specification (GTFS) dataset. RTS also provides bus ridership data, including passenger counts and on-board wheelchair and bicycle amounts.
+2. FM/LM Connectivity Data: Micromobility trip data, covering e-scooter and micro-transit trips, is collected from the City of Gainesville. Census block-level FM/LM gap scores are derived from the American Community Survey (ACS) and LEHD Origin-Destination Employment Statistics (LODES).
+3. Infrastructure Data: Intersection density data, indicating multi-modal and pedestrian-oriented facilities, is sourced from the Smart Location Database. Road infrastructure data is collected from OpenStreetMap (OSM), offering detailed information about road networks.
+4. Socioeconomic Data: Demographic variables related to population, race, age, income, and vehicle ownership are considered for socioeconomic analysis and are sourced from ACS.
+5. Accessibility Data: Smart Location Database provides data on destination accessibility via auto or transit. Walkability around bus stops is evaluated using walk scores obtained from the Walkscore API.
 
 <br/>
 
