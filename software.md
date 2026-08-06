@@ -3,29 +3,29 @@ layout: page
 title: "Data and Software"
 ---
 
-The Just & Green Transportation Lab supports open science. This web page will be constantly updated as more research results from the lab become avilable. If you find the codes, data, or other products to be useful, please kindly cite the publication listed under each product.
+The Just & Green Transportation Lab supports open science. This web page will be constantly updated as more research results from the lab become available. If you find the codes, data, or other products to be useful, please kindly cite the publication listed under each product.
 
 &nbsp;
 
 
 ## Software code
-[1] Scrapping General Bikeshare Feed Specification (GBFS) data from public APIs: Python code ([Download](https://github.com/jacobyan0/jacobyan0.github.io/blob/master/Sharing/GBFS%20data%20extraction.zip?raw=true))
+[1] Scraping General Bikeshare Feed Specification (GBFS) data from public APIs: Python code ([Download the GBFS data extraction Python code](https://github.com/jacobyan0/jacobyan0.github.io/blob/master/Sharing/GBFS%20data%20extraction.zip?raw=true))
 
 _Related citation_: <br/>
-Xu, Y., Yan, X., Sisiopiku, V. P., Merlin, L. A., Xing, F., & Zhao, X. (2022). [Micromobility trip origin and destination inference using general bikeshare feed specification data](https://doi.org/10.1177/03611981221092005). _Transportation Research Record_, 2676(11), 223-238.
+Xu, Y., Yan, X., Sisiopiku, V. P., Merlin, L. A., Xing, F., & Zhao, X. (2022). Micromobility trip origin and destination inference using general bikeshare feed specification data, https://doi.org/10.1177/03611981221092005. _Transportation Research Record_, 2676(11), 223-238.
 
 
-[2] Mobility Hub Planning Tool: Python code and ArcGIS Toolbox ([Download](https://github.com/jacobyan0/Just-and-Green-Transportatiion-Lab/tree/main/Florida%20Mobility%20Hubs)) 
+[2] Mobility Hub Planning Tool: Python code and ArcGIS Toolbox ([Download the Mobility Hub Planning Tool](https://github.com/jacobyan0/Just-and-Green-Transportatiion-Lab/tree/main/Florida%20Mobility%20Hubs)) 
 
 
 &nbsp;
 &nbsp;
 
 ## Data
-[1] Sample General Bikeshare Feed Specification (GBFS) data ([Download](https://github.com/jacobyan0/jacobyan0.github.io/blob/master/Sharing/Washington%20DC_GBFS.zip?raw=true)) obtained from public APIs. Please contact us if you need access to the full dataset.
+[1] Sample General Bikeshare Feed Specification (GBFS) data ([Download the sample GBFS dataset](https://github.com/jacobyan0/jacobyan0.github.io/blob/master/Sharing/Washington%20DC_GBFS.zip?raw=true)) obtained from public APIs. Please contact us if you need access to the full dataset.
 
 _Related citation_:<br/>
-Yan, X., Yang, W., Zhang, X., Xu, Y., Bejleri, I., & Zhao, X. (2021). [A spatiotemporal analysis of e-scooters’ relationships with transit and station-based bikeshare](https://doi.org/10.1016/j.trd.2021.103088). Transportation research part D: transport and environment, 101, 103088.
+Yan, X., Yang, W., Zhang, X., Xu, Y., Bejleri, I., & Zhao, X. (2021). A spatiotemporal analysis of e-scooters’ relationships with transit and station-based bikeshare, https://doi.org/10.1016/j.trd.2021.103088. _Transportation research part D: transport and environment_, 101, 103088.
 
 &nbsp;
 &nbsp;
@@ -34,9 +34,10 @@ Yan, X., Yang, W., Zhang, X., Xu, Y., Bejleri, I., & Zhao, X. (2021). [A spatiot
 
 [1] Micromobility Analytics and Management Platform 
 
- <a href="https://www.youtube.com/embed/s4ABfMFuq9g" target="_blank">
- <img src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Platform.jpg" alt="Watch the video" width="960" height="460" />
-</a>
+[Watch a 3-min demo](https://www.youtube.com/watch?v=s4ABfMFuq9g). 
+
+<img align="center" width="800" height="400" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/Platform.jpg" alt="Screenshot of the micromobility analytics and management platform. " style="vertical-align:middle;margin:15px 15px"> 
+
 
 &nbsp;
 _Related citation_:<br/>
@@ -47,7 +48,7 @@ Yan, X., Yang, W., Zhang, X., Xu, Y., Bejleri, I., Zhao, X. (2021). <ins>A spati
 
 [2] Transit On-time Performance Dashboard
 
-<img align="left" width="960" height="528" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/MDT_OnTimePerformance.png" style="vertical-align:left;margin: 0px 10px" />
+<img align="left" width="960" height="528" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/Other/MDT_OnTimePerformance.png" alt="Screenshot of the transit on-time performance dashboard. " style="vertical-align:left;margin: 0px 10px" />
 
 &nbsp;
 <br/>
@@ -55,10 +56,10 @@ Yan, X., Yang, W., Zhang, X., Xu, Y., Bejleri, I., Zhao, X. (2021). <ins>A spati
 
 
 ## Survey instrument
-[1] Transit and share micromobility survey questionnaire ([Download](https://github.com/jacobyan0/jacobyan0.github.io/blob/master/Sharing/Transit%20and%20shared%20micromobility%20survey.docx?raw=true))
+[1] Transit and shared micromobility survey questionnaire ([Download the survey questionnaire](https://github.com/jacobyan0/jacobyan0.github.io/blob/master/Sharing/Transit%20and%20shared%20micromobility%20survey.docx?raw=true))
 
 _Related citation_: <br/>
-Yan, X., Zhao, X., Broaddus, A., Johnson, J., & Srinivasan, S. (2023). [Evaluating shared e-scooters’ potential to enhance public transit and reduce driving](https://doi.org/10.1016/j.trd.2023.103640). _Transportation Research Part D: Transport and Environment_, 117, 103640.
+Yan, X., Zhao, X., Broaddus, A., Johnson, J., & Srinivasan, S. (2023). Evaluating shared e-scooters’ potential to enhance public transit and reduce driving, https://doi.org/10.1016/j.trd.2023.103640. _Transportation Research Part D: Transport and Environment_, 117, 103640.
 
 &nbsp;
 &nbsp;
