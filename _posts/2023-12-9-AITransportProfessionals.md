@@ -8,7 +8,7 @@ categories:
 ---
 
 
-<img align="left" width="350" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/AI_TransportationProfessionals.png" alt="Illustration of AI applications in transportation' perceptions of AI impacts on equity and efficiency" style="vertical-align:middle;margin:15px 15px"/> As AI is increasingly used in transportation, it is important to understand how transportation professionals, the driving force behind AI transportation applications, perceive AI's potential efficiency and equity impacts. We surveyed 354 transportation professionals in the United States and conducted descriptive analysis and latent class cluster analysis based on the collected data.
+<img align="left" width="350" height="250" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/AI_TransportationProfessionals.png" alt="Illustration of AI applications in transportation' perceptions of AI impacts on equity and efficiency. " style="vertical-align:middle;margin:15px 15px"/> As AI is increasingly used in transportation, it is important to understand how transportation professionals, the driving force behind AI transportation applications, perceive AI's potential efficiency and equity impacts. We surveyed 354 transportation professionals in the United States and conducted descriptive analysis and latent class cluster analysis based on the collected data.
 
 *Key words: AI, transportation, equity, latent class cluster analysis*
 

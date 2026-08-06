@@ -9,7 +9,7 @@ categories:
 ---
 
 
-<img align="left" width="450" height="275" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/GPS_evacuation.png" alt="Map-based illustration of wildfire evacuation behavior analysis using GPS data" style="vertical-align:middle;margin:15px 15px"> With increased frequency and intensity due to climate change, wildfires have become a growing global concern. This study proposes a new methodology to analyze human behavior during wildfires by leveraging a large-scale GPS dataset. This methodology includes a home-location inference algorithm and an evacuation-behavior inference algorithm, to systematically identify different groups of wildfire evacuees (i.e., self-evacuee, shadow evacuee, evacuee under warning, and ordered evacuee).
+<img align="left" width="450" height="275" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/GPS_evacuation.png" alt="Map-based illustration of wildfire evacuation behavior analysis using GPS data. " style="vertical-align:middle;margin:15px 15px"> With increased frequency and intensity due to climate change, wildfires have become a growing global concern. This study proposes a new methodology to analyze human behavior during wildfires by leveraging a large-scale GPS dataset. This methodology includes a home-location inference algorithm and an evacuation-behavior inference algorithm, to systematically identify different groups of wildfire evacuees (i.e., self-evacuee, shadow evacuee, evacuee under warning, and ordered evacuee).
 
 *Key words: wildfire, GPS data, evacuation, human behavior*
 
