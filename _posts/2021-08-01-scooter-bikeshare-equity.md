@@ -8,7 +8,7 @@ categories:
 ---
 
 
-<img align="left" width="470" height="475" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/ScooterGPS.gif" alt="Animated map visualization of shared micromobility vehicle locations using GPS data" style="vertical-align:middle;margin:15px 15px"> We develop an analytical framework to examine how dockless e-scooter and station-based bikesharing differ regarding a set of equity-related outcomes (i.e., availability, accessibility, usage, and idle time) across neighborhoods in different socioeconomic categories. An analysis of idle time is made possible by the availability of the GBFS data, a new source of open big data. The analysis of idle time can shed light on if improving spatial access to shared micromobility vehicles in low-income communities can effectively promote micromobility use in these areas.
+<img align="left" width="470" height="475" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/ScooterGPS.gif" alt="Animated map visualization of shared micromobility vehicle locations using GPS data. " style="vertical-align:middle;margin:15px 15px"> We develop an analytical framework to examine how dockless e-scooter and station-based bikesharing differ regarding a set of equity-related outcomes (i.e., availability, accessibility, usage, and idle time) across neighborhoods in different socioeconomic categories. An analysis of idle time is made possible by the availability of the GBFS data, a new source of open big data. The analysis of idle time can shed light on if improving spatial access to shared micromobility vehicles in low-income communities can effectively promote micromobility use in these areas.
 
 *Key words: E-scooter, bikeshare, micromobility equity*
 

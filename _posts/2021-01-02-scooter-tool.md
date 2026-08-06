@@ -10,11 +10,11 @@ We a crowdsourcing platform that have two main functions [[watch a 3-min demo](h
 
 1) It allows residents to report micromobility-related safety incidents (i.e., crashes and near-misses).
 
-<img align="center" width="800" height="400" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/CrowdsourcingApp.png" alt="Screenshot of a crowdsourcing app for reporting micromobility safety incidents" style="vertical-align:middle;margin:15px 15px"> 
+<img align="center" width="800" height="400" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/CrowdsourcingApp.png" alt="Screenshot of a crowdsourcing app for reporting micromobility safety incidents. " style="vertical-align:middle;margin:15px 15px"> 
 
 2) It allows city transportation staff to conduct analytics regarding e-scooter parking and usage patterns.
 
-<img align="center" width="800" height="400" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/AnalyticsPlatform.png" alt="Screenshot of a micromobility analytics dashboard for e-scooter usage patterns" style="vertical-align:middle;margin:15px 15px"> 
+<img align="center" width="800" height="400" src="https://github.com/jacobyan0/jacobyan0.github.io/raw/master/images/AnalyticsPlatform.png" alt="Screenshot of a micromobility analytics dashboard for e-scooter usage patterns. " style="vertical-align:middle;margin:15px 15px"> 
 
 
 *Key words: micromobility, crowdsourcing, data dashboard*
