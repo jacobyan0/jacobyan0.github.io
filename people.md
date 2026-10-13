@@ -6,7 +6,7 @@ permalink: /people/
 
 The Just&Green Transportation Lab focuses on using data science and artificial intelligence (machine learning) to make transportation more equitable and sustainable. Our interdisciplinary team is made up of people from various fields such as Transportation Engineering, Computer Science, Statistics, Urban and Regional Planning, Geography, and Economics.
 
-(Last updated, Summer 2025)
+(Last updated: Summer 2025)
 
 ## Ph.D. Students
 
